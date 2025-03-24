@@ -1,0 +1,777 @@
+Museum_Name,Address,City,State,PIN_Code,Opening_Hours,Closing_Hours,Contact_Email,Phone_Number,Full_Address,Latitude,Longitude
+National Museum,Janpath,New Delhi,Delhi,110011,10:00 AM,6:00 PM,nationalmuseumindia@gmail.com,+91-11-23019272,"Janpath, New Delhi, Delhi, 110011",28.6077161,77.2179713
+Indian Museum,27 Jawaharlal Nehru Rd,Kolkata,West Bengal,700016,10:00 AM,5:00 PM,indianmuseum@gmail.com,+91-33-22862883,"27 Jawaharlal Nehru Rd, Kolkata, West Bengal, 700016",22.557815,88.3511674
+Salar Jung Museum,Salar Jung Road,Hyderabad,Telangana,500002,10:00 AM,5:00 PM,salarjungmuseum@gmail.com,+91-40-24523211,"Salar Jung Road, Hyderabad, Telangana, 500002",17.3718025,78.4795975
+National Gallery of Modern Art,Sir Cowasji Jahangir Public Hall,Mumbai,Maharashtra,400032,11:00 AM,6:00 PM,ngma.mumbai@gmail.com,+91-22-22881969,"Sir Cowasji Jahangir Public Hall, Mumbai, Maharashtra, 400032",18.9257572,72.8314809
+Government Museum,Pantheon Road,Chennai,Tamil Nadu,600008,9:30 AM,5:00 PM,govtmuseumchennai@gmail.com,+91-44-28193238,"Pantheon Road, Chennai, Tamil Nadu, 600008",13.0721938,80.2598699
+Calico Museum of Textiles,Sarabhai Foundation,Ahmedabad,Gujarat,380004,10:30 AM,5:30 PM,info@calicomuseum.org,+91-79-27546172,"Sarabhai Foundation, Ahmedabad, Gujarat, 380004",23.0560932,72.5961666
+Napier Museum,LMS Vellayambalam Rd,Thiruvananthapuram,Kerala,695033,10:00 AM,5:00 PM,napiermuseum@kerala.gov.in,+91-471-2315342,"LMS Vellayambalam Rd, Thiruvananthapuram, Kerala, 695033",8.5090834,76.9565984
+Albert Hall Museum,Ram Niwas Garden,Jaipur,Rajasthan,302004,9:00 AM,5:30 PM,alberthalljaipur@gmail.com,+91-141-2570099,"Ram Niwas Garden, Jaipur, Rajasthan, 302004",26.9134178,75.82071069999999
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,159-161 Mahatma Gandhi Road,Mumbai,Maharashtra,400023,10:15 AM,6:00 PM,csmvsmumbai@gmail.com,+91-22-22844484,"159-161 Mahatma Gandhi Road, Mumbai, Maharashtra, 400023",18.9270318,72.83236699999999
+National Rail Museum,Chanakyapuri,New Delhi,Delhi,110021,9:30 AM,5:30 PM,nrm.india@gmail.com,+91-11-26881816,"Chanakyapuri, New Delhi, Delhi, 110021",28.5972383,77.1904041
+Archaeological Museum,Hill Fort Road,Hyderabad,Telangana,500063,10:00 AM,5:00 PM,archaeologicalmuseumhyd@gmail.com,+91-40-24732341,"Hill Fort Road, Hyderabad, Telangana, 500063",17.4043861,78.4724227
+Victoria Memorial Hall,1 Queen's Way,Kolkata,West Bengal,700071,10:00 AM,5:00 PM,victoriamemorial@gmail.com,+91-33-22223929,"1 Queen's Way, Kolkata, West Bengal, 700071",22.5459609,88.3478494
+Raja Dinkar Kelkar Museum,1377-78 Natu Baag,Pune,Maharashtra,411002,9:30 AM,5:30 PM,kelkarmuseum@gmail.com,+91-20-24482101,"1377-78 Natu Baag, Pune, Maharashtra, 411002",18.5091507,73.8547709
+Nehru Science Centre,Dr. E. Moses Road,Mumbai,Maharashtra,400018,9:30 AM,6:00 PM,info@nehrusciencecentre.gov.in,+91-22-24932667,"Dr. E. Moses Road, Mumbai, Maharashtra, 400018",18.9803106,72.8165556
+Gandhi Museum,Gandhi Nagar,Madurai,Tamil Nadu,625020,10:00 AM,5:30 PM,gandhi.museum@gmail.com,+91-452-2531060,"Gandhi Nagar, Madurai, Tamil Nadu, 625020",9.923988999999999,78.1400524
+City Palace Museum,City Palace Complex,Udaipur,Rajasthan,313001,9:30 AM,5:30 PM,museum@citypalace.org,+91-294-2419021,"City Palace Complex, Udaipur, Rajasthan, 313001",24.5764421,73.6835109
+Maharaja Sawai Man Singh II Museum,City Palace,Jaipur,Rajasthan,302002,9:30 AM,5:00 PM,info@royaljaipur.gov.in,+91-141-4088888,"City Palace, Jaipur, Rajasthan, 302002",26.9257943,75.8236714
+Crafts Museum,Bhairon Road,New Delhi,Delhi,110001,10:00 AM,5:30 PM,craftsmuseum@gmail.com,+91-11-23371887,"Bhairon Road, New Delhi, Delhi, 110001",28.6122869,77.2466194
+Bihar Museum,Bailey Road,Patna,Bihar,800001,10:00 AM,5:00 PM,biharmuseum@gmail.com,+91-612-2219306,"Bailey Road, Patna, Bihar, 800001",25.6064316,85.11587
+Virasat-e-Khalsa,Anandpur Sahib,Ropar,Punjab,140118,10:00 AM,6:00 PM,virasatekhalsa@gmail.com,+91-1887-232654,"Anandpur Sahib, Ropar, Punjab, 140118",31.2355318,76.5012734
+State Museum Lucknow,53 Banarasi Bagh,Lucknow,Uttar Pradesh,226001,10:30 AM,4:30 PM,statemuseumlko@up.gov.in,+91-522-2620485,"53 Banarasi Bagh, Lucknow, Uttar Pradesh, 226001",26.8505863,80.9445187
+Planetarium and Science Museum,Koramangala,Bangalore,Karnataka,560047,10:00 AM,5:30 PM,bangaloreplanetarium@gmail.com,+91-80-22379725,"Koramangala, Bangalore, Karnataka, 560047",12.9536792,77.61762480000002
+Patna Museum,Buddha Marg,Patna,Bihar,800001,10:00 AM,5:00 PM,patnamuseum@bihar.gov.in,+91-612-2222779,"Buddha Marg, Patna, Bihar, 800001",25.6121205,85.1342358
+Allahabad Museum,Chandrashekhar Azad Park,Prayagraj,Uttar Pradesh,211002,10:30 AM,5:00 PM,allahabadmuseum@gmail.com,+91-532-2407409,"Chandrashekhar Azad Park, Prayagraj, Uttar Pradesh, 211002",25.4571677,81.85184699999999
+Indira Gandhi Rashtriya Manav Sangrahalaya,Shamla Hills,Bhopal,Madhya Pradesh,462013,10:00 AM,5:30 PM,igrms@bsnl.in,+91-755-2661319,"Shamla Hills, Bhopal, Madhya Pradesh, 462013",23.2349128,77.3826845
+Sanskriti Museums,Anandagram,New Delhi,Delhi,110030,10:00 AM,5:00 PM,info@sanskritifoundation.org,+91-11-26503287,"Anandagram, New Delhi, Delhi, 110030",28.5061507,77.1312586
+Baroda Museum & Picture Gallery,Sayajibaug,Vadodara,Gujarat,390018,10:30 AM,5:30 PM,barodamuseum@gmail.com,+91-265-2795083,"Sayajibaug, Vadodara, Gujarat, 390018",22.316154,73.1975102
+Manipur State Museum,DM College Road,Imphal,Manipur,795001,10:00 AM,4:30 PM,manipurmuseum@gmail.com,+91-385-2450204,"DM College Road, Imphal, Manipur, 795001",24.8208634,93.9395043
+International Dolls Museum,Nehru House,New Delhi,Delhi,110001,10:00 AM,6:00 PM,dollsmuseum@gmail.com,+91-11-23316970,"Nehru House, New Delhi, Delhi, 110001",28.6303938,77.2414859
+Raja Ravi Varma Art Gallery,Thiruvananthapuram Museum,Thiruvananthapuram,Kerala,695033,10:00 AM,5:00 PM,rajaravivarmagallery@gmail.com,+91-471-2316275,"Thiruvananthapuram Museum, Thiruvananthapuram, Kerala, 695033",8.511529399999999,76.9326167
+Red Fort Archaeological Museum,Red Fort Complex,New Delhi,Delhi,110006,9:30 AM,4:30 PM,redfortmuseum@asi.gov.in,+91-11-23277705,"Red Fort Complex, New Delhi, Delhi, 110006",28.6561592,77.2410203
+Tribal Museum,Koraput,Koraput,Odisha,764020,10:00 AM,5:00 PM,koraputtribalmuseum@gmail.com,+91-6852-250225,"Koraput, Koraput, Odisha, 764020",18.813487,82.71233269999999
+Government Museum Chennai,Egmore,Chennai,Tamil Nadu,600008,9:30 AM,5:00 PM,museumchennai@gmail.com,+91-44-28190235,"Egmore, Chennai, Tamil Nadu, 600008",13.0732259,80.2609209
+Srimanta Sankaradeva Kalakshetra,Panjabari Road,Guwahati,Assam,781037,9:00 AM,6:00 PM,sskalakshetra@gmail.com,+91-361-2332665,"Panjabari Road, Guwahati, Assam, 781037",26.1331607,91.8293375
+Regional Science Centre,Aliganj Extension,Lucknow,Uttar Pradesh,226024,10:00 AM,6:00 PM,rsclucknow@gmail.com,+91-522-2324694,"Aliganj Extension, Lucknow, Uttar Pradesh, 226024",26.8896943,80.9349434
+Archaeological Museum Goa,Old Goa,North Goa,Goa,403402,9:00 AM,5:30 PM,archmusgoa@asi.gov.in,+91-832-2285302,"Old Goa, North Goa, Goa, 403402",15.5019663,73.90999049999999
+Don Bosco Museum,Mawlai,Shillong,Meghalaya,793008,9:00 AM,5:30 PM,dbcicmuseum@gmail.com,+91-364-2550462,"Mawlai, Shillong, Meghalaya, 793008",25.6003253,91.8928297
+Jawaharlal Nehru State Museum,Museum Road,Itanagar,Arunachal Pradesh,791111,9:30 AM,4:30 PM,jnstatemuseum@gmail.com,+91-360-2214675,"Museum Road, Itanagar, Arunachal Pradesh, 791111",27.0843682,93.6053163
+Birla Industrial & Technological Museum,19A Gurusaday Road,Kolkata,West Bengal,700019,10:00 AM,5:30 PM,bitm@cal.vsnl.net.in,+91-33-22872924,"19A Gurusaday Road, Kolkata, West Bengal, 700019",22.5352287,88.3636336
+Kala Bhavan Museum,Santiniketan,Bolpur,West Bengal,731235,10:30 AM,5:00 PM,kalabhavanmuseum@gmail.com,+91-3463-264275,"Santiniketan, Bolpur, West Bengal, 731235",23.6703599,87.692517
+Cooch Behar Palace Museum,Cooch Behar Palace,Cooch Behar,West Bengal,736101,10:00 AM,5:00 PM,coochbeharmuseum@gmail.com,+91-3582-227463,"Cooch Behar Palace, Cooch Behar, West Bengal, 736101",26.3270017,89.438553
+Chatrapati Shahu Museum,Kasaba Bawada,Kolhapur,Maharashtra,416003,9:30 AM,6:00 PM,shahumumseum@gmail.com,+91-231-2548370,"Kasaba Bawada, Kolhapur, Maharashtra, 416003",16.7375147,74.2443436
+Bharat Kala Bhavan,BHU Campus,Varanasi,Uttar Pradesh,221005,10:00 AM,4:30 PM,bharatkalabhavan@gmail.com,+91-542-2368390,"BHU Campus, Varanasi, Uttar Pradesh, 221005",25.2685304,82.9904737
+Andhra Pradesh State Museum,Public Gardens,Hyderabad,Telangana,500004,10:30 AM,5:00 PM,apstatemuseum@gmail.com,+91-40-23235631,"Public Gardens, Hyderabad, Telangana, 500004",17.391555,78.469842
+Lehna Singh Museum,Khalsa College,Amritsar,Punjab,143002,9:00 AM,5:00 PM,lehnasinghmuseum@gmail.com,+91-183-2258612,"Khalsa College, Amritsar, Punjab, 143002",31.633927,74.8372656
+Naval Aviation Museum,Bogmalo Road,Vasco da Gama,Goa,403806,10:00 AM,5:00 PM,navalmuseum@indiannavy.in,+91-832-2520877,"Bogmalo Road, Vasco da Gama, Goa, 403806",15.377233,73.8435855
+Government Museum Mathura,Civil Lines,Mathura,Uttar Pradesh,281001,10:30 AM,4:30 PM,govtmuseummathura@gmail.com,+91-565-2505464,"Civil Lines, Mathura, Uttar Pradesh, 281001",27.4735312,77.70228200000001
+Himachal State Museum,Chaura Maidan,Shimla,Himachal Pradesh,171004,10:00 AM,5:00 PM,himstatemuseum@gmail.com,+91-177-2650513,"Chaura Maidan, Shimla, Himachal Pradesh, 171004",31.1029251,77.1499544
+Gass Forest Museum,Coimbatore,Coimbatore,Tamil Nadu,641002,9:00 AM,5:00 PM,gassmuseum@gmail.com,+91-422-2432349,"Coimbatore, Coimbatore, Tamil Nadu, 641002",11.0104033,76.94990279999999
+Odisha State Museum,Lewis Road,Bhubaneswar,Odisha,751002,10:00 AM,5:00 PM,odishastatemuseum@gmail.com,+91-674-2432177,"Lewis Road, Bhubaneswar, Odisha, 751002",20.2360804,85.8411959
+Sardar Vallabhbhai Patel National Memorial,Shahibaug,Ahmedabad,Gujarat,380004,9:30 AM,5:00 PM,svpmemorial@gmail.com,+91-79-22868672,"Shahibaug, Ahmedabad, Gujarat, 380004",23.0560932,72.5961666
+Arna-Jharna Desert Museum,Moklawas,Jodhpur,Rajasthan,342007,10:00 AM,5:00 PM,arnajharnamuseum@gmail.com,+91-291-2251999,"Moklawas, Jodhpur, Rajasthan, 342007",26.3021228,73.0663881
+Tibet Museum,Central Tibetan Administration,Dharamshala,Himachal Pradesh,176219,9:00 AM,5:00 PM,tibetmuseum@tibet.net,+91-1892-222510,"Central Tibetan Administration, Dharamshala, Himachal Pradesh, 176219",32.2257171,76.3248716
+Netaji Birthplace Museum,Orilahbari,Cuttack,Odisha,753007,8:00 AM,5:00 PM,netajimuseum@gmail.com,+91-671-2621605,"Orilahbari, Cuttack, Odisha, 753007",20.4716871,85.8908337
+Shankar's International Dolls Museum,Bahadur Shah Zafar Marg,New Delhi,Delhi,110002,10:00 AM,6:00 PM,dollsmuseum@childrensbook.in,+91-11-23316970,"Bahadur Shah Zafar Marg, New Delhi, Delhi, 110002",28.632593,77.2409852
+Archaeology Museum Thrissur,Museum Road,Thrissur,Kerala,680020,10:00 AM,5:00 PM,archaeologymuseumthrissur@gmail.com,+91-487-2333217,"Museum Road, Thrissur, Kerala, 680020",10.5308603,76.2199714
+Tripura Government Museum,Ujjayanta Palace,Agartala,Tripura,799001,11:00 AM,5:00 PM,tripuramuseum@gmail.com,+91-381-2324734,"Ujjayanta Palace, Agartala, Tripura, 799001",23.8373503,91.2827128
+Telugu Museum,Public Gardens,Hyderabad,Telangana,500004,10:30 AM,5:00 PM,telugumuseum@gmail.com,+91-40-23240349,"Public Gardens, Hyderabad, Telangana, 500004",17.391555,78.469842
+Khuda Bakhsh Oriental Library,Patna,Patna,Bihar,800004,10:00 AM,4:30 PM,kblibrary@gmail.com,+91-612-2302724,"Patna, Patna, Bihar, 800004",25.6155352,85.1608985
+Nalanda Archaeological Museum,Nalanda,Nalanda,Bihar,803111,9:00 AM,5:00 PM,nalandamuseum@asi.gov.in,+91-6112-281230,"Nalanda, Nalanda, Bihar, 803111",25.1317312,85.4684971
+Kanch Mahal Archaeology Museum,Sikandra,Agra,Uttar Pradesh,282007,9:00 AM,5:30 PM,kanchmahalmuseum@asi.gov.in,+91-562-2641226,"Sikandra, Agra, Uttar Pradesh, 282007",27.217135,77.94667559999999
+Sanskar Kendra Museum,Paldi,Ahmedabad,Gujarat,380006,10:30 AM,5:30 PM,sanskarkendra@gmail.com,+91-79-26576639,"Paldi, Ahmedabad, Gujarat, 380006",23.0197481,72.5546438
+Surajkund Crafts Museum,Surajkund,Faridabad,Haryana,121001,9:00 AM,6:00 PM,craftsmuseum@haryana.gov.in,+91-129-2512608,"Surajkund, Faridabad, Haryana, 121001",28.4842019,77.284176
+National Museum of Natural History,Barakhamba Road,New Delhi,Delhi,110001,10:00 AM,5:30 PM,nmnh@nic.in,+91-11-23314849,"Barakhamba Road, New Delhi, Delhi, 110001",28.6286321,77.2269889
+Sudharshan Museum,Upalvar Street,Madurai,Tamil Nadu,625001,9:00 AM,6:00 PM,sudharshanmuseum@gmail.com,+91-452-2342224,"Upalvar Street, Madurai, Tamil Nadu, 625001",9.915706199999999,78.1193823
+Kerala Folklore Museum,Folklore Junction,Kochi,Kerala,682030,9:00 AM,6:00 PM,info@keralafolkloremuseum.org,+91-484-2665452,"Folklore Junction, Kochi, Kerala, 682030",10.0037578,76.3579401
+Darshan Museum,Survey No. 261,Pune,Maharashtra,411014,9:30 AM,6:30 PM,info@darshanmuseum.org,+91-20-24212124,"Survey No. 261, Pune, Maharashtra, 411014",18.5574028,73.92830049999999
+State Archaeological Museum Halebidu,Halebidu,Hassan,Karnataka,573121,9:00 AM,5:00 PM,halebidumuseum@gmail.com,+91-8177-273349,"Halebidu, Hassan, Karnataka, 573121",13.2129844,75.9942162
+National War Memorial,India Gate Circle,New Delhi,Delhi,110001,9:00 AM,6:30 PM,warmuseum@mod.gov.in,+91-11-23792492,"India Gate Circle, New Delhi, Delhi, 110001",28.6156377,77.2298423
+Haifa Museum of Art & Science,Sector 10,Chandigarh,Chandigarh,160011,10:00 AM,5:00 PM,info@haifamuseum.gov.in,+91-172-2740261,"Sector 10, Chandigarh, Chandigarh, 160011",30.7528622,76.78844420000001
+Maharaja Fateh Singh Museum,Laxmi Vilas Palace,Vadodara,Gujarat,390001,10:00 AM,5:00 PM,fsmmuseum@gmail.com,+91-265-2426621,"Laxmi Vilas Palace, Vadodara, Gujarat, 390001",22.2939051,73.1912851
+Archaeological Museum Hampi,Kamalapura,Hampi,Karnataka,583221,10:00 AM,5:00 PM,hampimuseum@asi.gov.in,+91-8394-241339,"Kamalapura, Hampi, Karnataka, 583221",15.3350132,76.46002399999999
+Science City,JBS Haldane Avenue,Kolkata,West Bengal,700046,9:00 AM,8:00 PM,sciencecity@gmail.com,+91-33-22854343,"JBS Haldane Avenue, Kolkata, West Bengal, 700046",22.5416112,88.3850803
+Dr. Bhau Daji Lad Museum,Byculla East,Mumbai,Maharashtra,400027,10:00 AM,6:00 PM,info@bdlmuseum.org,+91-22-23726058,"Byculla East, Mumbai, Maharashtra, 400027",18.9793266,72.83825470000001
+Jagdish & Kamla Mittal Museum of Indian Art,Hyderabad,Hyderabad,Telangana,500036,11:00 AM,5:00 PM,jkmmuseum@gmail.com,+91-40-23552375,"Hyderabad, Hyderabad, Telangana, 500036",17.3698322,78.5149805
+Cellular Jail National Memorial,Atlanta Point,Port Blair,Andaman & Nicobar,744102,9:00 AM,5:00 PM,cellularjail@gmail.com,+91-3192-233756,"Atlanta Point, Port Blair, Andaman & Nicobar, 744102",11.6731406,92.7462517
+Archaeological Museum Konark,Konark,Puri,Odisha,752111,9:00 AM,5:00 PM,konarkmuseum@asi.gov.in,+91-6758-236821,"Konark, Puri, Odisha, 752111",19.8920686,86.091184
+National Science Centre,Near Gate 1,New Delhi,Delhi,110001,10:00 AM,5:30 PM,nscdelhi@gmail.com,+91-11-23371945,"Near Gate 1, New Delhi, Delhi, 110001",28.6369574,77.2423661
+Sulabh International Museum of Toilets,Mahavir Enclave,New Delhi,Delhi,110045,10:00 AM,5:00 PM,sulabhtoiletmuseum@gmail.com,+91-11-25031518,"Mahavir Enclave, New Delhi, Delhi, 110045",28.5993858,77.08174939999999
+Museum of Christian Art,Convent of Santa Monica,Old Goa,Goa,403402,9:00 AM,5:00 PM,museumofchristianart@gmail.com,+91-832-2284058,"Convent of Santa Monica, Old Goa, Goa, 403402",15.5013889,73.9075
+Padmanabhapuram Palace Museum,Padmanabhapuram,Kanyakumari,Tamil Nadu,629501,9:00 AM,5:00 PM,padmanabhamuseum@gmail.com,+91-4652-282618,"Padmanabhapuram, Kanyakumari, Tamil Nadu, 629501",8.2445969,77.33674979999999
+Heritage Transport Museum,Gurugram-Tauru Road,Gurugram,Haryana,122105,10:00 AM,7:00 PM,info@heritagetransportmuseum.org,+91-124-2766618,"Gurugram-Tauru Road, Gurugram, Haryana, 122105",28.2604277,76.9160199
+Archaeology Museum Khajuraho,Khajuraho,Chhatarpur,Madhya Pradesh,471606,10:00 AM,5:00 PM,khajurahomuseum@asi.gov.in,+91-7686-272320,"Khajuraho, Chhatarpur, Madhya Pradesh, 471606",24.8318452,79.91985489999999
+Shankar's International Dolls Museum,Nehru House,New Delhi,Delhi,110001,10:00 AM,5:30 PM,info@childrensbooktrust.org,+91-11-23316970,"Nehru House, New Delhi, Delhi, 110001",28.6303938,77.2414859
+Manipur State Museum,DM College Road,Imphal,Manipur,795001,9:30 AM,4:30 PM,manipurstatemuseum@gmail.com,+91-385-2451756,"DM College Road, Imphal, Manipur, 795001",24.8208634,93.9395043
+Maritime Museum,Sagar Shakti,Gandhidham,Gujarat,370201,9:00 AM,6:00 PM,maritimemuseum@gmail.com,+91-2836-223325,"Sagar Shakti, Gandhidham, Gujarat, 370201",23.068843,70.1289859
+Nek Chand Rock Garden,Sector 1,Chandigarh,Chandigarh,160001,9:00 AM,7:00 PM,rockgarden@gmail.com,+91-172-2740340,"Sector 1, Chandigarh, Chandigarh, 160001",30.752535,76.8101038
+Archaeological Museum Aihole,Aihole,Bagalkot,Karnataka,587124,10:00 AM,5:00 PM,aiholemuseum@asi.gov.in,+91-8354-235766,"Aihole, Bagalkot, Karnataka, 587124",16.019844,75.88099
+Maharaja Ranjit Singh Museum,Company Bagh,Amritsar,Punjab,143001,10:00 AM,5:00 PM,ranjitsinghmuseum@gmail.com,+91-183-2227698,"Company Bagh, Amritsar, Punjab, 143001",31.6384496,74.87849
+Assam State Museum,M.G. Road,Guwahati,Assam,781001,10:00 AM,4:30 PM,assamstatemuseum@gmail.com,+91-361-2540651,"M.G. Road, Guwahati, Assam, 781001",26.187666,91.7418247
+Archaeological Museum Ratnagiri,Ratnagiri,Jajpur,Odisha,754246,10:00 AM,5:00 PM,ratnagirimuseum@asi.gov.in,+91-6729-234332,"Ratnagiri, Jajpur, Odisha, 754246",20.5973136,86.6913222
+Partition Museum,Town Hall,Amritsar,Punjab,143006,10:00 AM,6:00 PM,info@partitionmuseum.org,+91-183-5099468,"Town Hall, Amritsar, Punjab, 143006",31.62548409999999,74.8806827
+Mani Bhavan Gandhi Museum,19 Laburnum Road,Mumbai,Maharashtra,400007,9:30 AM,6:00 PM,info@gandhi-manibhavan.org,+91-22-23805864,"19 Laburnum Road, Mumbai, Maharashtra, 400007",18.9575607,72.81139019999999
+Jawahar Toy Museum,Jawahar Bal Bhavan,New Delhi,Delhi,110001,9:30 AM,5:30 PM,jawahartoymuseum@gmail.com,+91-11-23742093,"Jawahar Bal Bhavan, New Delhi, Delhi, 110001",28.4464729,77.1452758
+Calicut Heritage Museum,SM Street,Kozhikode,Kerala,673001,10:00 AM,5:00 PM,calicutheritage@gmail.com,+91-495-2721230,"SM Street, Kozhikode, Kerala, 673001",11.2507622,75.7815607
+Archaeological Museum Bijapur,Gol Gumbaz Complex,Bijapur,Karnataka,586101,9:00 AM,5:00 PM,bijapurmuseum@asi.gov.in,+91-8352-252281,"Gol Gumbaz Complex, Bijapur, Karnataka, 586101",16.8300989,75.73612039999999
+Southern Naval Command Maritime Museum,INS Dronacharya,Kochi,Kerala,682004,9:30 AM,1:00 PM,navalmaritime@gmail.com,+91-484-2873799,"INS Dronacharya, Kochi, Kerala, 682004",9.9657787,76.2421147
+Warangal Regional Science Centre,NIT Warangal,Warangal,Telangana,506004,10:30 AM,5:30 PM,rscwarangal@gmail.com,+91-870-2462833,"NIT Warangal, Warangal, Telangana, 506004",17.983523,79.5308386
+Zonal Anthropological Museum,DD Germai Road,Port Blair,Andaman & Nicobar,744101,10:00 AM,5:00 PM,zam.andaman@gmail.com,+91-3192-233577,"DD Germai Road, Port Blair, Andaman & Nicobar, 744101",11.6455245,92.73568
+Thanjavur Art Gallery,Palace Complex,Thanjavur,Tamil Nadu,613001,9:00 AM,5:00 PM,thanjavurartgallery@gmail.com,+91-4362-230032,"Palace Complex, Thanjavur, Tamil Nadu, 613001",10.791304,79.1371454
+National Handicrafts and Handlooms Museum,Pragati Maidan,New Delhi,Delhi,110002,10:00 AM,5:00 PM,nhhm@gmail.com,+91-11-23371887,"Pragati Maidan, New Delhi, Delhi, 110002",28.6126456,77.2433578
+National Museum of Indian Cinema,Films Division Complex,Mumbai,Maharashtra,400026,11:00 AM,6:00 PM,nmic.mumbai@gmail.com,+91-22-23551265,"Films Division Complex, Mumbai, Maharashtra, 400026",18.9705227,72.8093174
+Kashi Art Gallery,Burgher Street,Kochi,Kerala,682001,9:00 AM,7:00 PM,kashiartgallery@gmail.com,+91-484-2215769,"Burgher Street, Kochi, Kerala, 682001",9.9664743,76.242856
+Museum of Goa,Pilerne Industrial Estate,Bardez,Goa,403511,10:00 AM,6:00 PM,info@museumofgoa.com,+91-832-2407666,"Pilerne Industrial Estate, Bardez, Goa, 403511",15.5276507,73.7919103
+Dogra Art Museum,Mubarak Mandi Complex,Jammu,Jammu & Kashmir,180001,10:00 AM,5:00 PM,dograartmuseum@gmail.com,+91-191-2546998,"Mubarak Mandi Complex, Jammu, Jammu & Kashmir, 180001",32.7393379,74.8745093
+Salar Jung Museum Clock Building,Purani Haveli,Hyderabad,Telangana,500002,10:00 AM,5:00 PM,salarjungclock@gmail.com,+91-40-24523212,"Purani Haveli, Hyderabad, Telangana, 500002",17.3659421,78.48300859999999
+National Police Museum,CGO Complex,New Delhi,Delhi,110003,10:00 AM,5:30 PM,nationalpolicemuseum@bprd.nic.in,+91-11-24369971,"CGO Complex, New Delhi, Delhi, 110003",28.5893143,77.2362044
+Kangra Art Museum,Academy of Arts,Dharamshala,Himachal Pradesh,176215,10:00 AM,5:00 PM,kangraartmuseum@gmail.com,+91-1892-224214,"Academy of Arts, Dharamshala, Himachal Pradesh, 176215",32.219042,76.3234037
+Archaeological Museum Lothal,Lothal,Ahmedabad,Gujarat,382230,9:00 AM,5:00 PM,lothalmuseum@asi.gov.in,+91-2714-262311,"Lothal, Ahmedabad, Gujarat, 382230",22.5228574,72.24936009999999
+MS Swaminathan Research Foundation Museum,Third Cross Street,Chennai,Tamil Nadu,600113,9:30 AM,5:30 PM,mssrfmuseum@gmail.com,+91-44-22541229,"Third Cross Street, Chennai, Tamil Nadu, 600113",13.0060298,80.2621137
+Vintage Car Museum,Ahmedabad Cantonment,Ahmedabad,Gujarat,380004,9:00 AM,6:00 PM,autoworld@gmail.com,+91-79-26582880,"Ahmedabad Cantonment, Ahmedabad, Gujarat, 380004",23.0638989,72.6087359
+Tribal Research Institute Museum,Lalpur,Ranchi,Jharkhand,834001,10:00 AM,5:00 PM,trimuseum@gmail.com,+91-651-2200751,"Lalpur, Ranchi, Jharkhand, 834001",23.3721233,85.33827099999999
+Anthropological Museum,Andaman Adim Janjati Vikas,Port Blair,Andaman & Nicobar,744101,9:00 AM,4:30 PM,anthromuseum.andaman@gmail.com,+91-3192-232475,"Andaman Adim Janjati Vikas, Port Blair, Andaman & Nicobar, 744101",11.6455245,92.73568
+Science Museum Surat,Science Centre,Surat,Gujarat,395010,10:30 AM,6:30 PM,sciencemuseumsurat@gmail.com,+91-261-2255937,"Science Centre, Surat, Gujarat, 395010",21.1702316,72.7955882
+Chowmahalla Palace Museum,Khilwat,Hyderabad,Telangana,500002,10:00 AM,5:00 PM,info@chowmahalla.com,+91-40-24522032,"Khilwat, Hyderabad, Telangana, 500002",17.3579213,78.4702215
+Trivandrum Museum & Zoo,Museum Road,Thiruvananthapuram,Kerala,695033,10:00 AM,5:00 PM,museumzootvm@gmail.com,+91-471-2316275,"Museum Road, Thiruvananthapuram, Kerala, 695033",8.511529399999999,76.9326167
+Maritime Heritage Complex,INS Vikrant,Vizag,Andhra Pradesh,530014,10:00 AM,6:00 PM,maritimemuseum@indiannavy.in,+91-891-2813131,"INS Vikrant, Vizag, Andhra Pradesh, 530014",17.6785358,83.27735899999999
+ND Studios Museum,Mumbai-Pune Expressway,Karjat,Maharashtra,410201,9:00 AM,7:00 PM,ndstudios@gmail.com,+91-2148-224141,"Mumbai-Pune Expressway, Karjat, Maharashtra, 410201",18.7693287,73.4043358
+Indira Gandhi Memorial Museum,1 Safdarjung Road,New Delhi,Delhi,110011,9:30 AM,4:45 PM,igmm@nehrutrust.org,+91-11-23012843,"1 Safdarjung Road, New Delhi, Delhi, 110011",28.5999403,77.206214
+Madras Crocodile Bank Trust,East Coast Road,Chennai,Tamil Nadu,603104,8:30 AM,5:30 PM,director@madrascrocodilebank.org,+91-44-27472447,"East Coast Road, Chennai, Tamil Nadu, 603104",12.6634066,80.2093448
+Central Museum Nagpur,Civil Lines,Nagpur,Maharashtra,440001,10:30 AM,5:30 PM,centralmuseum.nagpur@gmail.com,+91-712-2564802,"Civil Lines, Nagpur, Maharashtra, 440001",21.152752,79.074743
+Museum of Kerala History,NH 47 Bypass,Kochi,Kerala,682028,10:00 AM,7:00 PM,keralahistorymuseum@gmail.com,+91-484-2425610,"NH 47 Bypass, Kochi, Kerala, 682028",10.1016751,76.3488015
+Jawaharlal Nehru Planetarium,Sri T. Chowdaiah Road,Bangalore,Karnataka,560001,10:00 AM,5:30 PM,planetarium@bangaloreplanetarium.org,+91-80-22379725,"Sri T. Chowdaiah Road, Bangalore, Karnataka, 560001",12.9906555,77.5857398
+Sarnath Archaeological Museum,Sarnath,Varanasi,Uttar Pradesh,221007,10:00 AM,5:00 PM,sarnathmuseum@asi.gov.in,+91-542-2595151,"Sarnath, Varanasi, Uttar Pradesh, 221007",25.3715564,83.0252136
+Manikya Court Museum,Palace Compound,Agartala,Tripura,799001,10:00 AM,5:00 PM,manikyamuseumtripura@gmail.com,+91-381-2226704,"Palace Compound, Agartala, Tripura, 799001",23.8368023,91.2830851
+Tribal Museum Bhopal,Shyamla Hills,Bhopal,Madhya Pradesh,462002,10:30 AM,6:30 PM,tribalmuseumbhopal@gmail.com,+91-755-2661392,"Shyamla Hills, Bhopal, Madhya Pradesh, 462002",23.2411328,77.3776099
+Meghalaya State Museum,State Central Library,Shillong,Meghalaya,793001,10:00 AM,4:30 PM,msmuseum@meghalaya.gov.in,+91-364-2226220,"State Central Library, Shillong, Meghalaya, 793001",25.5690676,91.88309690000001
+Sudha Cars Museum,Bahadurpura,Hyderabad,Telangana,500064,10:00 AM,6:00 PM,sudhacars@gmail.com,+91-40-24447365,"Bahadurpura, Hyderabad, Telangana, 500064",17.3574259,78.4616959
+Vikram Sarabhai Space Exhibition,Space Application Centre,Ahmedabad,Gujarat,380015,9:30 AM,5:00 PM,vssc.museum@isro.gov.in,+91-79-26914127,"Space Application Centre, Ahmedabad, Gujarat, 380015",23.0276164,72.5191164
+Coin Museum,Hinjawadi,Pune,Maharashtra,411057,10:00 AM,5:30 PM,coinmuseum@gmail.com,+91-20-66841510,"Hinjawadi, Pune, Maharashtra, 411057",18.5912716,73.73890899999999
+Sikkim Himalayan Zoological Park,Bulbulay,Gangtok,Sikkim,737103,9:00 AM,4:00 PM,shzp.gangtok@gmail.com,+91-3592-231784,"Bulbulay, Gangtok, Sikkim, 737103",27.3433324,88.6210394
+Leh Palace Museum,Leh Palace,Leh,Ladakh,194101,10:00 AM,5:00 PM,lehpalacemuseum@gmail.com,+91-1982-252253,"Leh Palace, Leh, Ladakh, 194101",34.1660308,77.5871575
+DakshinaChitra Museum,East Coast Road,Muttukadu,Tamil Nadu,603112,10:00 AM,6:00 PM,info@dakshinachitra.net,+91-44-27472603,"East Coast Road, Muttukadu, Tamil Nadu, 603112",12.8234439,80.240218
+Nagaland State Museum,Ministers' Hill,Kohima,Nagaland,797001,10:00 AM,4:00 PM,nagalandstatemuseum@gmail.com,+91-370-2270194,"Ministers' Hill, Kohima, Nagaland, 797001",25.6551717,94.09574289999999
+St. Angelo Fort Museum,Kannur Fort,Kannur,Kerala,670017,9:00 AM,5:00 PM,stangelomuseum@asi.gov.in,+91-497-2732578,"Kannur Fort, Kannur, Kerala, 670017",11.8537793,75.372439
+Tribal Research Institute Museum,Near Airport,Imphal,Manipur,795001,10:00 AM,4:30 PM,trimuseum.manipur@gmail.com,+91-385-2457243,"Near Airport, Imphal, Manipur, 795001",24.8105975,93.9346206
+Mizoram State Museum,Zarkawt,Aizawl,Mizoram,796001,10:00 AM,4:30 PM,mizoramstatemuseum@gmail.com,+91-389-2316091,"Zarkawt, Aizawl, Mizoram, 796001",23.7358192,92.7164081
+Yercaud Silk Farm and Museum,Lake Road,Yercaud,Tamil Nadu,636601,9:00 AM,6:00 PM,silkfarmyercaud@gmail.com,+91-4281-222042,"Lake Road, Yercaud, Tamil Nadu, 636601",11.7811522,78.2089648
+Tejas Museum,Manipal Centre for Philosophy,Manipal,Karnataka,576104,10:00 AM,5:00 PM,tejasmuseum@gmail.com,+91-820-2922505,"Manipal Centre for Philosophy, Manipal, Karnataka, 576104",13.3394183,74.7496053
+Indian Air Force Museum,Palam,New Delhi,Delhi,110010,10:00 AM,5:00 PM,iafmuseum@gmail.com,+91-11-25694241,"Palam, New Delhi, Delhi, 110010",28.5780718,77.1065784
+Alleppey Lighthouse Museum,Beach Road,Alappuzha,Kerala,688013,10:00 AM,5:00 PM,alleppeylighthouse@gmail.com,+91-477-2246364,"Beach Road, Alappuzha, Kerala, 688013",9.4873674,76.3198975
+Madhya Pradesh Tribal Museum,Shyamla Hills,Bhopal,Madhya Pradesh,462013,12:00 PM,8:00 PM,mptribalmuseum@mp.gov.in,+91-755-2661392,"Shyamla Hills, Bhopal, Madhya Pradesh, 462013",23.2349128,77.3826845
+Archaeological Museum Amaravati,Amaravati,Guntur,Andhra Pradesh,522020,10:00 AM,5:00 PM,amaravatimuseum@asi.gov.in,+91-863-2227752,"Amaravati, Guntur, Andhra Pradesh, 522020",16.5582809,80.3547286
+Arunachal State Museum,Rajbhawan Road,Itanagar,Arunachal Pradesh,791113,9:30 AM,4:00 PM,arunachalmuseum@gmail.com,+91-360-2290302,"Rajbhawan Road, Itanagar, Arunachal Pradesh, 791113",27.1014155,93.6369716
+Clay Craft Museum,Navi Mumbai,Mumbai,Maharashtra,400708,11:00 AM,7:00 PM,claycraftmuseum@gmail.com,+91-22-27812111,"Navi Mumbai, Mumbai, Maharashtra, 400708",19.1647401,72.99366599999999
+Delhi Haat Crafts Museum,INA Market,New Delhi,Delhi,110023,11:00 AM,9:00 PM,delhihaatarts@gmail.com,+91-11-24109550,"INA Market, New Delhi, Delhi, 110023",28.5744644,77.2101563
+Gondal Royal Garages Vintage Car Museum,Orchard Palace,Gondal,Gujarat,360311,9:00 AM,6:00 PM,vintagecars@gondal.in,+91-2825-220002,"Orchard Palace, Gondal, Gujarat, 360311",21.964267,70.7944055
+Himachal Emporium and Museum,Mall Road,Shimla,Himachal Pradesh,171001,10:00 AM,8:00 PM,himachalemporium@gmail.com,+91-177-2652561,"Mall Road, Shimla, Himachal Pradesh, 171001",31.0988903,77.1756199
+Jnanpith Museum,Kamaraj Road,Bangalore,Karnataka,560042,10:30 AM,5:30 PM,jnanpithmuseum@gmail.com,+91-80-25322650,"Kamaraj Road, Bangalore, Karnataka, 560042",12.9830953,77.6106477
+Eastern Frontier Rifles Museum,Salua,West Midnapore,West Bengal,721143,9:00 AM,5:00 PM,efrmuseum@gmail.com,+91-3222-275291,"Salua, West Midnapore, West Bengal, 721143",22.2695028,87.2866995
+Lado Sarai Art District,Lado Sarai,New Delhi,Delhi,110030,11:00 AM,7:00 PM,ladosaraiart@gmail.com,+91-11-47537193,"Lado Sarai, New Delhi, Delhi, 110030",28.5259604,77.19701350000001
+Madhavendra Palace Sculpture Museum,Nahargarh Fort,Jaipur,Rajasthan,302002,10:00 AM,5:30 PM,nahargarh.sculpturepark@gmail.com,+91-141-5115421,"Nahargarh Fort, Jaipur, Rajasthan, 302002",26.9401659,75.8170373
+National Gallery of Modern Art Bengaluru,Manikyavelu Mansion,Bangalore,Karnataka,560001,10:00 AM,5:00 PM,ngmabengaluru@gmail.com,+91-80-22201027,"Manikyavelu Mansion, Bangalore, Karnataka, 560001",12.9765944,77.5992708
+Kolkata Police Museum,Acharya Jagadish Chandra Bose Road,Kolkata,West Bengal,700016,11:00 AM,5:00 PM,kolkatapolicemuseum@gmail.com,+91-33-22140294,"Acharya Jagadish Chandra Bose Road, Kolkata, West Bengal, 700016",22.5509368,88.3630792
+Siddhachal Jain Temple Museum,Siddhagirinagar,Kolhapur,Maharashtra,416012,9:00 AM,5:30 PM,siddhachaljain@gmail.com,+91-231-2688022,"Siddhagirinagar, Kolhapur, Maharashtra, 416012",16.6882095,74.2196555
+INS Kurusura Submarine Museum,Beach Road,Visakhapatnam,Andhra Pradesh,530001,9:00 AM,8:00 PM,kurusuramuseum@gmail.com,+91-891-2752295,"Beach Road, Visakhapatnam, Andhra Pradesh, 530001",17.6983535,83.3002925
+Railway Heritage Museum,Howrah Station,Kolkata,West Bengal,711101,10:00 AM,5:00 PM,railwaymuseum.er@gmail.com,+91-33-26411767,"Howrah Station, Kolkata, West Bengal, 711101",22.5839456,88.3434068
+Ahom Museum,Gargaon Palace Complex,Sivasagar,Assam,785640,9:30 AM,4:30 PM,ahommuseum@gmail.com,+91-3772-222420,"Gargaon Palace Complex, Sivasagar, Assam, 785640",26.989087,94.63942399999999
+Big Foot Museum,Big Foot Cross Road,Loutolim,Goa,403718,9:00 AM,5:30 PM,bigfootgoa@gmail.com,+91-832-2777034,"Big Foot Cross Road, Loutolim, Goa, 403718",15.339727,73.9868803
+Aryabhatta Science Museum,Gandhi Maidan,Patna,Bihar,800001,10:00 AM,6:00 PM,sciencemuseumpatna@gmail.com,+91-612-2219726,"Gandhi Maidan, Patna, Bihar, 800001",25.6175504,85.14511019999999
+Nehru Centre Planetarium,Dr. Annie Besant Road,Mumbai,Maharashtra,400018,10:30 AM,5:30 PM,planetarium@nehru-centre.org,+91-22-24964676,"Dr. Annie Besant Road, Mumbai, Maharashtra, 400018",18.9967949,72.8164053
+Agartala Science Centre,Ramnagar,Agartala,Tripura,799002,10:00 AM,5:00 PM,agartalascience@gmail.com,+91-381-2326018,"Ramnagar, Agartala, Tripura, 799002",23.8444054,91.2626287
+Wax Museum,Highway 49A,Kodaikanal,Tamil Nadu,624101,9:00 AM,6:00 PM,waxkodai@gmail.com,+91-4542-240561,"Highway 49A, Kodaikanal, Tamil Nadu, 624101",10.2391086,77.4977456
+Arunachal Pradesh Orchid Research Centre Museum,Tipi,West Kameng,Arunachal Pradesh,790114,8:30 AM,4:30 PM,orchidmuseumap@gmail.com,+91-3782-236579,"Tipi, West Kameng, Arunachal Pradesh, 790114",27.1012051,92.5816294
+Kannur Folklore Museum,Chirakkal,Kannur,Kerala,670011,9:30 AM,5:00 PM,kannurfolklore@gmail.com,+91-497-2778364,"Chirakkal, Kannur, Kerala, 670011",11.9153008,75.3617622
+Uttarakhand State Museum,Ghantaghar,Dehradun,Uttarakhand,248001,10:00 AM,5:00 PM,uttarakhandmuseum@gmail.com,+91-135-2714402,"Ghantaghar, Dehradun, Uttarakhand, 248001",30.3244257,78.0418333
+Lachit Borphukan Museum,Jorhat Road,Sivasagar,Assam,785640,10:00 AM,5:00 PM,lachitmuseum@gmail.com,+91-3772-230922,"Jorhat Road, Sivasagar, Assam, 785640",26.989087,94.63942399999999
+Freedom Fighters Museum,Hyderabad Central University Road,Hyderabad,Telangana,500046,10:30 AM,5:00 PM,ffmuseum.telangana@gmail.com,+91-40-23011086,"Hyderabad Central University Road, Hyderabad, Telangana, 500046",17.4559838,78.3331859
+Roerich Art Gallery,Naggar Castle,Kullu,Himachal Pradesh,175130,9:00 AM,5:00 PM,roerichgallery@gmail.com,+91-1902-248290,"Naggar Castle, Kullu, Himachal Pradesh, 175130",32.1120178,77.1647347
+Archaeological Museum Gwalior,Fort Road,Gwalior,Madhya Pradesh,474001,10:00 AM,5:00 PM,gwaliormuseum@asi.gov.in,+91-751-2233234,"Fort Road, Gwalior, Madhya Pradesh, 474001",26.2230561,78.1720117
+Shri Bhavani Museum and Library,Aundh,Pune,Maharashtra,411067,10:30 AM,5:30 PM,bhavanimuseum@gmail.com,+91-20-25884179,"Aundh, Pune, Maharashtra, 411067",18.5525284,73.8093359
+Museum of the National Movement,Karikkamuri,Kochi,Kerala,682011,9:30 AM,4:30 PM,nationalmovement@gmail.com,+91-484-2382988,"Karikkamuri, Kochi, Kerala, 682011",9.975587299999999,76.2877353
+Kanha Museum of Life and Art,Jabalpur Road,Mandla,Madhya Pradesh,481661,9:00 AM,5:30 PM,kanhamuseum@gmail.com,+91-7642-252135,"Jabalpur Road, Mandla, Madhya Pradesh, 481661",23.4144597,79.5247289
+Clock Tower Museum,Clock Tower Circle,Jodhpur,Rajasthan,342001,9:30 AM,5:30 PM,jodhpurclockmuseum@gmail.com,+91-291-2547661,"Clock Tower Circle, Jodhpur, Rajasthan, 342001",26.294003,73.0235298
+Bengal Science Centre,J. B. S. Haldane Avenue,Kolkata,West Bengal,700046,9:30 AM,5:30 PM,bengalsciencecentre@gmail.com,+91-33-24647030,"J. B. S. Haldane Avenue, Kolkata, West Bengal, 700046",22.5416112,88.3850803
+Regional Science Centre,P.B. No. 1201,Tirunelveli,Tamil Nadu,627001,10:00 AM,5:30 PM,rsctirunelveli@gmail.com,+91-462-2554343,"P.B. No. 1201, Tirunelveli, Tamil Nadu, 627001",8.7340096,77.712099
+Science City Kapurthala,Jalandhar Road,Kapurthala,Punjab,144601,9:00 AM,5:00 PM,sciencecitykapurthala@gmail.com,+91-1822-501963,"Jalandhar Road, Kapurthala, Punjab, 144601",31.3697019,75.4080482
+Namgyal Institute of Tibetology,Gangtok,Gangtok,Sikkim,737101,10:00 AM,4:00 PM,namgyalinstitute@gmail.com,+91-3592-231102,"Gangtok, Gangtok, Sikkim, 737101",27.3371364,88.6096575
+Heritage Museum Bikaner,Junagarh Fort,Bikaner,Rajasthan,334001,9:00 AM,6:00 PM,junagarh.museum@gmail.com,+91-151-2522008,"Junagarh Fort, Bikaner, Rajasthan, 334001",28.0219586,73.3179962
+Shreyas Folk Museum,Near Shreyas Foundation,Ahmedabad,Gujarat,380007,9:00 AM,5:00 PM,shreyasmuseum@gmail.com,+91-79-26822376,"Near Shreyas Foundation, Ahmedabad, Gujarat, 380007",23.0143641,72.53993760000002
+Ahmedabad Textile Industry's Research Association Museum,University Area,Ahmedabad,Gujarat,380009,10:30 AM,5:30 PM,atiramuseum@gmail.com,+91-79-26302364,"University Area, Ahmedabad, Gujarat, 380009",23.0353884,72.54439409999999
+Archaeology Museum Purana Qila,Mathura Road,New Delhi,Delhi,110003,9:00 AM,5:00 PM,puranakilamuseum@asi.gov.in,+91-11-23367436,"Mathura Road, New Delhi, Delhi, 110003",28.5882791,77.2470092
+Jagat Guru Dattatreya Museum,Ashram Road,Sangli,Maharashtra,416416,10:00 AM,8:00 PM,dattatreyamuseum@gmail.com,+91-233-2671360,"Ashram Road, Sangli, Maharashtra, 416416",16.8619069,74.5610703
+Kota Government Museum,Chhatrapati Shivaji Marg,Kota,Rajasthan,324001,9:30 AM,5:00 PM,kotagovtmuseum@gmail.com,+91-744-2327756,"Chhatrapati Shivaji Marg, Kota, Rajasthan, 324001",25.172275,75.8903723
+Gandhi Darshan Museum,Rajghat,New Delhi,Delhi,110002,10:00 AM,5:00 PM,gandhidarshan@gandhi-india.org,+91-11-23311793,"Rajghat, New Delhi, Delhi, 110002",28.6406214,77.24950020000001
+Kaziranga Forest Museum,National Highway 37,Kaziranga,Assam,785609,9:00 AM,4:30 PM,kazirangamuseum@gmail.com,+91-3776-262428,"National Highway 37, Kaziranga, Assam, 785609",24.8097986,93.086778
+Pitambar Dev Goswami Museum,Majuli Island,Majuli,Assam,785104,10:00 AM,5:00 PM,pitambarmuseum@gmail.com,+91-3775-279026,"Majuli Island, Majuli, Assam, 785104",26.9931249,94.21283369999999
+Dakshinachitra Heritage Museum,East Coast Road,Chennai,Tamil Nadu,603112,10:00 AM,6:00 PM,info@dakshinachitra.net,+91-44-27472603,"East Coast Road, Chennai, Tamil Nadu, 603112",12.8053365,80.2428836
+Jaigarh Fort Museum,Jaipur-Amer Road,Jaipur,Rajasthan,302028,9:00 AM,6:00 PM,jaigarhfortmuseum@gmail.com,+91-141-2671848,"Jaipur-Amer Road, Jaipur, Rajasthan, 302028",26.9643199,75.8467207
+Maharaja Sawai Madho Singh Museum,Sawai Madhopur,Sawai Madhopur,Rajasthan,322001,10:00 AM,5:00 PM,madhosinghmuseum@gmail.com,+91-7462-220808,"Sawai Madhopur, Sawai Madhopur, Rajasthan, 322001",26.012373,76.3560109
+Delhi Art Gallery,Hauz Khas Village,New Delhi,Delhi,110016,11:00 AM,7:00 PM,info@delhiartgallery.com,+91-11-46791111,"Hauz Khas Village, New Delhi, Delhi, 110016",28.5533997,77.1941654
+Ethnological Museum Shillong,Rynjah,Shillong,Meghalaya,793006,10:00 AM,4:30 PM,anthromuseum.shillong@gmail.com,+91-364-2224396,"Rynjah, Shillong, Meghalaya, 793006",25.5712123,91.91297709999999
+National Children's Discovery Museum,Nehru Place,New Delhi,Delhi,110019,10:00 AM,6:00 PM,discovermuseum@gmail.com,+91-11-41421441,"Nehru Place, New Delhi, Delhi, 110019",28.5503314,77.2501893
+Siddhivinayak Temple Museum,Prabhadevi,Mumbai,Maharashtra,400028,10:00 AM,6:00 PM,siddhivinayakmuseum@gmail.com,+91-22-24373626,"Prabhadevi, Mumbai, Maharashtra, 400028",19.0163283,72.8291129
+Lalbhai Dalpatbhai Museum,L.D. Institute Campus,Ahmedabad,Gujarat,380009,10:30 AM,5:30 PM,ldmuseum1956@gmail.com,+91-79-26306883,"L.D. Institute Campus, Ahmedabad, Gujarat, 380009",23.0335586,72.5500497
+Chhatrapati Shivaji Terminus Heritage Museum,D. N. Road,Mumbai,Maharashtra,400001,9:00 AM,5:00 PM,cstheritage@gmail.com,+91-22-22620062,"D. N. Road, Mumbai, Maharashtra, 400001",18.9401591,72.8347847
+Ladakh Art and Media Organisation Gallery,Leh Main Market,Leh,Ladakh,194101,10:00 AM,6:00 PM,lamoleh@gmail.com,+91-1982-253254,"Leh Main Market, Leh, Ladakh, 194101",34.1635959,77.5839192
+Birla Science Museum and Planetarium,Hill Fort Road,Hyderabad,Telangana,500004,10:30 AM,8:00 PM,info@birlamuseum.com,+91-40-23235081,"Hill Fort Road, Hyderabad, Telangana, 500004",17.4043861,78.4724227
+Dhakeshwari Textile Museum,Silk City,Sualkuchi,Assam,781103,9:30 AM,5:00 PM,dhakeshwarimuseum@gmail.com,+91-361-2786329,"Silk City, Sualkuchi, Assam, 781103",26.1965373,91.5791081
+Rakigarhi Archaeological Museum,Rakigarhi Village,Hisar,Haryana,125121,10:00 AM,5:00 PM,rakigarhimuseum@asi.gov.in,+91-1662-275226,"Rakigarhi Village, Hisar, Haryana, 125121",29.2881189,76.11314949999999
+Karunashraya Museum of Palliative Care,Marathahalli,Bangalore,Karnataka,560037,10:00 AM,4:00 PM,karunashrayamuseum@gmail.com,+91-80-28477638,"Marathahalli, Bangalore, Karnataka, 560037",12.956924,77.701127
+State Archaeology Museum Chennai,Egmore,Chennai,Tamil Nadu,600008,9:30 AM,5:00 PM,archeomuseum.tn@gmail.com,+91-44-28195587,"Egmore, Chennai, Tamil Nadu, 600008",13.0732259,80.2609209
+Palace on Wheels Museum,Railway Station,Jaipur,Rajasthan,302006,9:00 AM,4:30 PM,palaceonwheelsmuseum@gmail.com,+91-141-2200829,"Railway Station, Jaipur, Rajasthan, 302006",26.9195875,75.78796080000001
+Regional Museum of Natural History,Forest Department Campus,Bhubaneswar,Odisha,751003,10:00 AM,5:30 PM,rmnh.bhubaneswar@gmail.com,+91-674-2314825,"Forest Department Campus, Bhubaneswar, Odisha, 751003",20.281174,85.78084779999999
+Heritage & Architecture Museum,Civil Lines,Allahabad,Uttar Pradesh,211001,10:30 AM,5:00 PM,heritagearchmuseum@gmail.com,+91-532-2260494,"Civil Lines, Allahabad, Uttar Pradesh, 211001",25.4529334,81.8348882
+Asiatic Society Museum,Town Hall,Mumbai,Maharashtra,400023,10:00 AM,5:00 PM,asiaticmuseum@gmail.com,+91-22-22660956,"Town Hall, Mumbai, Maharashtra, 400023",18.9321357,72.8322961
+Orissa Crafts Museum,Toshali Plaza,Bhubaneswar,Odisha,751007,9:30 AM,6:00 PM,orissacraftsmuseum@gmail.com,+91-674-2536825,"Toshali Plaza, Bhubaneswar, Odisha, 751007",20.2813151,85.8490846
+Regional Science Centre Guwahati,G.N.B. Road,Guwahati,Assam,781003,10:00 AM,5:30 PM,rscguwahati@gmail.com,+91-361-2452085,"G.N.B. Road, Guwahati, Assam, 781003",26.1851026,91.760066
+Maharaja Fatesingh Museum,Moti Bagh Palace,Vadodara,Gujarat,390001,10:30 AM,5:30 PM,fatesinghmuseum@gmail.com,+91-265-2793328,"Moti Bagh Palace, Vadodara, Gujarat, 390001",22.2899055,73.19435399999999
+Jantar Mantar,Connaught Place,New Delhi,Delhi,110001,9:00 AM,5:30 PM,jantarmantar.delhi@gmail.com,+91-11-23366396,"Connaught Place, New Delhi, Delhi, 110001",28.6304203,77.21772159999999
+Madhya Pradesh State Tribal Museum,Shamla Hills,Bhopal,Madhya Pradesh,462013,12:00 PM,8:00 PM,mptribalmuseum@mp.gov.in,+91-755-2661392,"Shamla Hills, Bhopal, Madhya Pradesh, 462013",23.2349128,77.3826845
+Mary Bishop Museum,Morgan Road,Kochi,Kerala,682016,9:00 AM,5:30 PM,marybishopmuseum@gmail.com,+91-484-2353234,"Morgan Road, Kochi, Kerala, 682016",9.966688,76.2870113
+Xavier Centre of Historical Research Museum,Alto Porvorim,Bardez,Goa,403521,10:00 AM,5:30 PM,xchrmuseum@gmail.com,+91-832-2417772,"Alto Porvorim, Bardez, Goa, 403521",15.5256113,73.8351045
+Raja Ravi Varma Heritage Foundation,Palace Road,Thiruvananthapuram,Kerala,695033,10:00 AM,6:00 PM,rrvheritage@gmail.com,+91-471-2478033,"Palace Road, Thiruvananthapuram, Kerala, 695033",8.4815414,76.944447
+Rural Heritage Museum,Gurukul Road,Haridwar,Uttarakhand,249401,9:00 AM,6:00 PM,ruralmuseum@gmail.com,+91-1334-260637,"Gurukul Road, Haridwar, Uttarakhand, 249401",29.9266195,78.1023264
+Maharaja Agrasen Museum,Model Town,Delhi,Delhi,110009,10:00 AM,5:00 PM,agrasenmuseum@gmail.com,+91-11-27458533,"Model Town, Delhi, Delhi, 110009",28.7095346,77.1887698
+Goa Science Centre,Miramar,Panaji,Goa,403001,9:30 AM,5:30 PM,goasciencecentre@gmail.com,+91-832-2463426,"Miramar, Panaji, Goa, 403001",15.4774686,73.8121396
+Archaeology Museum Nalanda,Nalanda University Campus,Nalanda,Bihar,803111,9:30 AM,5:00 PM,nalandamuseum@gmail.com,+91-6112-255379,"Nalanda University Campus, Nalanda, Bihar, 803111",25.1378586,85.44627340000001
+Anthropological Museum Nagpur,Seminary Hills,Nagpur,Maharashtra,440006,10:30 AM,5:00 PM,anthropology.nagpur@gmail.com,+91-712-2510766,"Seminary Hills, Nagpur, Maharashtra, 440006",21.1631709,79.050381
+Kutch Museum,Hamirsar Road,Bhuj,Gujarat,370001,10:00 AM,1:00 PM,kutchmuseum@gmail.com,+91-2832-250444,"Hamirsar Road, Bhuj, Gujarat, 370001",23.2492715,69.6661471
+Sawai Madhopur Regional Museum,Civil Lines,Sawai Madhopur,Rajasthan,322201,10:00 AM,4:30 PM,sawaimuseum@gmail.com,+91-7462-220062,"Civil Lines, Sawai Madhopur, Rajasthan, 322201",26.4265576,76.6643728
+Hill Palace Museum,Hill Palace Road,Tripunithura,Kerala,682301,9:00 AM,5:00 PM,hillpalacemuseum@gmail.com,+91-484-2781113,"Hill Palace Road, Tripunithura, Kerala, 682301",9.9562299,76.3648769
+Nizam Museum,Purani Haveli,Hyderabad,Telangana,500002,10:00 AM,5:00 PM,nizammuseum@gmail.com,+91-40-24523142,"Purani Haveli, Hyderabad, Telangana, 500002",17.3659421,78.48300859999999
+Archaeological Museum Chandragiri,Chandragiri Fort,Chandragiri,Andhra Pradesh,517101,9:00 AM,5:30 PM,chandragirimuseum@asi.gov.in,+91-877-2249228,"Chandragiri Fort, Chandragiri, Andhra Pradesh, 517101",13.5830349,79.3053587
+Abhinav Kala Mahal,Lake Road,Mount Abu,Rajasthan,307501,10:00 AM,6:00 PM,abhinavkala@gmail.com,+91-2974-235190,"Lake Road, Mount Abu, Rajasthan, 307501",24.5925909,72.7156274
+Jyotiba Science Centre,Ramkrishna Road,Dharwad,Karnataka,580004,10:00 AM,5:00 PM,jyotibascience@gmail.com,+91-836-2747829,"Ramkrishna Road, Dharwad, Karnataka, 580004",15.442456,75.0262976
+Calcutta Gallery,Cathedral Road,Kolkata,West Bengal,700071,10:30 AM,5:00 PM,calcuttagallery@gmail.com,+91-33-22233187,"Cathedral Road, Kolkata, West Bengal, 700071",22.544365,88.3457643
+International Sand Art Museum,Puri Beach,Puri,Odisha,752002,8:00 AM,6:00 PM,sandartmuseum@gmail.com,+91-6752-223366,"Puri Beach, Puri, Odisha, 752002",19.794749,85.8252882
+Madhavendra Palace Museum,Amber Fort,Jaipur,Rajasthan,302028,9:30 AM,4:30 PM,madhavendra@gmail.com,+91-141-2530293,"Amber Fort, Jaipur, Rajasthan, 302028",26.9880088,75.861032
+Aerospace Museum Bangalore,HAL Old Airport Road,Bangalore,Karnataka,560017,9:00 AM,5:00 PM,halmuseum@gmail.com,+91-80-25227756,"HAL Old Airport Road, Bangalore, Karnataka, 560017",12.9581081,77.6672886
+Dhekiakhowa Bornamghar Museum,Jorhat,Jorhat,Assam,785001,9:00 AM,5:00 PM,dhekiakhowamuseum@gmail.com,+91-376-2370221,"Jorhat, Jorhat, Assam, 785001",26.7652207,94.16673399999999
+District Archaeological Museum,Collectorate Road,Salem,Tamil Nadu,636001,10:00 AM,5:30 PM,salemarchaeology@gmail.com,+91-427-2447104,"Collectorate Road, Salem, Tamil Nadu, 636001",11.6584423,78.15678919999999
+Chittorgarh Fort Museum,Chittorgarh Fort,Chittorgarh,Rajasthan,312001,9:00 AM,6:00 PM,chittorgarhmuseum@gmail.com,+91-1472-240083,"Chittorgarh Fort, Chittorgarh, Rajasthan, 312001",24.8839686,74.6473548
+Manipal Museum of Anatomy & Pathology,Manipal University,Manipal,Karnataka,576104,8:30 AM,4:30 PM,anatomymuseum@manipal.edu,+91-820-2922642,"Manipal University, Manipal, Karnataka, 576104",13.3533433,74.78489549999999
+Asiatic Society Museum Kolkata,Park Street,Kolkata,West Bengal,700016,10:00 AM,5:00 PM,asiaticmuseumkol@gmail.com,+91-33-22294971,"Park Street, Kolkata, West Bengal, 700016",22.5493063,88.356861
+CSIR-National Metallurgical Laboratory Museum,Burmamines,Jamshedpur,Jharkhand,831007,9:30 AM,5:30 PM,nmlmuseum@nmlindia.org,+91-657-2345209,"Burmamines, Jamshedpur, Jharkhand, 831007",22.7724451,86.20906049999999
+Chattisgarh Tribal Museum,Kalibari Road,Raipur,Chhattisgarh,492001,10:30 AM,5:30 PM,cgmuseumtribal@gmail.com,+91-771-2254939,"Kalibari Road, Raipur, Chhattisgarh, 492001",21.2337582,81.6390686
+Nehru Memorial Museum & Library,Teen Murti House,New Delhi,Delhi,110011,9:00 AM,5:30 PM,director.nmml@gov.in,+91-11-23019165,"Teen Murti House, New Delhi, Delhi, 110011",28.6023097,77.1995558
+Archaeological Museum Sarnal,G.T. Road,Malda,West Bengal,732101,10:00 AM,5:00 PM,sarnalmuseum@asi.gov.in,+91-3512-266558,"G.T. Road, Malda, West Bengal, 732101",23.6022688,87.1725227
+Amarnath Sehgal Private Museum,Sector 14,Gurgaon,Haryana,122001,11:00 AM,6:00 PM,sehgalmuseum@gmail.com,+91-124-4140134,"Sector 14, Gurgaon, Haryana, 122001",28.4710811,77.0454144
+Tamil Nadu Police Museum,Pantheon Road,Chennai,Tamil Nadu,600008,9:00 AM,5:00 PM,tnpolicemuseum@gmail.com,+91-44-28191180,"Pantheon Road, Chennai, Tamil Nadu, 600008",13.0721938,80.2598699
+Divya Chakshu Exhibition,Pali District,Mount Abu,Rajasthan,307501,9:30 AM,6:00 PM,divyachakshu@gmail.com,+91-2974-238240,"Pali District, Mount Abu, Rajasthan, 307501",24.5925909,72.7156274
+Sultanpur Bird Sanctuary Museum,Sultanpur National Park,Gurugram,Haryana,122006,8:00 AM,6:00 PM,sultanpurmuseum@gmail.com,+91-124-2375242,"Sultanpur National Park, Gurugram, Haryana, 122006",28.4612567,76.89036899999999
+ISKCON Heritage Museum,Hare Krishna Hill,Bengaluru,Karnataka,560010,10:00 AM,7:00 PM,iskconmuseum.blr@gmail.com,+91-80-23471956,"Hare Krishna Hill, Bengaluru, Karnataka, 560010",13.02326,77.55337
+Northeast Zonal Cultural Centre Museum,Rukminigaon,Guwahati,Assam,781022,10:30 AM,5:00 PM,nezccmuseum@gmail.com,+91-361-2331233,"Rukminigaon, Guwahati, Assam, 781022",26.1361511,91.79683349999999
+Salim Ali Centre for Ornithology Museum,Anaikatty,Coimbatore,Tamil Nadu,641108,9:30 AM,4:30 PM,sacomuseum@gmail.com,+91-422-2203100,"Anaikatty, Coimbatore, Tamil Nadu, 641108",11.0838438,76.85399319999999
+Ashwini Kumar Science Centre,Dumka,Dumka,Jharkhand,814101,10:00 AM,5:00 PM,akscdumka@gmail.com,+91-6434-222348,"Dumka, Dumka, Jharkhand, 814101",24.2438054,87.23695289999999
+Uttaranchal Archaeological Museum,Ghantaghar,Dehradun,Uttarakhand,248001,10:00 AM,5:00 PM,uttaranchalmuseum@gmail.com,+91-135-2655351,"Ghantaghar, Dehradun, Uttarakhand, 248001",30.3244257,78.0418333
+Karnataka Folk Museum,Kengeri,Bangalore,Karnataka,560060,10:30 AM,5:00 PM,karnatakafolkmuseum@gmail.com,+91-80-28485845,"Kengeri, Bangalore, Karnataka, 560060",12.8996676,77.4826837
+Daman Museum,Fort Area,Daman,Daman & Diu,396210,10:00 AM,5:30 PM,damanmuseum@gmail.com,+91-260-2230470,"Fort Area, Daman, Daman & Diu, 396210",20.4081635,72.8330849
+Nihali Archaeological Museum,College Road,Latur,Maharashtra,413512,10:00 AM,5:00 PM,nihalimuseum@gmail.com,+91-2382-244842,"College Road, Latur, Maharashtra, 413512",18.3980945,76.5700604
+Jawahar Kala Kendra Museum,JLN Marg,Jaipur,Rajasthan,302004,10:30 AM,6:30 PM,jkkmuseum@gmail.com,+91-141-2709857,"JLN Marg, Jaipur, Rajasthan, 302004",26.8851312,75.8127125
+Zoological Survey of India Museum,New Alipore,Kolkata,West Bengal,700053,10:00 AM,5:00 PM,zsimuseum.kol@gmail.com,+91-33-24008595,"New Alipore, Kolkata, West Bengal, 700053",22.5090392,88.33294269999999
+Banasthali Museum,Banasthali Vidyapith,Tonk,Rajasthan,304022,9:00 AM,5:00 PM,banasthalimuseum@gmail.com,+91-1438-228521,"Banasthali Vidyapith, Tonk, Rajasthan, 304022",26.4423612,75.8766333
+Dzukou Valley Museum,Viswema Village,Kohima,Nagaland,797002,10:00 AM,4:00 PM,dzukoumuseum@gmail.com,+91-370-2243124,"Viswema Village, Kohima, Nagaland, 797002",25.561454,94.14497879999999
+Auroville City Exhibition,Visitors Centre,Auroville,Tamil Nadu,605101,9:00 AM,5:30 PM,aurovilleexhibition@gmail.com,+91-413-2622704,"Visitors Centre, Auroville, Tamil Nadu, 605101",12.0039593,79.8007812
+Kanoria Centre for Arts Museum,University Road,Ahmedabad,Gujarat,380009,11:00 AM,7:00 PM,kanoriamuseum@gmail.com,+91-79-26751542,"University Road, Ahmedabad, Gujarat, 380009",23.032836,72.5493529
+Dirang Ethnographic Museum,West Kameng,Dirang,Arunachal Pradesh,790101,9:30 AM,4:00 PM,dirangmuseum@gmail.com,+91-3782-252756,"West Kameng, Dirang, Arunachal Pradesh, 790101",27.3584422,92.240888
+Puthur Zoological Museum,Puthur,Thrissur,Kerala,680014,9:00 AM,5:00 PM,puthurmuseum@gmail.com,+91-487-2365421,"Puthur, Thrissur, Kerala, 680014",10.4850537,76.2797715
+Indira Gandhi Manav Sangrahalaya,Khandwa Road,Indore,Madhya Pradesh,452017,10:00 AM,6:00 PM,igms.indore@gmail.com,+91-731-2492323,"Khandwa Road, Indore, Madhya Pradesh, 452017",22.6541695,75.885684
+Coral Museum Rameswaram,Sea Shell Museum,Rameswaram,Tamil Nadu,623526,9:00 AM,8:00 PM,coralmuseum@gmail.com,+91-4573-221228,"Sea Shell Museum, Rameswaram, Tamil Nadu, 623526",9.289747499999999,79.315469
+Tawang War Memorial Museum,Tawang,Tawang,Arunachal Pradesh,790104,9:00 AM,5:00 PM,tawangmemorial@gmail.com,+91-3792-222111,"Tawang, Tawang, Arunachal Pradesh, 790104",27.6077271,91.851343
+Koraput District Museum,AT Road,Koraput,Odisha,764020,10:00 AM,5:00 PM,koraputmuseum@gmail.com,+91-6852-251776,"AT Road, Koraput, Odisha, 764020",18.813487,82.71233269999999
+Simhastha Museum,Trimbakeshwar Road,Nashik,Maharashtra,422002,9:00 AM,5:30 PM,simhasthamuseum@gmail.com,+91-253-2594124,"Trimbakeshwar Road, Nashik, Maharashtra, 422002",19.9462433,73.5999358
+Sivagiri Museum,Sivagiri Mutt,Varkala,Kerala,695141,9:30 AM,5:00 PM,sivagirimuseum@gmail.com,+91-470-2602115,"Sivagiri Mutt, Varkala, Kerala, 695141",8.7388792,76.7324107
+National Centre for Arts Museum,Palace Road,Bangalore,Karnataka,560052,10:00 AM,6:00 PM,ncamuseum@gmail.com,+91-80-22261816,"Palace Road, Bangalore, Karnataka, 560052",12.9847384,77.5881217
+Archaeological Museum Chanderi,Chanderi Fort,Chanderi,Madhya Pradesh,473446,9:00 AM,5:00 PM,chanderimuseum@asi.gov.in,+91-7547-252526,"Chanderi Fort, Chanderi, Madhya Pradesh, 473446",24.7128343,78.1364889
+Regional Museum of Natural History,Mysore Zoo,Mysore,Karnataka,570010,10:00 AM,5:30 PM,rmnh.mysore@gmail.com,+91-821-2452199,"Mysore Zoo, Mysore, Karnataka, 570010",12.3024092,76.6638194
+Champaran Museum,Gandhi Maidan,Motihari,Bihar,845401,10:00 AM,5:00 PM,champaranmuseum@gmail.com,+91-6252-232366,"Gandhi Maidan, Motihari, Bihar, 845401",26.6282857,84.9004307
+Kunhimangalam Folklore Museum,Payyannur,Kannur,Kerala,670307,10:00 AM,6:00 PM,kunhimangalammuseum@gmail.com,+91-497-2872845,"Payyannur, Kannur, Kerala, 670307",12.0972416,75.1933906
+DRDO Missile Museum,Kanchanbagh,Hyderabad,Telangana,500058,10:00 AM,5:00 PM,missilemuseum@drdo.gov.in,+91-40-24583724,"Kanchanbagh, Hyderabad, Telangana, 500058",17.3325109,78.5098457
+Regional Science Centre Bhopal,Shyamla Hills,Bhopal,Madhya Pradesh,462013,10:30 AM,6:30 PM,rscbhopal@gmail.com,+91-755-2661503,"Shyamla Hills, Bhopal, Madhya Pradesh, 462013",23.2349128,77.3826845
+Gomira Mask Museum,Dinajpur Road,Malda,West Bengal,732101,10:00 AM,6:00 PM,gomiramuseum@gmail.com,+91-3512-266784,"Dinajpur Road, Malda, West Bengal, 732101",25.0108408,88.14109669999999
+Himalayan Archaeological Museum,Kasar Devi,Almora,Uttarakhand,263601,10:00 AM,5:00 PM,himalayanarchaeology@gmail.com,+91-5962-233971,"Kasar Devi, Almora, Uttarakhand, 263601",29.6417963,79.6617814
+Vikas Bharti Bishunpur Museum,Bishunpur,Gumla,Jharkhand,835331,9:00 AM,5:00 PM,vikasbhartimuseum@gmail.com,+91-6524-259032,"Bishunpur, Gumla, Jharkhand, 835331",23.1954754,84.2041637
+Natural History Museum Thiruvananthapuram,Museum Road,Thiruvananthapuram,Kerala,695033,10:00 AM,5:00 PM,naturalmuseumtvm@gmail.com,+91-471-2315277,"Museum Road, Thiruvananthapuram, Kerala, 695033",8.511529399999999,76.9326167
+Wooden Doll Museum,Government Emporium,Kondapalli,Andhra Pradesh,521228,10:00 AM,6:00 PM,kondapallidolls@gmail.com,+91-866-2577456,"Government Emporium, Kondapalli, Andhra Pradesh, 521228",16.6209149,80.5413043
+Tripura State Museum,MBB College Road,Agartala,Tripura,799001,10:00 AM,5:00 PM,tripurastatemuseum@gmail.com,+91-381-2325264,"MBB College Road, Agartala, Tripura, 799001",23.8288606,91.291573
+Science Park Museum,Sambalpur University,Sambalpur,Odisha,768019,10:00 AM,5:00 PM,scienceparksambalpur@gmail.com,+91-663-2430157,"Sambalpur University, Sambalpur, Odisha, 768019",21.4813003,83.8835362
+Architectural Heritage Museum,Amber Palace,Jaipur,Rajasthan,302028,9:00 AM,4:30 PM,amberheritage@gmail.com,+91-141-2530293,"Amber Palace, Jaipur, Rajasthan, 302028",26.9854865,75.8513454
+Dr. M.S. Randhawa Art Gallery,Punjab Agricultural University,Ludhiana,Punjab,141004,10:00 AM,5:00 PM,randhawagallery@gmail.com,+91-161-2401960,"Punjab Agricultural University, Ludhiana, Punjab, 141004",30.9020153,75.8082773
+Shilpgram Museum,West Zone Cultural Centre,Udaipur,Rajasthan,313001,10:30 AM,5:00 PM,shilpgrammuseum@gmail.com,+91-294-2715005,"West Zone Cultural Centre, Udaipur, Rajasthan, 313001",24.5798917,73.6822506
+Sasivekalu Ganesha Museum,Hemakuta Hill,Hampi,Karnataka,583239,10:00 AM,6:00 PM,hampiganesha@gmail.com,+91-8394-241207,"Hemakuta Hill, Hampi, Karnataka, 583239",15.3325382,76.4595622
+Bundelkhand Historical Museum,Jhansi Fort,Jhansi,Uttar Pradesh,284003,9:00 AM,5:00 PM,bundelkhandmuseum@gmail.com,+91-510-2440053,"Jhansi Fort, Jhansi, Uttar Pradesh, 284003",25.457517,78.5765778
+Museum of Sacred Art,Vrindavan Chandrodaya Mandir,Mathura,Uttar Pradesh,281121,10:00 AM,7:00 PM,mosaindia@gmail.com,+91-565-2442778,"Vrindavan Chandrodaya Mandir, Mathura, Uttar Pradesh, 281121",27.5718095,77.6435161
+Arunachal Pradesh State Museum,Jawaharlal Nehru Museum,Itanagar,Arunachal Pradesh,791111,9:00 AM,4:30 PM,apstatemuseum@gmail.com,+91-360-2212561,"Jawaharlal Nehru Museum, Itanagar, Arunachal Pradesh, 791111",27.1020143,93.6250063
+Folklore Museum of Sikkim,MG Marg,Gangtok,Sikkim,737101,9:30 AM,4:30 PM,sikkimfolkloremuseum@gmail.com,+91-3592-201684,"MG Marg, Gangtok, Sikkim, 737101",27.3253821,88.61189
+Jadughar Ethnographic Museum,Tamulpur,Baksa,Assam,781367,10:00 AM,5:00 PM,jadugharmuseum@gmail.com,+91-3624-295176,"Tamulpur, Baksa, Assam, 781367",26.623456,91.54023269999999
+Tombs of Mandokhel Museum,Yusmarg Road,Charar-e-Sharief,Jammu & Kashmir,191112,9:00 AM,5:00 PM,mandokhelmuseum@gmail.com,+91-1933-264324,"Yusmarg Road, Charar-e-Sharief, Jammu & Kashmir, 191112",33.8114384,74.6926348
+R.C. Boral Film Archive Museum,EM Bypass,Kolkata,West Bengal,700107,11:00 AM,6:00 PM,rcboralarchive@gmail.com,+91-33-23443617,"EM Bypass, Kolkata, West Bengal, 700107",22.5085661,88.4014902
+Science Exploration Hall,Sector 29,Gandhinagar,Gujarat,382030,9:30 AM,6:30 PM,explorationhall@gmail.com,+91-79-23254108,"Sector 29, Gandhinagar, Gujarat, 382030",23.2443207,72.663899
+Dakshinayan Velankanni Museum,Church Road,Velankanni,Tamil Nadu,611111,8:00 AM,8:00 PM,dakshinayanmuseum@gmail.com,+91-4365-263423,"Church Road, Velankanni, Tamil Nadu, 611111",10.6807207,79.8503384
+Oil Museum of Digboi,IOCL Township,Digboi,Assam,786171,9:00 AM,5:00 PM,oilmuseumdigboi@gmail.com,+91-374-2800518,"IOCL Township, Digboi, Assam, 786171",27.3904373,95.6241696
+Contemporary Art Museum,Mill Land,Ahmedabad,Gujarat,380015,11:00 AM,7:00 PM,contemporaryartmuseum@gmail.com,+91-79-26924111,"Mill Land, Ahmedabad, Gujarat, 380015",23.024349,72.5301521
+Salt Museum,Kharaghoda,Surendranagar,Gujarat,382760,10:00 AM,5:00 PM,saltmuseum@gmail.com,+91-2757-284310,"Kharaghoda, Surendranagar, Gujarat, 382760",23.1865691,71.7288834
+Forest Research Institute Museum,Forest Research Institute,Dehradun,Uttarakhand,248006,9:30 AM,5:00 PM,frimuseum@gmail.com,+91-135-2224390,"Forest Research Institute, Dehradun, Uttarakhand, 248006",30.3437685,77.9995589
+Traditional Knowledge Digital Library Museum,CSIR Road,New Delhi,Delhi,110012,10:00 AM,5:30 PM,tkdlmuseum@gmail.com,+91-11-47673217,"CSIR Road, New Delhi, Delhi, 110012",28.5517202,77.2750344
+Zoological Museum,Zoological Survey of India,Chennai,Tamil Nadu,600028,10:00 AM,5:00 PM,zoologicalmuseum.chen@gmail.com,+91-44-24642875,"Zoological Survey of India, Chennai, Tamil Nadu, 600028",13.0246574,80.2741525
+Nagpur Central Museum,Civil Lines,Nagpur,Maharashtra,440001,10:30 AM,6:00 PM,nagpurcentralmuseum@gmail.com,+91-712-2561727,"Civil Lines, Nagpur, Maharashtra, 440001",21.152752,79.074743
+Imphal War Cemetery Museum,Dewlahland,Imphal,Manipur,795001,9:00 AM,4:30 PM,imphalwarmuseum@gmail.com,+91-385-2451081,"Dewlahland, Imphal, Manipur, 795001",24.8235264,93.9425787
+Lakhota Archaeological Museum,Lakhota Lake,Jamnagar,Gujarat,361001,9:00 AM,6:00 PM,lakhotamuseum@gmail.com,+91-288-2550278,"Lakhota Lake, Jamnagar, Gujarat, 361001",22.4656105,70.0644561
+Uttaranchal Sanskrit Academy Museum,Hardwar Road,Dehradun,Uttarakhand,248001,10:00 AM,5:00 PM,sanskritacademy@gmail.com,+91-135-2719226,"Hardwar Road, Dehradun, Uttarakhand, 248001",30.2872645,78.0647605
+Bidri Craft Museum,Bidar Fort,Bidar,Karnataka,585401,10:00 AM,5:30 PM,bidricraft@gmail.com,+91-8482-227042,"Bidar Fort, Bidar, Karnataka, 585401",17.9210724,77.53113350000001
+Tribal Research Institute Museum,Laitumkhrah,Shillong,Meghalaya,793003,10:00 AM,4:30 PM,trimuseum.shillong@gmail.com,+91-364-2224175,"Laitumkhrah, Shillong, Meghalaya, 793003",25.5706702,91.89771309999999
+Senapati District Museum,Senapati,Senapati,Manipur,795106,10:00 AM,4:00 PM,senapatimuseum@gmail.com,+91-3871-222560,"Senapati, Senapati, Manipur, 795106",25.2739969,94.0256627
+CMFRI Marine Biodiversity Museum,Andavar Nagar,Mandapam Camp,Tamil Nadu,623520,9:30 AM,5:00 PM,cmfrimuseum@gmail.com,+91-4573-241443,"Andavar Nagar, Mandapam Camp, Tamil Nadu, 623520",9.279734399999999,79.13871329999999
+Siddharth Art Gallery,Baber Mahal Revisited,Kathmandu,Nepal,44600,11:00 AM,6:00 PM,siddharthartgallery@gmail.com,+977-1-4218048,"Baber Mahal Revisited, Kathmandu, Nepal, 44600",27.6945866,85.32253329999999
+National Museum of Jaipur,Albert Hall,Jaipur,Rajasthan,302004,9:00 AM,5:30 PM,nationalmuseumjaipur@gmail.com,+91-141-2570099,"Albert Hall, Jaipur, Rajasthan, 302004",26.9082063,75.8156819
+Krishi Vigyan Kendra Museum,Babesa,Thimphu,Bhutan,11001,9:00 AM,5:00 PM,kvkmuseum@gmail.com,+975-2-322936,"Babesa, Thimphu, Bhutan, 11001",27.4349991,89.6526983
+Port of Kolkata Maritime Museum,15 Strand Road,Kolkata,West Bengal,700001,10:00 AM,5:30 PM,kolkataportmuseum@gmail.com,+91-33-22432439,"15 Strand Road, Kolkata, West Bengal, 700001",22.5728539,88.3462165
+Velu Nachiyar Memorial Museum,Sivaganga Fort,Sivaganga,Tamil Nadu,630561,9:30 AM,5:00 PM,velunachiyarmuseum@gmail.com,+91-4575-241590,"Sivaganga Fort, Sivaganga, Tamil Nadu, 630561",9.8479616,78.4832344
+Kunbi Textile Museum,Ponda,North Goa,Goa,403401,10:00 AM,5:00 PM,kunbitextilemuseum@gmail.com,+91-832-2313593,"Ponda, North Goa, Goa, 403401",15.3921558,73.99475629999999
+Dongria Kondh Museum,Bissam Cuttack,Rayagada,Odisha,765019,10:00 AM,5:00 PM,dongriakondh@gmail.com,+91-6856-223314,"Bissam Cuttack, Rayagada, Odisha, 765019",19.5088016,83.50435449999999
+Archaeological Museum Vijayawada,Mogalrajapuram,Vijayawada,Andhra Pradesh,520010,10:00 AM,5:00 PM,archaeomuseum.vijayawada@gmail.com,+91-866-2430380,"Mogalrajapuram, Vijayawada, Andhra Pradesh, 520010",16.5059513,80.6451779
+Buddhist Museum Sarnath,Sarnath,Varanasi,Uttar Pradesh,221007,10:00 AM,5:00 PM,buddhistmuseum@gmail.com,+91-542-2595095,"Sarnath, Varanasi, Uttar Pradesh, 221007",25.3715564,83.0252136
+Folklore Research Centre Museum,Palayamkottai,Tirunelveli,Tamil Nadu,627002,10:00 AM,5:30 PM,folkmuseum.tnvl@gmail.com,+91-462-2338701,"Palayamkottai, Tirunelveli, Tamil Nadu, 627002",8.7198949,77.7344288
+Pragati Maidan Exhibition Centre Museum,Mathura Road,New Delhi,Delhi,110002,10:00 AM,6:00 PM,pragatimaidan.museum@itpo.gov.in,+91-11-23371540,"Mathura Road, New Delhi, Delhi, 110002",28.617661,77.240494
+Air Force Heritage Centre,Chandigarh,Chandigarh,Chandigarh,160017,10:00 AM,6:00 PM,airforceheritage@gmail.com,+91-172-5086245,"Chandigarh, Chandigarh, Chandigarh, 160017",30.7398339,76.782702
+Ishanya Culture Centre Museum,Airport Road,Pune,Maharashtra,411006,11:00 AM,8:00 PM,ishanyamuseum@gmail.com,+91-20-26952617,"Airport Road, Pune, Maharashtra, 411006",18.5603188,73.891799
+Rajbadi Archaeological Museum,Rajbadi Road,Lamphelpat,Manipur,795004,10:00 AM,4:00 PM,rajbadimuseum@gmail.com,+91-385-2414670,"Rajbadi Road, Lamphelpat, Manipur, 795004",24.8236023,93.9113634
+Sohra Museum,Sohra Market,Cherrapunjee,Meghalaya,793108,9:30 AM,4:30 PM,sohramuseum@gmail.com,+91-3637-270248,"Sohra Market, Cherrapunjee, Meghalaya, 793108",25.2890247,91.7075187
+Bhutia Tribal Museum,Pelling,West Sikkim,Sikkim,737113,9:00 AM,4:00 PM,bhutiamuspelling@gmail.com,+91-3595-258536,"Pelling, West Sikkim, Sikkim, 737113",27.3197716,88.2400333
+Panaji State Archaeological Museum,Old GMC Complex,Panaji,Goa,403001,9:30 AM,5:30 PM,panajiarchaeology@gmail.com,+91-832-2226573,"Old GMC Complex, Panaji, Goa, 403001",15.4991031,73.82068579999999
+Ethnographic Museum of Tribal Arts,Araku Valley,Visakhapatnam,Andhra Pradesh,531149,10:00 AM,5:00 PM,arakutribalmuseum@gmail.com,+91-8936-249245,"Araku Valley, Visakhapatnam, Andhra Pradesh, 531149",18.3222221,82.88017649999999
+Radhanagar Archaeological Museum,Radhanagar,South Tripura,Tripura,799102,10:00 AM,5:00 PM,radhanagar@gmail.com,+91-381-2325264,"Radhanagar, South Tripura, Tripura, 799102",23.6391002,91.26984750000001
+Aadi Chitra Museum,Industrial Area,Solan,Himachal Pradesh,173212,10:00 AM,6:00 PM,aadichitramuseum@gmail.com,+91-1792-223052,"Industrial Area, Solan, Himachal Pradesh, 173212",30.9084245,77.09990309999999
+Museum of Goan Christian Art,Christian Art Centre,Velha Goa,Goa,403402,9:00 AM,5:00 PM,christianartmuseum@gmail.com,+91-832-2285936,"Christian Art Centre, Velha Goa, Goa, 403402",15.5019663,73.90999049999999
+Archaeological Museum Sirpur,Sirpur,Mahasamund,Chhattisgarh,493445,10:00 AM,5:00 PM,sirpurmuseum@gmail.com,+91-7724-244245,"Sirpur, Mahasamund, Chhattisgarh, 493445",21.3443489,82.1903963
+Khajuraho Archaeological Museum,Western Group of Temples,Khajuraho,Madhya Pradesh,471606,10:00 AM,5:00 PM,khajurahomuseum@gmail.com,+91-7686-274051,"Western Group of Temples, Khajuraho, Madhya Pradesh, 471606",24.8530929,79.92157069999999
+Barasat District Museum,Station Road,Barasat,West Bengal,700124,10:30 AM,5:00 PM,barasatmuseum@gmail.com,+91-33-25523760,"Station Road, Barasat, West Bengal, 700124",22.7227003,88.4840307
+Tadoba Tiger Interpretation Centre Museum,Moharli Gate,Chandrapur,Maharashtra,442401,8:00 AM,6:00 PM,tadobamuseum@gmail.com,+91-7172-251414,"Moharli Gate, Chandrapur, Maharashtra, 442401",19.972305,79.2991017
+Regional Science Centre & Planetarium,Calicut University P.O.,Kozhikode,Kerala,673635,10:00 AM,5:30 PM,rsckozhikode@gmail.com,+91-495-2806085,"Calicut University P.O., Kozhikode, Kerala, 673635",11.1340267,75.89523539999999
+Tharu Tribal Museum,Dudhwa National Park,Lakhimpur Kheri,Uttar Pradesh,262701,9:00 AM,5:00 PM,tharumuseum@gmail.com,+91-5872-252106,"Dudhwa National Park, Lakhimpur Kheri, Uttar Pradesh, 262701",28.0073044,80.6992633
+Stone Sculpture Museum,Ellora Caves,Aurangabad,Maharashtra,431102,9:00 AM,5:30 PM,elloramuseum@asi.gov.in,+91-240-2400620,"Ellora Caves, Aurangabad, Maharashtra, 431102",20.0267844,75.17708689999999
+Bell Metal Craft Museum,Kondagaon,Kondagaon,Chhattisgarh,494226,10:00 AM,5:00 PM,bellmetalmuseum@gmail.com,+91-7786-242240,"Kondagaon, Kondagaon, Chhattisgarh, 494226",19.595393,81.664585
+Archaeological Museum Bodhgaya,Mahabodhi Temple Complex,Gaya,Bihar,824231,10:00 AM,5:00 PM,bodhgayamuseum@asi.gov.in,+91-631-2200445,"Mahabodhi Temple Complex, Gaya, Bihar, 824231",24.6959222,84.99141929999999
+Bhondla Folklore Museum,Nanded Road,Parbhani,Maharashtra,431401,10:00 AM,6:00 PM,bhondlamuseum@gmail.com,+91-2452-220462,"Nanded Road, Parbhani, Maharashtra, 431401",19.2531949,76.7939372
+Kodaikanal Solar Physics Observatory Museum,Observatory Road,Kodaikanal,Tamil Nadu,624103,9:00 AM,5:00 PM,kodaikanalsolar@gmail.com,+91-4542-240218,"Observatory Road, Kodaikanal, Tamil Nadu, 624103",10.234255,77.4772811
+Nubra Valley Heritage Museum,Diskit,Nubra Valley,Ladakh,194401,9:00 AM,5:00 PM,nubramuseum@gmail.com,+91-1980-221010,"Diskit, Nubra Valley, Ladakh, 194401",34.5507427,77.54623529999999
+Janapada Sampada Folk Art Museum,Bhimtal Road,Nainital,Uttarakhand,263002,10:00 AM,6:00 PM,janapada.nainital@gmail.com,+91-5942-236219,"Bhimtal Road, Nainital, Uttarakhand, 263002",29.3631542,79.5470417
+Mundari Cultural Museum,Khunti,Khunti,Jharkhand,835210,10:00 AM,5:00 PM,mundarimuseum@gmail.com,+91-6528-220124,"Khunti, Khunti, Jharkhand, 835210",23.0797595,85.2774207
+Saraswathi Mahal Library Museum,Thanjavur Palace,Thanjavur,Tamil Nadu,613009,10:00 AM,5:00 PM,saraswathimahallibrary@gmail.com,+91-4362-234179,"Thanjavur Palace, Thanjavur, Tamil Nadu, 613009",10.7851475,79.1181599
+Neora Valley Interpretation Centre,Kalimpong,Darjeeling,West# filepath: /Users/anujrishutiwari/Developer/github/python/anuj.csv,,,,,,"Kalimpong, Darjeeling, West# filepath: /Users/anujrishutiwari/Developer/github/python/anuj.csv, nan",27.0593562,88.46945350000001
+Neora Valley Interpretation Centre,Kalimpong Road,Darjeeling,West Bengal,734101,9:30 AM,4:30 PM,neoravalley@gmail.com,+91-354-2254186,"Kalimpong Road, Darjeeling, West Bengal, 734101",27.0206842,88.30594119999999
+Himalayan Mountaineering Museum,HMI Complex,Darjeeling,West Bengal,734101,8:00 AM,5:30 PM,himamuseum@gmail.com,+91-354-2254087,"HMI Complex, Darjeeling, West Bengal, 734101",27.0080164,88.2470326
+Mizo Cultural Heritage Museum,Tanhril,Aizawl,Mizoram,796009,10:00 AM,5:00 PM,mizoheritage@gmail.com,+91-389-2331610,"Tanhril, Aizawl, Mizoram, 796009",23.7406865,92.6769846
+Phek District Museum,Pfutsero Road,Phek,Nagaland,797107,10:00 AM,4:00 PM,phekmuseum@gmail.com,+91-3865-223046,"Pfutsero Road, Phek, Nagaland, 797107",25.570074,94.2989331
+Wangala Festival Museum,Tura Main Market,Tura,Meghalaya,794001,9:30 AM,4:30 PM,wangalamuseum@gmail.com,+91-3651-232410,"Tura Main Market, Tura, Meghalaya, 794001",25.5142986,90.20414199999999
+Reiek Heritage Village Museum,Reiek Mountain,Mamit,Mizoram,796431,9:00 AM,4:00 PM,reiekmuseum@gmail.com,+91-389-2342165,"Reiek Mountain, Mamit, Mizoram, 796431",23.6016893,92.4208713
+Toto Cultural Museum,Totopara,Alipurduar,West Bengal,735217,10:00 AM,4:30 PM,totoculture@gmail.com,+91-3564-255173,"Totopara, Alipurduar, West Bengal, 735217",26.8363886,89.317951
+Science Centre & Digital Planetarium,Sukreswar Hill,Guwahati,Assam,781003,10:00 AM,5:00 PM,sciencecentreguwahati@gmail.com,+91-361-2545779,"Sukreswar Hill, Guwahati, Assam, 781003",26.1877755,91.7411565
+Dima Hasao District Museum,Haflong Town,Haflong,Assam,788819,10:00 AM,4:30 PM,dimahsaomuseum@gmail.com,+91-3673-236241,"Haflong Town, Haflong, Assam, 788819",25.1709445,93.01608069999999
+Kohima World War II Museum,Kisama Heritage Village,Kohima,Nagaland,797001,9:00 AM,5:00 PM,ww2museumkohima@gmail.com,+91-370-2243124,"Kisama Heritage Village, Kohima, Nagaland, 797001",25.616329,94.11440340000001
+Tamenglong District Museum,District Headquarters,Tamenglong,Manipur,795141,9:30 AM,4:00 PM,tamenglongmuseum@gmail.com,+91-3876-262414,"District Headquarters, Tamenglong, Manipur, 795141",24.9897661,93.5011835
+Longding Heritage Centre,Main Market,Longding,Arunachal Pradesh,786892,10:00 AM,4:00 PM,longdingheritage@gmail.com,+91-3788-257034,"Main Market, Longding, Arunachal Pradesh, 786892",26.837169,95.35208759999999
+Jainti Forest Museum,Buxa Tiger Reserve,Alipurduar,West Bengal,735227,8:00 AM,4:00 PM,jaintimuseum@gmail.com,+91-3564-277139,"Buxa Tiger Reserve, Alipurduar, West Bengal, 735227",26.6170366,89.52826069999999
+Mokokchung District Museum,Town Hall Road,Mokokchung,Nagaland,798601,10:00 AM,4:00 PM,mokokchungmuseum@gmail.com,+91-369-2226322,"Town Hall Road, Mokokchung, Nagaland, 798601",26.3210313,94.5147156
+Churachandpur Tribal Museum,Tuibong,Churachandpur,Manipur,795128,9:30 AM,4:00 PM,ccpurmuseum@gmail.com,+91-3874-235712,"Tuibong, Churachandpur, Manipur, 795128",24.3612139,93.70099739999999
+Chang Lo Tribal Museum,Tuensang Town,Tuensang,Nagaland,798612,10:00 AM,4:00 PM,changlomuseum@gmail.com,+91-3861-220384,"Tuensang Town, Tuensang, Nagaland, 798612",26.234793,94.811956
+Lower Subansiri Museum,Hapoli Road,Ziro,Arunachal Pradesh,791120,10:00 AM,4:30 PM,lsmuseum@gmail.com,+91-3788-224213,"Hapoli Road, Ziro, Arunachal Pradesh, 791120",27.544912,93.8196686
+Khowai District Museum,College Road,Khowai,Tripura,799201,10:00 AM,5:00 PM,khowaimuseum@gmail.com,+91-3825-222147,"College Road, Khowai, Tripura, 799201",24.3806692,92.1754582
+Upper Siang Cultural Centre,Township Area,Yingkiong,Arunachal Pradesh,791001,9:30 AM,4:00 PM,usccyingkiong@gmail.com,+91-3777-222075,"Township Area, Yingkiong, Arunachal Pradesh, 791001",28.6235847,95.0364522
+Papum Pare Heritage Museum,Yupia,Itanagar,Arunachal Pradesh,791110,10:00 AM,4:30 PM,papummuseum@gmail.com,+91-360-2284686,"Yupia, Itanagar, Arunachal Pradesh, 791110",27.1465064,93.71939359999999
+Sepahijala Wildlife Museum,Sepahijala Wildlife Sanctuary,Bishramganj,Tripura,799102,9:00 AM,5:00 PM,sepahijalamuseum@gmail.com,+91-381-2867896,"Sepahijala Wildlife Sanctuary, Bishramganj, Tripura, 799102",23.6684101,91.32282289999999
+Namsai Buddhist Museum,Golden Pagoda Complex,Namsai,Arunachal Pradesh,792103,9:00 AM,5:00 PM,namsaibuddhistmuseum@gmail.com,+91-3806-262414,"Golden Pagoda Complex, Namsai, Arunachal Pradesh, 792103",27.6684661,95.8642504
+Ukhrul District Heritage Museum,Wino Bazaar,Ukhrul,Manipur,795142,9:30 AM,4:30 PM,ukhrulmuseum@gmail.com,+91-3870-222546,"Wino Bazaar, Ukhrul, Manipur, 795142",25.1058325,94.3617319
+Dimasa Cultural Museum,Haflong Lake,Haflong,Assam,788819,9:00 AM,4:30 PM,dimasaheritage@gmail.com,+91-3673-236547,"Haflong Lake, Haflong, Assam, 788819",25.1655592,93.0161638
+Serchhip District Museum,Main Road,Serchhip,Mizoram,796181,10:00 AM,4:00 PM,serchhipmuseum@gmail.com,+91-389-2342278,"Main Road, Serchhip, Mizoram, 796181",23.311308,92.8564098
+Changlang District Museum,Main Market,Changlang,Arunachal Pradesh,792120,9:30 AM,4:00 PM,changlangmuseum@gmail.com,+91-3808-222274,"Main Market, Changlang, Arunachal Pradesh, 792120",27.1355348,95.73644170000001
+Dhalai District Museum,College Road,Ambassa,Tripura,799289,10:00 AM,5:00 PM,dhalaimuseum@gmail.com,+91-3826-222154,"College Road, Ambassa, Tripura, 799289",23.921233,91.8512714
+Zunheboto District Museum,Town Area,Zunheboto,Nagaland,798620,10:00 AM,4:00 PM,zunhebotomuseum@gmail.com,+91-3867-220568,"Town Area, Zunheboto, Nagaland, 798620",26.0128579,94.5241504
+West Kameng Textile Museum,Bomdila Market,Bomdila,Arunachal Pradesh,790001,9:30 AM,4:30 PM,westkamengtextiles@gmail.com,+91-3782-222328,"Bomdila Market, Bomdila, Arunachal Pradesh, 790001",27.2617301,92.42093969999999
+Unakoti Heritage Site Museum,Unakoti Hills,Kailashahar,Tripura,799277,9:00 AM,5:30 PM,unakotimuseum@gmail.com,+91-3824-222856,"Unakoti Hills, Kailashahar, Tripura, 799277",24.3268117,92.0126276
+Tangkhul Heritage Museum,Ukhrul Road,Imphal East,Manipur,795001,10:00 AM,4:30 PM,tangkhulmuseum@gmail.com,+91-385-2435612,"Ukhrul Road, Imphal East, Manipur, 795001",24.9469683,94.1705308
+East Sikkim Cultural Museum,Development Area,Gangtok,Sikkim,737101,10:00 AM,4:00 PM,eastsikkimmuseum@gmail.com,+91-3592-202645,"Development Area, Gangtok, Sikkim, 737101",27.3378731,88.61220279999999
+Champhai District Museum,Salem Veng,Champhai,Mizoram,796321,9:30 AM,4:00 PM,champhaimuseum@gmail.com,+91-389-2334567,"Salem Veng, Champhai, Mizoram, 796321",23.4775158,93.3236697
+Kamjong District Heritage Centre,District Headquarters,Kamjong,Manipur,795158,10:00 AM,4:00 PM,kamjongmuseum@gmail.com,+91-3879-222346,"District Headquarters, Kamjong, Manipur, 795158",24.8615272,94.51064749999999
+Pangsha Border Museum,Indo-Myanmar Border,Mon,Nagaland,798621,10:00 AM,4:00 PM,pangshamuseum@gmail.com,+91-3860-277425,"Indo-Myanmar Border, Mon, Nagaland, 798621",26.7523961,95.1015225
+West Sikkim Heritage Museum,Geyzing Bazaar,Geyzing,Sikkim,737111,9:30 AM,4:00 PM,westsikkimmuseum@gmail.com,+91-3595-250622,"Geyzing Bazaar, Geyzing, Sikkim, 737111",27.2897116,88.25757580000001
+Anjaw District Cultural Centre,District HQ,Hawai,Arunachal Pradesh,792104,9:00 AM,4:30 PM,anjawculture@gmail.com,+91-3801-222431,"District HQ, Hawai, Arunachal Pradesh, 792104",27.8842582,96.81689539999999
+Tawang Monastery Museum,Tawang Monastery,Tawang,Arunachal Pradesh,790104,8:00 AM,5:00 PM,tawangmonasterymuseum@gmail.com,+91-3794-222301,"Tawang Monastery, Tawang, Arunachal Pradesh, 790104",27.5867261,91.8577194
+Khonsa Heritage Centre,DC Office Road,Khonsa,Arunachal Pradesh,786630,9:30 AM,4:00 PM,khonsaheritage@gmail.com,+91-3786-222347,"DC Office Road, Khonsa, Arunachal Pradesh, 786630",26.9925901,95.5014167
+Hailakandi District Museum,Main Road,Hailakandi,Assam,788151,10:00 AM,5:00 PM,hailakandimuseum@gmail.com,+91-3844-223478,"Main Road, Hailakandi, Assam, 788151",24.6660625,92.7189972
+Baksa District Museum,Mushalpur,Baksa,Assam,781372,10:00 AM,4:30 PM,baksamuseum@gmail.com,+91-3624-255689,"Mushalpur, Baksa, Assam, 781372",26.6593594,91.3408979
+Saiha District Museum,Council Road,Saiha,Mizoram,796901,9:30 AM,4:30 PM,saihamuseum@gmail.com,+91-3835-222021,"Council Road, Saiha, Mizoram, 796901",22.4889619,92.97697060000002
+Rengma Cultural Museum,Tseminyu Road,Kohima,Nagaland,797001,10:00 AM,4:00 PM,rengmamuseum@gmail.com,+91-370-2243678,"Tseminyu Road, Kohima, Nagaland, 797001",25.6732954,94.1078877
+Siaha Cultural Centre,New Colony,Siaha,Mizoram,796901,9:30 AM,4:00 PM,siahamuseum@gmail.com,+91-3835-222541,"New Colony, Siaha, Mizoram, 796901",22.4900984,92.9808851
+North Sikkim Heritage Museum,Mangan Bazaar,Mangan,Sikkim,737116,10:00 AM,4:30 PM,northsikkimmuseum@gmail.com,+91-3592-234526,"Mangan Bazaar, Mangan, Sikkim, 737116",27.5033789,88.53447609999999
+Senapati Cultural Centre,Karong,Senapati,Manipur,795106,10:00 AM,4:00 PM,senapaticentre@gmail.com,+91-3871-222541,"Karong, Senapati, Manipur, 795106",25.3033221,94.04463799999999
+Dibang Valley Museum,District HQ,Anini,Arunachal Pradesh,792101,9:30 AM,4:00 PM,dibangmuseum@gmail.com,+91-3801-222478,"District HQ, Anini, Arunachal Pradesh, 792101",28.7972218,95.9047875
+Kargil War Memorial Museum,Drass,Kargil,Ladakh,194103,8:00 AM,6:00 PM,kargilmemorial@gmail.com,+91-1985-231026,"Drass, Kargil, Ladakh, 194103",34.4269074,75.74587079999999
+Daporijo Heritage Museum,Upper Subansiri,Daporijo,Arunachal Pradesh,791122,10:00 AM,4:00 PM,daporijomuseum@gmail.com,+91-3792-223145,"Upper Subansiri, Daporijo, Arunachal Pradesh, 791122",27.9838687,94.2226817
+South Garo Hills Museum,Baghmara,Baghmara,Meghalaya,794102,10:00 AM,4:30 PM,southgaromuseum@gmail.com,+91-3639-275632,"Baghmara, Baghmara, Meghalaya, 794102",25.1978931,90.629375
+Tali Heritage Centre,Village Centre,Tali,Arunachal Pradesh,791001,9:00 AM,4:00 PM,taliheritage@gmail.com,+91-3792-214523,"Village Centre, Tali, Arunachal Pradesh, 791001",28.3141623,94.645035
+Khasi Heritage Museum,Mawryngkneng,East Khasi Hills,Meghalaya,793021,10:00 AM,4:00 PM,khasimuseum@gmail.com,+91-3637-261548,"Mawryngkneng, East Khasi Hills, Meghalaya, 793021",25.5514568,92.05484919999999
+Jaintia Heritage Centre,Jowai Town,West Jaintia Hills,Meghalaya,793150,9:30 AM,4:30 PM,jaintiaheritage@gmail.com,+91-3652-220743,"Jowai Town, West Jaintia Hills, Meghalaya, 793150",25.450902,92.20891089999999
+Tea Museum Dibrugarh,Chowkidinghee,Dibrugarh,Assam,786001,10:00 AM,5:00 PM,teamuseum.dibrugarh@gmail.com,+91-373-2321610,"Chowkidinghee, Dibrugarh, Assam, 786001",27.4706047,94.9104306
+Tai Ahom Heritage Museum,Sivasagar Road,Jorhat,Assam,785001,10:00 AM,5:00 PM,taiahommuseum@gmail.com,+91-376-2320124,"Sivasagar Road, Jorhat, Assam, 785001",26.754267,94.218131
+Unakoti Rock Carving Museum,Kailashahar Road,Unakoti,Tripura,799277,9:00 AM,5:00 PM,unakoticarvings@gmail.com,+91-3824-222914,"Kailashahar Road, Unakoti, Tripura, 799277",24.2646338,92.0158511
+Lepcha Heritage Museum,Kalimpong Road,Gangtok,Sikkim,737101,10:00 AM,4:30 PM,lepchamuseum@gmail.com,+91-3592-231452,"Kalimpong Road, Gangtok, Sikkim, 737101",27.3292778,88.6118669
+Nyishi Heritage Centre,Itanagar Township,Itanagar,Arunachal Pradesh,791111,10:00 AM,5:00 PM,nyishiheritage@gmail.com,+91-360-2217821,"Itanagar Township, Itanagar, Arunachal Pradesh, 791111",27.0843682,93.6053163
+Liangmai Tribal Museum,Tamenglong Centre,Tamenglong,Manipur,795141,9:30 AM,4:00 PM,liangmaimuseum@gmail.com,+91-3877-222548,"Tamenglong Centre, Tamenglong, Manipur, 795141",24.9897661,93.5011835
+Sema Tribal Museum,Zunheboto Town,Zunheboto,Nagaland,798620,10:00 AM,4:00 PM,sematribalmuseum@gmail.com,+91-3867-220145,"Zunheboto Town, Zunheboto, Nagaland, 798620",26.0128579,94.5241504
+East Siang Heritage Centre,Pasighat Market,Pasighat,Arunachal Pradesh,791102,9:00 AM,4:30 PM,eastsiang@gmail.com,+91-3801-222647,"Pasighat Market, Pasighat, Arunachal Pradesh, 791102",28.0603082,95.3314668
+Lai Heritage Museum,Lawngtlai Town,Lawngtlai,Mizoram,796891,10:00 AM,4:30 PM,laiheritage@gmail.com,+91-3835-233145,"Lawngtlai Town, Lawngtlai, Mizoram, 796891",22.5320875,92.8990711
+Zeliangrong Cultural Museum,Tamenglong HQ,Tamenglong,Manipur,795141,10:00 AM,4:00 PM,zeliangrong@gmail.com,+91-3877-222416,"Tamenglong HQ, Tamenglong, Manipur, 795141",24.9897661,93.5011835
+Karbi Heritage Museum,Diphu Town,Karbi Anglong,Assam,782460,9:30 AM,4:30 PM,karbimuseum@gmail.com,+91-3671-272345,"Diphu Town, Karbi Anglong, Assam, 782460",25.8441997,93.44019109999999
+Zomi Tribal Museum,Churachandpur Town,Churachandpur,Manipur,795128,10:00 AM,4:30 PM,zomimuseum@gmail.com,+91-3874-235421,"Churachandpur Town, Churachandpur, Manipur, 795128",24.3460416,93.6999733
+Ao Tribal Museum,Mokokchung Town,Mokokchung,Nagaland,798601,9:30 AM,4:00 PM,aotribalmuseum@gmail.com,+91-369-2226587,"Mokokchung Town, Mokokchung, Nagaland, 798601",26.3210313,94.5147156
+Tirap District Museum,Khonsa Town,Khonsa,Arunachal Pradesh,786630,10:00 AM,4:00 PM,tirapmuseum@gmail.com,+91-3786-222789,"Khonsa Town, Khonsa, Arunachal Pradesh, 786630",26.9925901,95.5014167
+North District Folk Museum,Mangan Bazaar,Mangan,Sikkim,737116,9:30 AM,4:30 PM,northdistrictmuseum@gmail.com,+91-3595-258462,"Mangan Bazaar, Mangan, Sikkim, 737116",27.5033789,88.53447609999999
+Mara Cultural Museum,Siaha Town,Siaha,Mizoram,796901,10:00 AM,4:00 PM,maramuseum@gmail.com,+91-3835-222478,"Siaha Town, Siaha, Mizoram, 796901",22.4889619,92.97697060000002
+Konyak Heritage Centre,Mon Town,Mon,Nagaland,798621,9:00 AM,4:30 PM,konyakheritage@gmail.com,+91-3860-225647,"Mon Town, Mon, Nagaland, 798621",26.733096,95.0615119
+Kurung Kumey Heritage Museum,Koloriang,Koloriang,Arunachal Pradesh,791121,10:00 AM,4:00 PM,kurungmuseum@gmail.com,+91-3787-232415,"Koloriang, Koloriang, Arunachal Pradesh, 791121",27.9038219,93.35341969999999
+Gomati District Museum,Udaipur Town,Udaipur,Tripura,799120,10:00 AM,5:00 PM,gomatimuseum@gmail.com,+91-3821-222365,"Udaipur Town, Udaipur, Tripura, 799120",23.5243038,91.4676394
+Chakma Heritage Centre,Chawngte,Lawngtlai,Mizoram,796891,9:30 AM,4:00 PM,chakmamuseum@gmail.com,+91-3835-232415,"Chawngte, Lawngtlai, Mizoram, 796891",22.311443,92.6983868
+Bamak Heritage Museum,Namsai Town,Namsai,Arunachal Pradesh,792103,10:00 AM,4:30 PM,bamakmuseum@gmail.com,+91-3806-262478,"Namsai Town, Namsai, Arunachal Pradesh, 792103",27.6666459,95.8625935
+Pawi Tribal Museum,Saiha Town,Saiha,Mizoram,796901,10:00 AM,4:00 PM,pawimuseum@gmail.com,+91-3835-222569,"Saiha Town, Saiha, Mizoram, 796901",22.4889619,92.97697060000002
+Changlang Textile Museum,Changlang Town,Changlang,Arunachal Pradesh,792120,9:30 AM,4:30 PM,changlangtextiles@gmail.com,+91-3808-222514,"Changlang Town, Changlang, Arunachal Pradesh, 792120",27.1305816,95.7343173
+West District Heritage Centre,Gyalshing,Geyzing,Sikkim,737111,10:00 AM,4:30 PM,westdistrict@gmail.com,+91-3595-250426,"Gyalshing, Geyzing, Sikkim, 737111",27.2893118,88.2585144
+Hmar Cultural Museum,Jiribam Road,Churachandpur,Manipur,795128,10:00 AM,4:00 PM,hmarmuseum@gmail.com,+91-3874-234856,"Jiribam Road, Churachandpur, Manipur, 795128",24.8127089,93.5428441
+Angami Heritage Centre,Kohima Village,Kohima,Nagaland,797001,9:30 AM,4:30 PM,angamiheritage@gmail.com,+91-370-2243789,"Kohima Village, Kohima, Nagaland, 797001",25.6732954,94.1078877
+Apatani Cultural Museum,Ziro Valley,Ziro,Arunachal Pradesh,791120,10:00 AM,4:00 PM,apatanimuseum@gmail.com,+91-3788-224587,"Ziro Valley, Ziro, Arunachal Pradesh, 791120",27.544912,93.8196686
+Longwa Village Museum,Indo-Myanmar Border,Mon,Nagaland,798621,9:00 AM,4:00 PM,longwamuseum@gmail.com,+91-3860-226574,"Indo-Myanmar Border, Mon, Nagaland, 798621",26.7523961,95.1015225
+Khoupum Valley Museum,Nungba,Tamenglong,Manipur,795158,10:00 AM,4:00 PM,khoupummuseum@gmail.com,+91-3877-223645,"Nungba, Tamenglong, Manipur, 795158",24.7458262,93.42573569999999
+Lower Dibang Valley Museum,Roing Town,Roing,Arunachal Pradesh,792110,9:30 AM,4:30 PM,ldvmuseum@gmail.com,+91-3803-222478,"Roing Town, Roing, Arunachal Pradesh, 792110",28.1178597,95.8225911
+Dhanpuri Museum and Art Gallery,Dhanpuri Road,Shahdol,Madhya Pradesh,484001,10:00 AM,5:30 PM,dhanpurimuseum@gmail.com,+91-7652-240517,"Dhanpuri Road, Shahdol, Madhya Pradesh, 484001",23.1875082,81.5343186
+Chambal Valley Museum,Chambal Colony,Morena,Madhya Pradesh,476001,10:30 AM,5:00 PM,chambalmuseum@gmail.com,+91-7532-234156,"Chambal Colony, Morena, Madhya Pradesh, 476001",26.4859469,77.9848724
+Malwa Regional Heritage Museum,A.B. Road,Indore,Madhya Pradesh,452010,10:00 AM,6:00 PM,malwaheritage@gmail.com,+91-731-2492367,"A.B. Road, Indore, Madhya Pradesh, 452010",22.7552436,75.8966246
+Bhimbetka Rock Shelter Interpretation Centre,Bhimbetka Site,Raisen,Madhya Pradesh,464551,9:00 AM,5:30 PM,bhimbetkacentre@gmail.com,+91-755-2661390,"Bhimbetka Site, Raisen, Madhya Pradesh, 464551",23.3327329,77.7823973
+Pithampur Industrial Heritage Museum,Industrial Area,Pithampur,Madhya Pradesh,454775,10:00 AM,5:00 PM,pithampurmuseum@gmail.com,+91-7292-252847,"Industrial Area, Pithampur, Madhya Pradesh, 454775",22.620465,75.6848074
+Bundelkhand Tribal Museum,Chanderi Road,Ashoknagar,Madhya Pradesh,473331,10:30 AM,5:00 PM,bundelkhandtribal@gmail.com,+91-7543-220417,"Chanderi Road, Ashoknagar, Madhya Pradesh, 473331",24.8698287,78.150431
+Central Museum Jabalpur,Civil Lines,Jabalpur,Madhya Pradesh,482001,10:00 AM,5:30 PM,centralmuseum.jbp@gmail.com,+91-761-2626845,"Civil Lines, Jabalpur, Madhya Pradesh, 482001",23.1647787,79.9558267
+Jhabua Tribal Research Centre Museum,Meghnagar Road,Jhabua,Madhya Pradesh,457661,10:00 AM,4:30 PM,jhabuamuseum@gmail.com,+91-7392-243509,"Meghnagar Road, Jhabua, Madhya Pradesh, 457661",22.769666,74.5920921
+Ujjain Astronomical Museum,Jantar Mantar,Ujjain,Madhya Pradesh,456006,9:30 AM,5:30 PM,ujjainastro@gmail.com,+91-734-2560400,"Jantar Mantar, Ujjain, Madhya Pradesh, 456006",23.1712799,75.7664337
+Mahakoshal Art Gallery,Napier Town,Jabalpur,Madhya Pradesh,482001,10:30 AM,6:00 PM,mahaarts@gmail.com,+91-761-2450135,"Napier Town, Jabalpur, Madhya Pradesh, 482001",23.1599217,79.9300962
+Vindhya Heritage Museum,Rewa Road,Satna,Madhya Pradesh,485001,10:00 AM,5:00 PM,vindhyamuseum@gmail.com,+91-7672-252347,"Rewa Road, Satna, Madhya Pradesh, 485001",24.5711917,80.8660801
+Pachmarhi Natural History Museum,Forsyth Trail,Pachmarhi,Madhya Pradesh,461881,9:00 AM,5:30 PM,pachmarhimuseum@gmail.com,+91-7578-252365,"Forsyth Trail, Pachmarhi, Madhya Pradesh, 461881",22.4674463,78.4345854
+Orchha Palace Museum,Raja Mahal,Orchha,Madhya Pradesh,472246,9:30 AM,5:00 PM,orchhamuseum@gmail.com,+91-7680-252624,"Raja Mahal, Orchha, Madhya Pradesh, 472246",25.3502603,78.6432538
+Datia Palace Museum,Datia Fort,Datia,Madhya Pradesh,475661,10:00 AM,5:30 PM,datiamuseum@gmail.com,+91-7522-234578,"Datia Fort, Datia, Madhya Pradesh, 475661",25.6653168,78.4609182
+Vidisha Archaeological Museum,Vidisha Fort,Vidisha,Madhya Pradesh,464001,10:00 AM,5:00 PM,vidishamuseum@gmail.com,+91-7592-234517,"Vidisha Fort, Vidisha, Madhya Pradesh, 464001",23.5235719,77.81397179999999
+Panna Tiger Reserve Interpretation Centre,Core Zone,Panna,Madhya Pradesh,488001,8:00 AM,6:00 PM,pannamuseum@gmail.com,+91-7732-252135,"Core Zone, Panna, Madhya Pradesh, 488001",24.7174633,80.1814145
+Bastar Tribal Museum,Jagdalpur Road,Bastar,Chhattisgarh,494001,10:00 AM,5:30 PM,bastartribal@gmail.com,+91-7782-229431,"Jagdalpur Road, Bastar, Chhattisgarh, 494001",19.0447826,81.9395829
+Korea District Museum,Baikunthpur,Koriya,Chhattisgarh,497331,10:00 AM,5:00 PM,koreamuseum@gmail.com,+91-7836-232415,"Baikunthpur, Koriya, Chhattisgarh, 497331",23.3299663,82.669947
+Surguja Tribal Art Museum,Ambikapur Road,Surguja,Chhattisgarh,497001,10:30 AM,5:30 PM,surgujatribal@gmail.com,+91-7774-242516,"Ambikapur Road, Surguja, Chhattisgarh, 497001",23.1384128,83.1736386
+Anthropological Museum Raipur,Civil Lines,Raipur,Chhattisgarh,492001,10:00 AM,5:30 PM,anthromuseum.raipur@gmail.com,+91-771-2429261,"Civil Lines, Raipur, Chhattisgarh, 492001",21.2372225,81.6541913
+Bhilai Steel Plant Heritage Museum,Civic Centre,Bhilai,Chhattisgarh,490006,10:30 AM,6:00 PM,bspmuseum@gmail.com,+91-788-2282842,"Civic Centre, Bhilai, Chhattisgarh, 490006",21.1861215,81.3428673
+Rajim Archaeological Museum,Mahanadi Riverside,Rajim,Chhattisgarh,493885,10:00 AM,5:00 PM,rajimmuseum@gmail.com,+91-7701-236547,"Mahanadi Riverside, Rajim, Chhattisgarh, 493885",20.9673968,81.8815346
+Danteshwari Temple Museum,Temple Complex,Dantewada,Chhattisgarh,494449,9:00 AM,6:00 PM,danteshwarimuseum@gmail.com,+91-7856-252413,"Temple Complex, Dantewada, Chhattisgarh, 494449",18.8998486,81.34743
+Surajpur Bird Sanctuary Interpretation Centre,Surajpur,Surajpur,Chhattisgarh,497229,8:30 AM,5:30 PM,surajpurbirds@gmail.com,+91-7775-266549,"Surajpur, Surajpur, Chhattisgarh, 497229",23.2432016,82.8425216
+Jagannath Cultural Museum,Temple Road,Raigarh,Chhattisgarh,496001,9:30 AM,6:00 PM,jagannathmuseum@gmail.com,+91-7762-235478,"Temple Road, Raigarh, Chhattisgarh, 496001",21.9344341,83.3853883
+Bilaspur Railway Heritage Museum,South East Corner,Bilaspur,Chhattisgarh,495004,10:00 AM,5:00 PM,bilaspurrail@gmail.com,+91-7752-245621,"South East Corner, Bilaspur, Chhattisgarh, 495004",22.0796545,82.1409152
+Purkhauti Muktangan Culture Museum,VIP Road,Raipur,Chhattisgarh,492007,10:00 AM,6:00 PM,purkhauti@gmail.com,+91-771-2236541,"VIP Road, Raipur, Chhattisgarh, 492007",21.2239717,81.6877954
+Gond Art Museum,Kondagaon,Kondagaon,Chhattisgarh,494226,10:30 AM,5:00 PM,gondartmuseum@gmail.com,+91-7786-242615,"Kondagaon, Kondagaon, Chhattisgarh, 494226",19.595393,81.664585
+Mainpat Tibetan Colony Museum,Mainpat Hills,Surguja,Chhattisgarh,497231,9:30 AM,4:30 PM,mainpatmuseum@gmail.com,+91-7774-245678,"Mainpat Hills, Surguja, Chhattisgarh, 497231",23.6387218,82.6915429
+Ratanpur Fort Museum,Old Fort,Bilaspur,Chhattisgarh,495442,10:00 AM,5:30 PM,ratanpurmuseum@gmail.com,+91-7752-247856,"Old Fort, Bilaspur, Chhattisgarh, 495442",22.3558015,82.10606829999999
+Barnawapara Wildlife Museum,Wildlife Sanctuary,Mahasamund,Chhattisgarh,493445,8:30 AM,5:00 PM,barnawaparamuseum@gmail.com,+91-7724-245678,"Wildlife Sanctuary, Mahasamund, Chhattisgarh, 493445",21.1124067,82.09596200000001
+Indravati National Park Interpretation Centre,Park Entrance,Bijapur,Chhattisgarh,494444,8:00 AM,4:30 PM,indravaticentre@gmail.com,+91-7853-220415,"Park Entrance, Bijapur, Chhattisgarh, 494444",18.7963075,80.81562199999999
+Kawardha Palace Heritage Museum,Palace Grounds,Kabirdham,Chhattisgarh,491995,10:00 AM,5:00 PM,kawardhamuseum@gmail.com,+91-7741-232468,"Palace Grounds, Kabirdham, Chhattisgarh, 491995",22.0106092,81.23592819999999
+Chandrahasini Devi Temple Museum,Temple Complex,Janjgir-Champa,Chhattisgarh,495668,9:00 AM,6:00 PM,chandrahasinimuseum@gmail.com,+91-7817-236547,"Temple Complex, Janjgir-Champa, Chhattisgarh, 495668",21.9517747,82.5834947
+Kanger Valley Rock Art Museum,National Park,Bastar,Chhattisgarh,494001,9:00 AM,5:30 PM,kangervalley@gmail.com,+91-7782-229867,"National Park, Bastar, Chhattisgarh, 494001",19.0861377,82.0188426
+Maria Tribal Museum,Narayanpur Road,Narayanpur,Chhattisgarh,494661,10:00 AM,4:30 PM,mariatribal@gmail.com,+91-7781-252413,"Narayanpur Road, Narayanpur, Chhattisgarh, 494661",19.7058627,81.3168853
+Baloda Bazar Heritage Centre,Bhatapara Road,Baloda Bazar,Chhattisgarh,493332,10:30 AM,5:00 PM,balodabazar@gmail.com,+91-7727-223415,"Bhatapara Road, Baloda Bazar, Chhattisgarh, 493332",21.6596523,82.1417557
+Durg District Archaeological Museum,Civil Lines,Durg,Chhattisgarh,491001,10:00 AM,5:30 PM,durgmuseum@gmail.com,+91-788-2231456,"Civil Lines, Durg, Chhattisgarh, 491001",21.1863564,81.2896833
+Gangrel Dam Interpretation Centre,Dam Site,Dhamtari,Chhattisgarh,493773,9:00 AM,5:00 PM,gangrelmuseum@gmail.com,+91-7722-237856,"Dam Site, Dhamtari, Chhattisgarh, 493773",20.7101344,81.5489077
+Mookambika Museum,Temple Street,Kollur,Karnataka,576220,9:00 AM,6:00 PM,mookambikamuseum@gmail.com,+91-8254-258476,"Temple Street, Kollur, Karnataka, 576220",13.8645016,74.8146861
+Bharatiya Sanskriti Darshana Museum,University Campus,Dharwad,Karnataka,580003,10:00 AM,5:00 PM,sanskritidarshanam@gmail.com,+91-836-2215347,"University Campus, Dharwad, Karnataka, 580003",15.430665,74.9764024
+Srirangapatna Fort Museum,Tipu Sultan Fort,Srirangapatna,Karnataka,571438,9:30 AM,5:30 PM,srirangapatnamuseum@gmail.com,+91-8236-252341,"Tipu Sultan Fort, Srirangapatna, Karnataka, 571438",12.421644,76.6905037
+Keladi Archaeological Museum,Old Palace,Keladi,Karnataka,577430,10:00 AM,5:00 PM,keladimuseum@gmail.com,+91-8282-256478,"Old Palace, Keladi, Karnataka, 577430",14.2176458,75.0173035
+Regional Archaeological Museum Raichur,Fort Area,Raichur,Karnataka,584101,10:00 AM,5:30 PM,raichurmuseum@gmail.com,+91-8532-220645,"Fort Area, Raichur, Karnataka, 584101",16.2019122,77.3453285
+Yoganarasimha Art Gallery,Melukote Temple,Mandya,Karnataka,571431,9:00 AM,6:00 PM,melukotegallery@gmail.com,+91-8236-259764,"Melukote Temple, Mandya, Karnataka, 571431",12.659807,76.6484909
+Kadamba Dynasty Museum,Banavasi,Sirsi,Karnataka,581374,10:00 AM,5:00 PM,kadambamuseum@gmail.com,+91-8384-231456,"Banavasi, Sirsi, Karnataka, 581374",14.5333282,75.01584299999999
+Kannada Museum and Research Centre,Hampi Road,Hospet,Karnataka,583201,10:30 AM,5:00 PM,kannadamuseum@gmail.com,+91-8394-228745,"Hampi Road, Hospet, Karnataka, 583201",15.2784952,76.407828
+Western Ghats Biodiversity Museum,Agumbe,Thirthahalli,Karnataka,577411,9:00 AM,5:30 PM,agumbemuseum@gmail.com,+91-8181-233456,"Agumbe, Thirthahalli, Karnataka, 577411",13.5026635,75.0903154
+Malnad Regional Museum,Shimoga Road,Bhadravati,Karnataka,577302,10:00 AM,5:30 PM,malnadmuseum@gmail.com,+91-8282-267845,"Shimoga Road, Bhadravati, Karnataka, 577302",13.8247414,75.6870858
+Badami Cave Museum,Cave Temple Road,Badami,Karnataka,587201,9:30 AM,5:30 PM,badamimuseum@gmail.com,+91-8357-220123,"Cave Temple Road, Badami, Karnataka, 587201",15.9171849,75.6822281
+Kittur Chennamma Museum,Kittur Fort,Kittur,Karnataka,591115,10:00 AM,5:00 PM,kitturmuseum@gmail.com,+91-8312-257364,"Kittur Fort, Kittur, Karnataka, 591115",15.6012363,74.79141229999999
+Belur Chennakeshava Heritage Centre,Temple Complex,Belur,Karnataka,573115,9:00 AM,5:30 PM,belurmuseum@gmail.com,+91-8177-222345,"Temple Complex, Belur, Karnataka, 573115",13.1615108,75.8574537
+Kodava Heritage Museum,Madikeri Fort,Madikeri,Karnataka,571201,10:00 AM,5:00 PM,kodavaheritage@gmail.com,+91-8272-228756,"Madikeri Fort, Madikeri, Karnataka, 571201",12.4211545,75.73871609999999
+Belagavi Military Museum,Military Mahadev Road,Belagavi,Karnataka,590001,10:00 AM,6:00 PM,belgaummilitary@gmail.com,+91-831-2432156,"Military Mahadev Road, Belagavi, Karnataka, 590001",15.8977381,74.499415
+Karavali Marine Museum,University Campus,Mangalore,Karnataka,575003,10:00 AM,5:30 PM,karavalimuseum@gmail.com,+91-824-2287654,"University Campus, Mangalore, Karnataka, 575003",12.8842699,74.83609179999999
+Gulbarga Fort Archaeological Museum,Fort Area,Kalaburagi,Karnataka,585105,10:00 AM,5:00 PM,gulbargamuseum@gmail.com,+91-8472-256314,"Fort Area, Kalaburagi, Karnataka, 585105",17.3267543,76.8389413
+Vijayanagara Crafts Museum,Hampi Bazaar,Hampi,Karnataka,583239,9:30Neora Valley Interpretation Centre,Kalimpong Road,Darjeeling,"West Bengal,734101,9:30 AM,4:30 PM,neoravalley@gmail.com,+91-354-2254186","Hampi Bazaar, Hampi, Karnataka, 583239",15.3341232,76.4643603
+Vijayanagara Crafts Museum,Hampi Bazaar,Hampi,Karnataka,583239,9:30 AM,5:30 PM,vijayanagaracrafts@gmail.com,+91-8394-241360,"Hampi Bazaar, Hampi, Karnataka, 583239",15.3341232,76.4643603
+Kodagu District Museum,Stuart Hill,Madikeri,Karnataka,571201,10:00 AM,5:30 PM,kodagumuseum@gmail.com,+91-8272-228954,"Stuart Hill, Madikeri, Karnataka, 571201",12.4152774,75.74587079999999
+Mysore Sand Sculpture Museum,Chamundi Hills Road,Mysore,Karnataka,570010,9:00 AM,6:00 PM,mysoresand@gmail.com,+91-821-2441339,"Chamundi Hills Road, Mysore, Karnataka, 570010",12.2869343,76.6868591
+Kempegowda Museum,Mayo Hall,Bangalore,Karnataka,560001,10:30 AM,5:00 PM,kempegowdamuseum@gmail.com,+91-80-22975339,"Mayo Hall, Bangalore, Karnataka, 560001",12.9741112,77.6106502
+Hyder Ali Battery Museum,Kaveripattinam Road,Krishnagiri,Tamil Nadu,635001,9:30 AM,4:30 PM,hyderbattery@gmail.com,+91-4343-234729,"Kaveripattinam Road, Krishnagiri, Tamil Nadu, 635001",12.3602339,78.2735868
+Kondapalli Toy Museum,Kondapalli Fort,Kondapalli,Andhra Pradesh,521228,10:00 AM,5:30 PM,kondapallitoymuseum@gmail.com,+91-866-2577095,"Kondapalli Fort, Kondapalli, Andhra Pradesh, 521228",16.6254258,80.5306487
+Wayanad Heritage Museum,Sultan Bathery,Wayanad,Kerala,673592,9:00 AM,5:00 PM,wayanadheritage@gmail.com,+91-4936-220658,"Sultan Bathery, Wayanad, Kerala, 673592",11.6629136,76.2570217
+Nilgiri Documentation Centre,Udhagamandalam,Ooty,Tamil Nadu,643001,10:00 AM,5:00 PM,nilgiridoc@gmail.com,+91-423-2442707,"Udhagamandalam, Ooty, Tamil Nadu, 643001",11.4040343,76.7019038
+Siddipet Heritage Museum,Main Road,Siddipet,Telangana,502103,10:30 AM,5:30 PM,siddipetheritage@gmail.com,+91-8457-222675,"Main Road, Siddipet, Telangana, 502103",17.9843941,78.5688333
+Tribal Museum Silvassa,Silvassa,Silvassa,Dadra & Nagar Haveli,396230,10:00 AM,6:00 PM,tribalmuseumsilv@gmail.com,+91-260-2642376,"Silvassa, Silvassa, Dadra & Nagar Haveli, 396230",20.2753406,73.0072986
+Maritime Heritage Museum,Paradise Beach Road,Pondicherry,Puducherry,605001,9:30 AM,5:30 PM,maritimepondicherry@gmail.com,+91-413-2234871,"Paradise Beach Road, Pondicherry, Puducherry, 605001",11.9313423,79.8356022
+Diu Fort Museum,Fort Road,Diu,Daman & Diu,362520,9:00 AM,6:00 PM,diufortmuseum@gmail.com,+91-2875-252653,"Fort Road, Diu, Daman & Diu, 362520",20.7186887,70.9876739
+Kamarajar Museum,VOC Street,Virudhunagar,Tamil Nadu,626001,10:00 AM,5:00 PM,kamarajarmuseum@gmail.com,+91-4562-242676,"VOC Street, Virudhunagar, Tamil Nadu, 626001",9.580391,77.9614334
+Bhubaneswar Regional Science Centre,Acharya Vihar,Bhubaneswar,Odisha,751013,10:00 AM,6:00 PM,rsc.bbsr@gmail.com,+91-674-2567842,"Acharya Vihar, Bhubaneswar, Odisha, 751013",20.2948132,85.82942589999999
+Arakkal Museum,Ayikkara,Kannur,Kerala,670017,9:30 AM,5:00 PM,arakkalmuseum@gmail.com,+91-497-2732389,"Ayikkara, Kannur, Kerala, 670017",11.87768,75.3652656
+Maharaja Duleep Singh Museum,Bassian Road,Ludhiana,Punjab,141001,10:00 AM,5:30 PM,duleepsinghmuseum@gmail.com,+91-161-2440091,"Bassian Road, Ludhiana, Punjab, 141001",30.9205631,75.8329122
+Rajasthan State Archives Museum,Bikaner House,Jaipur,Rajasthan,302001,10:30 AM,5:00 PM,rsabikanerhouse@gmail.com,+91-141-2576465,"Bikaner House, Jaipur, Rajasthan, 302001",26.9114359,75.7885952
+Coorg Heritage Centre,Madikeri Fort,Madikeri,Karnataka,571201,9:00 AM,6:00 PM,coorgheritage@gmail.com,+91-8272-228960,"Madikeri Fort, Madikeri, Karnataka, 571201",12.4211545,75.73871609999999
+Chinsurah Dutch Heritage Museum,Hooghly River Bank,Chinsurah,West Bengal,712101,10:00 AM,5:00 PM,chinsurahdutch@gmail.com,+91-33-26807452,"Hooghly River Bank, Chinsurah, West Bengal, 712101",22.9037943,88.3967536
+Hazarduari Palace Museum,Killah Nizamat,Murshidabad,West Bengal,742149,10:00 AM,5:00 PM,hazarduarimuseum@gmail.com,+91-3482-270646,"Killah Nizamat, Murshidabad, West Bengal, 742149",24.1883629,88.2686274
+Namgyal Institute Museum,Ridge Road,Gangtok,Sikkim,737101,10:00 AM,4:00 PM,namgyalmuseum@gmail.com,+91-3592-203510,"Ridge Road, Gangtok, Sikkim, 737101",27.3314118,88.6166089
+Rabindra Bharati Museum,Jorasanko,Kolkata,West Bengal,700007,10:30 AM,4:30 PM,rbmuseum@gmail.com,+91-33-22695242,"Jorasanko, Kolkata, West Bengal, 700007",22.583199,88.3567163
+Sitabuldi Fort Museum,Civil Lines,Nagpur,Maharashtra,440001,9:30 AM,5:30 PM,sitabuldifort@gmail.com,+91-712-2560123,"Civil Lines, Nagpur, Maharashtra, 440001",21.152752,79.074743
+Udaipur Solar Observatory Museum,Bari Road,Udaipur,Rajasthan,313001,10:00 AM,4:30 PM,udaipursolar@gmail.com,+91-294-2457254,"Bari Road, Udaipur, Rajasthan, 313001",24.6154435,73.6428541
+Dinosaur Fossil Museum,Raiyoli Village,Balasinor,Gujarat,388255,9:00 AM,5:30 PM,dinomuseum@gmail.com,+91-2690-267130,"Raiyoli Village, Balasinor, Gujarat, 388255",22.9532413,73.3325516
+Martand Sun Temple Museum,Anantnag Road,Anantnag,Jammu & Kashmir,192101,10:00 AM,5:00 PM,martandmuseum@gmail.com,+91-1932-222658,"Anantnag Road, Anantnag, Jammu & Kashmir, 192101",33.6602302,75.1715614
+Bhimbetka Interpretation Centre,Bhimbetka,Raisen,Madhya Pradesh,464551,9:00 AM,5:30 PM,bhimbetka@gmail.com,+91-755-2661358,"Bhimbetka, Raisen, Madhya Pradesh, 464551",23.3327329,77.7823973
+Munnar Tea Museum,KDHP Road,Munnar,Kerala,685612,9:00 AM,4:00 PM,munnarteamuseum@gmail.com,+91-4865-230561,"KDHP Road, Munnar, Kerala, 685612",10.0889333,77.05952479999999
+Folk Art Museum Tezpur,Baan Theatre Road,Tezpur,Assam,784001,10:30 AM,5:00 PM,folkmuseum.tezpur@gmail.com,+91-3712-220453,"Baan Theatre Road, Tezpur, Assam, 784001",26.626823,92.799897
+Pattadakal Temple Museum,World Heritage Site,Pattadakal,Karnataka,587201,9:00 AM,6:00 PM,pattadakalmuseum@gmail.com,+91-8354-235496,"World Heritage Site, Pattadakal, Karnataka, 587201",15.9488181,75.8163521
+Rashtrapati Nilayam Museum,PNR Colony,Bolarum,Telangana,500010,10:00 AM,5:00 PM,rnilayammuseum@gmail.com,+91-40-27862224,"PNR Colony, Bolarum, Telangana, 500010",17.5170626,78.5149691
+Dadhichi Rishi Museum,Nangal Road,Bilaspur,Himachal Pradesh,174001,10:00 AM,5:30 PM,dadhichimuseum@gmail.com,+91-1978-224530,"Nangal Road, Bilaspur, Himachal Pradesh, 174001",31.2488752,76.4804404
+Lepakshi Temple Museum,Temple Complex,Lepakshi,Andhra Pradesh,515331,9:30 AM,5:30 PM,lepakshimuseum@gmail.com,+91-8559-276728,"Temple Complex, Lepakshi, Andhra Pradesh, 515331",13.8018322,77.6093732
+Allahabad University Museum,Senate House,Prayagraj,Uttar Pradesh,211002,10:00 AM,5:00 PM,aumuseum@gmail.com,+91-532-2461083,"Senate House, Prayagraj, Uttar Pradesh, 211002",25.4712795,81.86486169999999
+Kanheri Caves Interpretation Centre,Sanjay Gandhi National Park,Mumbai,Maharashtra,400101,9:00 AM,5:30 PM,kanhericaves@gmail.com,+91-22-28866449,"Sanjay Gandhi National Park, Mumbai, Maharashtra, 400101",19.2204535,72.9128422
+Ara Palace Heritage Museum,Ara Palace,Ara,Bihar,802301,10:30 AM,5:00 PM,arapalacemuseum@gmail.com,+91-6182-233457,"Ara Palace, Ara, Bihar, 802301",25.5541358,84.6664797
+Maraimalai Adigal Museum,Gandhi Road,Chennai,Tamil Nadu,600015,10:00 AM,5:30 PM,maraimalaimuseum@gmail.com,+91-44-28151324,"Gandhi Road, Chennai, Tamil Nadu, 600015",12.9851919,80.2319539
+Salt March Memorial Museum,Dandi,Navsari,Gujarat,396403,9:00 AM,6:00 PM,saltmarchmemorial@gmail.com,+91-2637-223458,"Dandi, Navsari, Gujarat, 396403",20.8854793,72.8574558
+Kumaraswamy Temple Museum,Hill Top,Sandur,Karnataka,583119,10:00 AM,5:00 PM,kumaraswamymuseum@gmail.com,+91-8395-260475,"Hill Top, Sandur, Karnataka, 583119",15.0873798,76.5477411
+Berhampur Silk Museum,Silk City,Berhampur,Odisha,760001,10:30 AM,5:30 PM,berhampursilk@gmail.com,+91-680-2223657,"Silk City, Berhampur, Odisha, 760001",19.3131336,84.7915999
+Spiti Valley Monastery Museum,Key Monastery,Spiti Valley,Himachal Pradesh,172114,9:00 AM,5:00 PM,spitimonastery@gmail.com,+91-1906-222347,"Key Monastery, Spiti Valley, Himachal Pradesh, 172114",32.2978346,78.01193119999999
+Tripunithura Hill Palace Archaeological Museum,Hill Palace Road,Kochi,Kerala,682301,9:30 AM,5:00 PM,hillpalace@gmail.com,+91-484-2781113,"Hill Palace Road, Kochi, Kerala, 682301",9.9562299,76.3648769
+Temple of Knowledge Museum,PWD Road,Vijayawada,Andhra Pradesh,520010,10:00 AM,6:00 PM,templeofknowledge@gmail.com,+91-866-2578429,"PWD Road, Vijayawada, Andhra Pradesh, 520010",16.5296837,80.6323637
+Hawa Mahal Museum,Badi Chaupad,Jaipur,Rajasthan,302002,9:00 AM,4:30 PM,hawamahaljpr@gmail.com,+91-141-2618862,"Badi Chaupad, Jaipur, Rajasthan, 302002",26.9238937,75.8316064
+Roerich Estate Museum,Naggar,Kullu,Himachal Pradesh,175130,10:00 AM,5:00 PM,roerichmuseum@gmail.com,+91-1902-248290,"Naggar, Kullu, Himachal Pradesh, 175130",32.1139526,77.1643337
+Heritage Centre of Biodiversity,Mupkal Village,Nizamabad,Telangana,503224,10:00 AM,5:30 PM,biodiversitynzb@gmail.com,+91-8462-244579,"Mupkal Village, Nizamabad, Telangana, 503224",18.9115493,78.3572531
+Manipal Natural History Museum,University Campus,Manipal,Karnataka,576104,9:30 AM,5:00 PM,naturalhistorympl@gmail.com,+91-820-2922481,"University Campus, Manipal, Karnataka, 576104",13.352384,74.7867838
+Vellore Fort Archaeological Museum,Fort Complex,Vellore,Tamil Nadu,632004,9:00 AM,5:30 PM,vellorefortmuseum@gmail.com,+91-416-2242763,"Fort Complex, Vellore, Tamil Nadu, 632004",12.9743721,79.136982
+Aravalli Biodiversity Park Museum,DLF Phase 3,Gurugram,Haryana,122002,8:00 AM,6:00 PM,aravallimuseum@gmail.com,+91-124-4233358,"DLF Phase 3, Gurugram, Haryana, 122002",28.4993761,77.10694029999999
+Palani Hills Heritage Museum,Kodaikanal Road,Kodaikanal,Tamil Nadu,624101,10:00 AM,5:00 PM,palanihillsmuseum@gmail.com,+91-4542-240763,"Kodaikanal Road, Kodaikanal, Tamil Nadu, 624101",10.247588,77.5189029
+Magadh University Museum,University Campus,Bodh Gaya,Bihar,824234,10:30 AM,4:30 PM,magadhmuseum@gmail.com,+91-631-2200456,"University Campus, Bodh Gaya, Bihar, 824234",24.6961343,84.9869547
+Zanskar Valley Heritage Centre,Padum,Zanskar,Ladakh,194302,10:00 AM,4:00 PM,zanskarheritage@gmail.com,+91-1985-245132,"Padum, Zanskar, Ladakh, 194302",33.4628013,76.8785819
+Abhishek Art Gallery,Sector 17,Chandigarh,Chandigarh,160017,10:00 AM,5:30 PM,abhishekgallery@gmail.com,+91-172-2701876,"Sector 17, Chandigarh, Chandigarh, 160017",30.7410517,76.779015
+Nataraja Temple Museum,Temple Complex,Chidambaram,Tamil Nadu,608001,9:00 AM,6:00 PM,natarajatemple@gmail.com,+91-4144-238231,"Temple Complex, Chidambaram, Tamil Nadu, 608001",11.4070449,79.6912455
+Khasi Heritage Museum,Police Bazar,Shillong,Meghalaya,793001,10:00 AM,4:30 PM,khasiheritage@gmail.com,+91-364-2225073,"Police Bazar, Shillong, Meghalaya, 793001",25.5779199,91.8837004
+Bidri Craft Museum,Fort Road,Bidar,Karnataka,585401,10:00 AM,5:00 PM,bidricraftmuseum@gmail.com,+91-8482-227518,"Fort Road, Bidar, Karnataka, 585401",17.9199864,77.5248354
+Government Exhibition Museum,Madurai Road,Salem,Tamil Nadu,636007,10:30 AM,5:30 PM,salemexmuseum@gmail.com,+91-427-2445578,"Madurai Road, Salem, Tamil Nadu, 636007",11.6712526,78.16214370000002
+Deccan Archaeological Museum,Nizamia Observatory,Hyderabad,Telangana,500008,10:00 AM,5:30 PM,deccanarch@gmail.com,+91-40-23235624,"Nizamia Observatory, Hyderabad, Telangana, 500008",17.4319634,78.45250899999999
+Nurpur Fort Museum,Pathankot Road,Nurpur,Himachal Pradesh,176202,9:30 AM,5:00 PM,nurpurfort@gmail.com,+91-1893-220416,"Pathankot Road, Nurpur, Himachal Pradesh, 176202",32.4423208,75.8916196
+Lakshadweep Marine Museum,Kavaratti Island,Kavaratti,Lakshadweep,682555,10:00 AM,5:00 PM,lakshmarinemuseum@gmail.com,+91-4896-262396,"Kavaratti Island, Kavaratti, Lakshadweep, 682555",10.56507,72.64172649999999
+Naini Lake Aquatic Museum,Mall Road,Nainital,Uttarakhand,263002,9:00 AM,6:00 PM,nainiaquatic@gmail.com,+91-5942-235218,"Mall Road, Nainital, Uttarakhand, 263002",29.3879281,79.460898
+Bundi Palace Museum,Garh Palace,Bundi,Rajasthan,323001,9:30 AM,5:00 PM,bundipalace@gmail.com,+91-747-2442328,"Garh Palace, Bundi, Rajasthan, 323001",25.44882,75.635538
+Bhagwan Mahavir Government Museum,Chaura Maidan,Shimla,Himachal Pradesh,171004,10:00 AM,5:00 PM,mahavirmuspelp@gmail.com,+91-177-2653225,"Chaura Maidan, Shimla, Himachal Pradesh, 171004",31.1029251,77.1499544
+Rajiv Gandhi Museum of Natural History,Sawai Man Singh Road,Mysore,Karnataka,570001,10:30 AM,5:30 PM,rgmnh@gmail.com,+91-821-2444328,"Sawai Man Singh Road, Mysore, Karnataka, 570001",12.3288067,76.6611278
+Hazara Arts Museum,Lawrence Road,Amritsar,Punjab,143001,10:00 AM,6:00 PM,hazaraarts@gmail.com,+91-183-2226584,"Lawrence Road, Amritsar, Punjab, 143001",31.6448909,74.8770613
+Folklore Museum of Goa,Main Road,Pernem,Goa,403512,9:30 AM,5:30 PM,goafolklore@gmail.com,+91-832-2254176,"Main Road, Pernem, Goa, 403512",15.6975616,73.7714032
+Bastar Tribal Art Museum,MG Road,Jagdalpur,Chhattisgarh,494001,10:00 AM,5:00 PM,bastartribalart@gmail.com,+91-7782-229456,"MG Road, Jagdalpur, Chhattisgarh, 494001",19.0887704,82.023884
+Kinnaur Heritage Museum,Reckong Peo Town,Kinnaur,Himachal Pradesh,172107,10:00 AM,4:30 PM,kinnaurheritage@gmail.com,+91-1786-222418,"Reckong Peo Town, Kinnaur, Himachal Pradesh, 172107",31.5390437,78.2675478
+Alampur Museum,Jogulamba Temple,Alampur,Telangana,509152,9:00 AM,5:30 PM,alampurmuseum@gmail.com,+91-8541-277892,"Jogulamba Temple, Alampur, Telangana, 509152",15.8769909,78.1346258
+Kangla Fort Museum,Palace Compound,Imphal,Manipur,795001,9:30 AM,4:30 PM,kanglafortmuseum@gmail.com,+91-385-2446324,"Palace Compound, Imphal, Manipur, 795001",24.796939,93.9511225
+Rishi Valley Museum of Art,Education Centre,Madanapalle,Andhra Pradesh,517352,10:00 AM,4:00 PM,rvmuseum@gmail.com,+91-8571-226037,"Education Centre, Madanapalle, Andhra Pradesh, 517352",13.5560496,78.50100069999999
+Jamia Millia Islamia Museum,Jamia Nagar,New Delhi,Delhi,110025,10:00 AM,5:00 PM,jamiamuseum@gmail.com,+91-11-26981717,"Jamia Nagar, New Delhi, Delhi, 110025",28.5538528,77.295553
+Kargil War Memorial Museum,Drass,Kargil,Ladakh,194103,9:00 AM,6:00 PM,kargilmemorial@gmail.com,+91-1985-231018,"Drass, Kargil, Ladakh, 194103",34.4269074,75.74587079999999
+Qutub Archaeological Museum,Qutub Complex,New Delhi,Delhi,110030,10:00 AM,5:00 PM,qutubmuseum@gmail.com,+91-11-26526774,"Qutub Complex, New Delhi, Delhi, 110030",28.524426,77.1852057
+Bir Moti Bagh Palace Museum,Palace Road,Patiala,Punjab,147001,9:30 AM,5:00 PM,motibagh@gmail.com,+91-175-2310417,"Palace Road, Patiala, Punjab, 147001",30.3590456,76.3993896
+Limca Book of Records Gallery,Connaught Place,New Delhi,Delhi,110001,11:00 AM,7:00 PM,limcagallery@gmail.com,+91-11-23416223,"Connaught Place, New Delhi, Delhi, 110001",28.6304203,77.21772159999999
+Thanjavur Maratha Palace Museum,East Main Street,Thanjavur,Tamil Nadu,613001,9:00 AM,5:30 PM,marathapalace@gmail.com,+91-4362-240864,"East Main Street, Thanjavur, Tamil Nadu, 613001",10.7921668,79.1379338
+Elephanta Caves Interpretation Centre,Elephanta Island,Mumbai,Maharashtra,400094,9:30 AM,5:30 PM,elephantacaves@gmail.com,+91-22-22044040,"Elephanta Island, Mumbai, Maharashtra, 400094",18.9667867,72.93815359999999
+Veerabhadra Temple Museum,Temple Complex,Lepakshi,Andhra Pradesh,515331,9:00 AM,6:00 PM,veerabhadramuseum@gmail.com,+91-8559-276324,"Temple Complex, Lepakshi, Andhra Pradesh, 515331",13.8018322,77.6093732
+Raghunathji Temple Museum,Temple Road,Jammu,Jammu & Kashmir,180001,8:00 AM,8:00 PM,raghunathjimuseum@gmail.com,+91-191-2546234,"Temple Road, Jammu, Jammu & Kashmir, 180001",32.734831,74.86430059999999
+Dakshineshwar Heritage Gallery,Temple Complex,Kolkata,West Bengal,700076,6:00 AM,12:00 PM,dakshineshwargallery@gmail.com,+91-33-25646464,"Temple Complex, Kolkata, West Bengal, 700076",22.6583005,88.36014589999999
+ONGC Oil Museum,Uran Plant,Raigad,Maharashtra,400702,10:00 AM,4:00 PM,ongcmuseum@gmail.com,+91-22-27222018,"Uran Plant, Raigad, Maharashtra, 400702",18.8772346,72.9283391
+Kalchuri Rulers Museum,Jabalpur Road,Tripuri,Madhya Pradesh,482001,10:00 AM,5:30 PM,kalchurimuseum@gmail.com,+91-761-2625341,"Jabalpur Road, Tripuri, Madhya Pradesh, 482001",23.1754595,79.9586831
+Lonar Crater Museum,Crater Site,Buldhana,Maharashtra,443301,9:00 AM,5:00 PM,lonarcratermuseum@gmail.com,+91-7262-222845,"Crater Site, Buldhana, Maharashtra, 443301",20.1474071,76.5950555
+Rajwada Palace Museum,Khajuri Bazaar,Indore,Madhya Pradesh,452002,10:30 AM,5:00 PM,rajwadamuseum@gmail.com,+91-731-2452170,"Khajuri Bazaar, Indore, Madhya Pradesh, 452002",22.7193684,75.8526692
+Shimoga District Museum,Nehru Road,Shivamogga,Karnataka,577201,10:00 AM,5:30 PM,shimogamuseum@gmail.com,+91-8182-273048,"Nehru Road, Shivamogga, Karnataka, 577201",13.9344262,75.5725396
+Sabarmati Gandhi Museum,Ashram Road,Ahmedabad,Gujarat,380027,8:30 AM,6:30 PM,sabarmatigandhi@gmail.com,+91-79-27557277,"Ashram Road, Ahmedabad, Gujarat, 380027",23.0584871,72.5781467
+Kashi Vishwanath Corridor Museum,Temple Complex,Varanasi,Uttar Pradesh,221001,6:00 AM,10:00 PM,kvmuseum@gmail.com,+91-542-2392629,"Temple Complex, Varanasi, Uttar Pradesh, 221001",25.3222339,83.0148222
+Khaas Bagh Palace Museum,Tonk Road,Jaipur,Rajasthan,302011,10:00 AM,5:00 PM,khaasbagh@gmail.com,+91-141-2743400,"Tonk Road, Jaipur, Rajasthan, 302011",26.8233675,75.7951055
+Nal Sarovar Bird Sanctuary Museum,Nal Sarovar,Ahmedabad,Gujarat,382260,8:00 AM,6:00 PM,nalsarovarmuseum@gmail.com,+91-2714-282221,"Nal Sarovar, Ahmedabad, Gujarat, 382260",22.828541,72.4376499
+Parvati Hill Museum,Parvati Hill,Pune,Maharashtra,411009,9:00 AM,6:00 PM,parvatimuseum@gmail.com,+91-20-24456538,"Parvati Hill, Pune, Maharashtra, 411009",18.4949019,73.8441118
+Gympie Gold Museum,Gold Town,Kolar,Karnataka,563101,10:00 AM,5:00 PM,kgfmuseum@gmail.com,+91-8153-260478,"Gold Town, Kolar, Karnataka, 563101",13.1362143,78.12909859999999
+Padmaja Naidu Himalayan Zoological Park Museum,Jawahar Parbat,Darjeeling,West Bengal,734101,8:30 AM,4:30 PM,pnhzpmuseum@gmail.com,+91-354-2252694,"Jawahar Parbat, Darjeeling, West Bengal, 734101",27.0590663,88.25402749999999
+Sussex of India Museum,NDA Road,Khadakwasla,Maharashtra,411023,10:00 AM,5:00 PM,sussexmuseum@gmail.com,+91-20-26882340,"NDA Road, Khadakwasla, Maharashtra, 411023",18.467567,73.7844923
+Viratnagar Archaeological Museum,Bairath,Jaipur,Rajasthan,303104,10:30 AM,5:00 PM,viratnagar@gmail.com,+91-1422-264132,"Bairath, Jaipur, Rajasthan, 303104",27.4315897,76.1793951
+Changampuzha Memorial Museum,Edappally,Kochi,Kerala,682024,9:30 AM,5:30 PM,changampuzha@gmail.com,+91-484-2337130,"Edappally, Kochi, Kerala, 682024",10.0317483,76.30872819999999
+Vallarpadam Church Museum,Church Compound,Kochi,Kerala,682504,9:00 AM,6:00 PM,vallarpadammuseum@gmail.com,+91-484-2316420,"Church Compound, Kochi, Kerala, 682504",9.9965631,76.2508086
+Gottipati Science Centre,University Campus,Rajahmundry,Andhra Pradesh,533103,10:00 AM,5:00 PM,gottipatiscience@gmail.com,+91-883-2475632,"University Campus, Rajahmundry, Andhra Pradesh, 533103",17.0048735,81.79100500000001
+Mawsmai Cave Interpretation Centre,Mawsmai Village,Cherrapunjee,Meghalaya,793108,10:00 AM,4:30 PM,mawsmaicentre@gmail.com,+91-3637-270186,"Mawsmai Village, Cherrapunjee, Meghalaya, 793108",25.2702095,91.7322884
+Kanakakunnu Palace Museum,Palace Road,Thiruvananthapuram,Kerala,695033,10:00 AM,5:30 PM,kanakakunnu@gmail.com,+91-471-2332897,"Palace Road, Thiruvananthapuram, Kerala, 695033",8.6940454,76.8126671
+Cheriyal Mask Painting Museum,Jangaon Road,Warangal,Telangana,506002,10:30 AM,5:00 PM,cheriyalmuseum@gmail.com,+91-870-2578623,"Jangaon Road, Warangal, Telangana, 506002",17.9750561,79.5996716
+Handloom Heritage Centre,Pochampally,Yadadri,Telangana,508284,9:30 AM,5:30 PM,pochampallytextiles@gmail.com,+91-8685-245876,"Pochampally, Yadadri, Telangana, 508284",17.3466409,78.81944539999999
+Ramoji Film City Museum,Ramoji Film City,Hyderabad,Telangana,501512,10:00 AM,7:00 PM,rfcmuseum@gmail.com,+91-40-23403366,"Ramoji Film City, Hyderabad, Telangana, 501512",17.2641373,78.6818239
+Gangapur Dam Interpretation Centre,Gangapur Road,Nashik,Maharashtra,422222,9:00 AM,5:00 PM,gangapurcentre@gmail.com,+91-253-2576421,"Gangapur Road, Nashik, Maharashtra, 422222",20.0404713,73.6888885
+Narmada Valley Civilization Museum,Narmada Road,Indore,Madhya Pradesh,452001,10:30 AM,5:30 PM,narmadamuseum@gmail.com,+91-731-2538426,"Narmada Road, Indore, Madhya Pradesh, 452001",22.6363642,75.8121358
+Bhitarkanika Wildlife Museum,Bhitarkanika National Park,Kendrapara,Odisha,754250,8:30 AM,5:00 PM,bhitarkanikawildlife@gmail.com,+91-6729-271134,"Bhitarkanika National Park, Kendrapara, Odisha, 754250",20.7212646,86.86746819999999
+Kangchenjunga Biodiversity Museum,Yuksom Road,Pelling,Sikkim,737113,9:30 AM,4:30 PM,kanchenmuseum@gmail.com,+91-3595-258111,"Yuksom Road, Pelling, Sikkim, 737113",27.3724262,88.2229909
+National Centre for Antarctic Research Museum,Vasco Da Gama,South Goa,Goa,403802,10:00 AM,5:30 PM,antarcticmuseum@gmail.com,+91-832-2520876,"Vasco Da Gama, South Goa, Goa, 403802",15.3966057,73.8242621
+Parambikulam Tiger Reserve Interpretation Centre,Parambikulam,Palakkad,Kerala,678661,8:00 AM,4:00 PM,parambikulammuseum@gmail.com,+91-4253-245025,"Parambikulam, Palakkad, Kerala, 678661",10.4453559,76.8062748
+Nehru Science Museum Lucknow,Nehru Road,Lucknow,Uttar Pradesh,226001,10:00 AM,5:00 PM,nehruscienceluknow@gmail.com,+91-522-2617902,"Nehru Road, Lucknow, Uttar Pradesh, 226001",26.829884,80.942809
+Nilambur Teak Museum,Teak Plantation,Nilambur,Kerala,679329,9:00 AM,5:00 PM,nilamburteak@gmail.com,+91-4931-230250,"Teak Plantation, Nilambur, Kerala, 679329",11.2844385,76.2151623
+Banswara Tribal Museum,Banswara Road,Banswara,Rajasthan,327001,10:00 AM,5:30 PM,banswaratribal@gmail.com,+91-2962-243516,"Banswara Road, Banswara, Rajasthan, 327001",23.5273912,74.4239876
+Himalayan Centre for Folk Arts,Ridge,Shimla,Himachal Pradesh,171001,10:00 AM,5:00 PM,himachalfolkarts@gmail.com,+91-177-2652418,"Ridge, Shimla, Himachal Pradesh, 171001",31.1048001,77.1746678
+Navdurga Temple Museum,Temple Complex,Jaisalmer,Rajasthan,345001,9:00 AM,6:00 PM,navdurgamuseum@gmail.com,+91-2992-254123,"Temple Complex, Jaisalmer, Rajasthan, 345001",26.9157487,70.9083443
+Rann of Kutch White Desert Museum,Bhuj Road,Kutch,Gujarat,370001,10:00 AM,6:00 PM,rannmuseum@gmail.com,+91-2834-271426,"Bhuj Road, Kutch, Gujarat, 370001",23.2444959,69.8230311
+Queen's Step Well Museum,Rani-ki-Vav,Patan,Gujarat,384265,9:00 AM,5:30 PM,ranikvavmuseum@gmail.com,+91-2766-233714,"Rani-ki-Vav, Patan, Gujarat, 384265",23.858924,72.101933
+Sangeet Natak Akademi Gallery,Rabindra Bhavan,New Delhi,Delhi,110001,11:00 AM,6:00 PM,sangeetnatakgallery@gmail.com,+91-11-23387246,"Rabindra Bhavan, New Delhi, Delhi, 110001",28.6249264,77.2313994
+Kundalika River Valley Museum,Kundalika Road,Kolad,Maharashtra,402304,9:30 AM,5:30 PM,kundalikamuseum@gmail.com,+91-2194-266458,"Kundalika Road, Kolad, Maharashtra, 402304",18.4077066,73.2101837
+Mudumalai Wildlife Interpretation Centre,Mudumalai,Nilgiris,Tamil Nadu,643223,8:00 AM,5:00 PM,mudumalaimuseum@gmail.com,+91-423-2546233,"Mudumalai, Nilgiris, Tamil Nadu, 643223",11.5529596,76.6181655
+Chhattisgarh Science Centre,VIP Road,Raipur,Chhattisgarh,492007,10:00 AM,5:30 PM,cgsciencecentre@gmail.com,+91-771-2512713,"VIP Road, Raipur, Chhattisgarh, 492007",21.2239717,81.6877954
+Dakshinachitra Craft Museum,East Coast Road,Chennai,Tamil Nadu,603118,10:00 AM,6:00 PM,dakshinachitracraft@gmail.com,+91-44-27472603,"East Coast Road, Chennai, Tamil Nadu, 603118",12.910636,80.2500323
+Sundarbans Mangrove Interpretation Centre,Gosaba,South 24 Parganas,West Bengal,743370,9:00 AM,4:30 PM,sundarbancentre@gmail.com,+91-3218-222167,"Gosaba, South 24 Parganas, West Bengal, 743370",22.1652274,88.80789829999999
+Salim Ali Bird Sanctuary Museum,Dr. Salim Ali Bird Sanctuary,Goa,Goa,403110,8:30 AM,5:30 PM,salimaligoa@gmail.com,+91-832-2462153,"Dr. Salim Ali Bird Sanctuary, Goa, Goa, 403110",15.5130468,73.8704154
+Himalayan Tribal Heritage Museum,Solang Valley Road,Manali,Himachal Pradesh,175131,9:30 AM,5:30 PM,manaliheritage@gmail.com,+91-1902-252437,"Solang Valley Road, Manali, Himachal Pradesh, 175131",32.3306795,77.1478348
+Gautala Wildlife Museum,Gautala Autramghat,Aurangabad,Maharashtra,431001,8:00 AM,5:00 PM,gautalamuseum@gmail.com,+91-240-2334753,"Gautala Autramghat, Aurangabad, Maharashtra, 431001",19.8756639,75.3393162
+Vaigai Dam Interpretation Centre,Vaigai Dam,Theni,Tamil Nadu,625562,9:00 AM,6:00 PM,vaigaidammuseum@gmail.com,+91-4546-252318,"Vaigai Dam, Theni, Tamil Nadu, 625562",10.0536633,77.5897123
+Handloom Textile Museum,Erode Road,Salem,Tamil Nadu,636007,10:00 AM,5:30 PM,salemtextilemuseum@gmail.com,+91-427-2417856,"Erode Road, Salem, Tamil Nadu, 636007",11.6458519,78.15488900000001
+Mussoorie Heritage Centre,Library Bazaar,Mussoorie,Uttarakhand,248179,10:00 AM,6:00 PM,mussoorieheritage@gmail.com,+91-135-2632903,"Library Bazaar, Mussoorie, Uttarakhand, 248179",30.4602549,78.06394499999999
+Damodar Valley Corporation Museum,DVC Colony,Maithon,Jharkhand,828207,10:30 AM,5:00 PM,dvcmuseum@gmail.com,+91-6540-275114,"DVC Colony, Maithon, Jharkhand, 828207",23.7277075,86.84446489999999
+Jaduguda Uranium Mining Museum,Jaduguda Mines,East Singhbhum,Jharkhand,832102,10:00 AM,5:00 PM,jadugudamuseum@gmail.com,+91-657-2145267,"Jaduguda Mines, East Singhbhum, Jharkhand, 832102",22.6577142,86.3450957
+Jim Corbett Heritage Museum,Kaladhungi Road,Ramnagar,Uttarakhand,244715,8:30 AM,6:00 PM,corbettmuseum@gmail.com,+91-5947-251489,"Kaladhungi Road, Ramnagar, Uttarakhand, 244715",29.2504132,79.4449485
+Nagarjunasagar Dam Museum,Dam Site,Nagarjunasagar,Telangana,508202,9:00 AM,6:00 PM,nagarjunasagarmuseum@gmail.com,+91-8689-245732,"Dam Site, Nagarjunasagar, Telangana, 508202",16.5759672,79.3124022
+Marwari Heritage Museum,Paota Circle,Jodhpur,Rajasthan,342001,10:00 AM,5:30 PM,marwarimuseum@gmail.com,+91-291-2546273,"Paota Circle, Jodhpur, Rajasthan, 342001",26.2974632,73.0374532
+Dakshin Gangotri Antarctic Research Museum,NCPOR Campus,Vasco Da Gama,Goa,403804,10:00 AM,5:00 PM,dakshinmuseum@gmail.com,+91-832-2525603,"NCPOR Campus, Vasco Da Gama, Goa, 403804",15.3966942,73.7932367
+Valley of Flowers Interpretation Centre,Ghangaria,Chamoli,Uttarakhand,246443,7:00 AM,6:00 PM,valleyofflowersmuseum@gmail.com,+91-1372-251467,"Ghangaria, Chamoli, Uttarakhand, 246443",30.70136,79.5933522
+Pachakot Palace Museum,Medinipur Road,Jhargram,West Bengal,721507,10:00 AM,5:00 PM,pachakotmuseum@gmail.com,+91-3221-255168,"Medinipur Road, Jhargram, West Bengal, 721507",22.4549909,86.9974385
+Koyna Dam Interpretation Centre,Koyna Nagar,Satara,Maharashtra,415713,9:30 AM,5:30 PM,koynadammuseum@gmail.com,+91-2164-271354,"Koyna Nagar, Satara, Maharashtra, 415713",17.6941483,74.0013673
+Jaigad Fort Maritime Museum,Jaigad Fort,Ratnagiri,Maharashtra,415614,9:00 AM,5:00 PM,jaigadfortmuseum@gmail.com,+91-2357-242176,"Jaigad Fort, Ratnagiri, Maharashtra, 415614",17.3006563,73.2214281
+Wardha Sevagram Heritage Centre,Sevagram Ashram,Wardha,Maharashtra,442102,8:00 AM,6:00 PM,wardhasevagram@gmail.com,+91-7152-284753,"Sevagram Ashram, Wardha, Maharashtra, 442102",20.7349924,78.66256700000001
+Hemis Gompa Museum,Hemis Monastery,Leh,Ladakh,194101,9:00 AM,5:00 PM,hemismuseum@gmail.com,+91-1982-267032,"Hemis Monastery, Leh, Ladakh, 194101",34.1525864,77.57705349999999
+Saraswati Valley Archaeological Museum,MG Road,Bhuj,Gujarat,370001,10:00 AM,5:30 PM,saraswativalley@gmail.com,+91-2832-250427,"MG Road, Bhuj, Gujarat, 370001",23.2419997,69.6669324
+Chhattisgarh Millet Heritage Museum,Kanker Road,Jagdalpur,Chhattisgarh,494001,10:00 AM,5:00 PM,milletmuseum@gmail.com,+91-7782-229457,"Kanker Road, Jagdalpur, Chhattisgarh, 494001",19.0843651,82.0294571
+Sambalpur Textile Museum,Hirakud Road,Sambalpur,Odisha,768001,10:00 AM,6:00 PM,sambalpurtextile@gmail.com,+91-663-2548721,"Hirakud Road, Sambalpur, Odisha, 768001",21.5042391,83.9406276
+Agnivansh Heritage Museum,Agni Fort,Jhansi,Uttar Pradesh,284003,9:30 AM,5:00 PM,agnivanshmuseum@gmail.com,+91-510-2332415,"Agni Fort, Jhansi, Uttar Pradesh, 284003",25.4447374,78.57725169999999
+Nagarhole Wildlife Interpretation Centre,Nagarhole National Park,Kodagu,Karnataka,571201,8:00 AM,5:00 PM,nagarholewildlife@gmail.com,+91-8274-252673,"Nagarhole National Park, Kodagu, Karnataka, 571201",12.0734366,76.1510815
+Umngot River Museum,Dawki Road,Dawki,Meghalaya,793109,9:30 AM,4:30 PM,umngotmuseum@gmail.com,+91-3652-261478,"Dawki Road, Dawki, Meghalaya, 793109",25.188647,92.0229013
+Mandvi Ship Building Museum,Port Road,Mandvi,Gujarat,370465,9:00 AM,6:00 PM,mandviships@gmail.com,+91-2834-223456,"Port Road, Mandvi, Gujarat, 370465",22.833334,69.3554783
+Ganges River Basin Museum,Ganga Barrage,Kanpur,Uttar Pradesh,208001,10:00 AM,5:30 PM,gangesmuseum@gmail.com,+91-512-2543215,"Ganga Barrage, Kanpur, Uttar Pradesh, 208001",26.5121716,80.3206355
+Lakshwadeep Coral Museum,Marine Drive,Kavaratti,Lakshadweep,682555,9:00 AM,5:00 PM,coralmuseum@gmail.com,+91-4896-262176,"Marine Drive, Kavaratti, Lakshadweep, 682555",10.5593204,72.63581340000002
+Kanha Tribal Art Museum,Kanha National Park,Mandla,Madhya Pradesh,481768,10:00 AM,5:00 PM,kanhatribalart@gmail.com,+91-7642-250760,"Kanha National Park, Mandla, Madhya Pradesh, 481768",22.2994956,80.5864278
+Dibru-Saikhowa Biodiversity Museum,Guijan,Tinsukia,Assam,786172,9:00 AM,4:30 PM,dibrumuseum@gmail.com,+91-374-2367843,"Guijan, Tinsukia, Assam, 786172",27.5679596,95.32855049999999
+Gir Lion Interpretation Centre,Sasan Gir,Junagadh,Gujarat,362135,8:00 AM,6:00 PM,girlionmuseum@gmail.com,+91-2877-285541,"Sasan Gir, Junagadh, Gujarat, 362135",21.170602,70.5963974
+Dibrugarh Tea Heritage Museum,AT Road,Dibrugarh,Assam,786001,10:00 AM,4:30 PM,teaheritage@gmail.com,+91-373-2300124,"AT Road, Dibrugarh, Assam, 786001",27.4870072,94.9089925
+Thar Desert Museum,Sam Road,Jaisalmer,Rajasthan,345001,9:00 AM,6:00 PM,tharmuseum@gmail.com,+91-2992-251461,"Sam Road, Jaisalmer, Rajasthan, 345001",26.8435043,70.5444484
+Gwalior Aviation Museum,Air Force Station,Gwalior,Madhya Pradesh,474001,9:30 AM,5:30 PM,aviationmuseum@gmail.com,+91-751-2482135,"Air Force Station, Gwalior, Madhya Pradesh, 474001",26.1748905,78.1450412
+Bamboo Research Centre Museum,Tripura University,Agartala,Tripura,799022,10:00 AM,5:00 PM,bamboomuseum@gmail.com,+91-381-2379815,"Tripura University, Agartala, Tripura, 799022",23.7617308,91.2641429
+Northeast Frontier Railway Museum,Maligaon,Guwahati,Assam,781011,10:00 AM,5:30 PM,nfrailmuseum@gmail.com,+91-361-2675218,"Maligaon, Guwahati, Assam, 781011",26.1503648,91.6959821
+Patkai Heritage Museum,Joyhing,Dibrugarh,Assam,786004,9:30 AM,4:00 PM,patkaimuseum@gmail.com,+91-373-2367894,"Joyhing, Dibrugarh, Assam, 786004",27.4705449,94.91246249999999
+Tango Monastery Museum,Tango Goenpa,Thimphu,Bhutan,11001,8:00 AM,5:00 PM,tangomuseum@gmail.com,+975-2-321564,"Tango Goenpa, Thimphu, Bhutan, 11001",27.471586,89.6386108
+Copper Craft Museum,Tamra Nagar,Almora,Uttarakhand,263601,10:00 AM,5:30 PM,coppercraft@gmail.com,+91-5962-231450,"Tamra Nagar, Almora, Uttarakhand, 263601",29.5892407,79.646666
+Gulf of Mannar Marine Museum,Beach Road,Rameswaram,Tamil Nadu,623526,9:00 AM,6:00 PM,gommuseum@gmail.com,+91-4573-241567,"Beach Road, Rameswaram, Tamil Nadu, 623526",9.287583699999999,79.3129488
+Panchmarhi Rock Art Museum,Cave Area,Pachmarhi,Madhya Pradesh,461881,9:30 AM,5:00 PM,rockartmuseum@gmail.com,+91-7578-252140,"Cave Area, Pachmarhi, Madhya Pradesh, 461881",22.4583866,78.4323268
+Dhokra Art Museum,Baripada Road,Mayurbhanj,Odisha,757001,10:00 AM,5:30 PM,dhokramuseum@gmail.com,+91-6792-252816,"Baripada Road, Mayurbhanj, Odisha, 757001",21.9170545,86.765098
+Darbhanga Palace Museum,Darbhanga House,Patna,Bihar,800004,10:00 AM,5:00 PM,darbhangamuseum@gmail.com,+91-612-2300127,"Darbhanga House, Patna, Bihar, 800004",25.6216476,85.1643816
+Kerala Spice Museum,Spice Garden Road,Thekkady,Kerala,685509,9:00 AM,5:30 PM,keralaspecies@gmail.com,+91-4869-224513,"Spice Garden Road, Thekkady, Kerala, 685509",9.605302,77.17200609999999
+Kotgarh Apple Heritage Centre,Thanedhar Road,Shimla,Himachal Pradesh,171202,10:00 AM,4:30 PM,appleheritage@gmail.com,+91-177-2736451,"Thanedhar Road, Shimla, Himachal Pradesh, 171202",31.2780453,77.4974992
+Wallace Bungalow Museum,Chinsurah Road,Barrackpore,West Bengal,700120,10:30 AM,5:00 PM,wallacebungalow@gmail.com,+91-33-25453678,"Chinsurah Road, Barrackpore, West Bengal, 700120",22.7766677,88.3712711
+Nanda Devi Conservation Museum,Mall Road,Joshimath,Uttarakhand,246443,9:00 AM,5:00 PM,nandamuseum@gmail.com,+91-1389-222164,"Mall Road, Joshimath, Uttarakhand, 246443",30.5561089,79.5616759
+Vedanthangal Bird Photography Gallery,Bird Sanctuary,Kanchipuram,Tamil Nadu,603104,7:00 AM,6:00 PM,vedanthangalgallery@gmail.com,+91-44-27491180,"Bird Sanctuary, Kanchipuram, Tamil Nadu, 603104",12.6813539,80.1986649
+Korku Tribal Museum,Tapti Valley,Khandwa,Madhya Pradesh,450001,10:00 AM,5:00 PM,korku.museum@gmail.com,+91-733-2224576,"Tapti Valley, Khandwa, Madhya Pradesh, 450001",21.8314037,76.3497612
+Naga Heritage Village Museum,Kisama,Kohima,Nagaland,797001,9:30 AM,4:30 PM,kisama.museum@gmail.com,+91-370-2243587,"Kisama, Kohima, Nagaland, 797001",25.616329,94.11440340000001
+Kisan Museum,IARI Campus,New Delhi,Delhi,110012,10:00 AM,5:30 PM,kisanmuseum@gmail.com,+91-11-25843214,"IARI Campus, New Delhi, Delhi, 110012",28.6411923,77.17073649999999
+Nathu La Pass War Memorial,Gangtok-Nathu La Road,East Sikkim,Sikkim,737101,8:00 AM,4:00 PM,nathulamemorial@gmail.com,+91-3592-201456,"Gangtok-Nathu La Road, East Sikkim, Sikkim, 737101",27.3287096,88.6117395
+Ranikhet Military Heritage Museum,Alma Mater Road,Ranikhet,Uttarakhand,263645,9:00 AM,5:00 PM,ranikhetmuseum@gmail.com,+91-5966-220175,"Alma Mater Road, Ranikhet, Uttarakhand, 263645",29.6433615,79.4321825
+Kargil Victory Museum,Dras Sector,Kargil,Ladakh,194103,9:00 AM,5:00 PM,kargilvictory@gmail.com,+91-1985-231026,"Dras Sector, Kargil, Ladakh, 194103",34.5393136126759,76.03334453216038
+Pangong Lake Interpretation Centre,Spangmik,Leh,Ladakh,194101,8:00 AM,6:00 PM,pangongcentre@gmail.com,+91-1982-252165,"Spangmik, Leh, Ladakh, 194101",33.9078735,78.45956439999999
+Konyak Heritage Museum,Mon Town,Mon,Nagaland,798621,9:00 AM,4:00 PM,konyakmuseum@gmail.com,+91-3861-220546,"Mon Town, Mon, Nagaland, 798621",26.733096,95.0615119
+Buddhist Art Museum Sirpur,Archaeological Site,Sirpur,Chhattisgarh,493445,10:00 AM,5:00 PM,sirpurbuddhist@gmail.com,+91-7721-222345,"Archaeological Site, Sirpur, Chhattisgarh, 493445",21.3443489,82.1903963
+Singpho Heritage Centre,Margherita Road,Tinsukia,Assam,786181,9:30 AM,4:30 PM,singphoheritage@gmail.com,+91-374-2360178,"Margherita Road, Tinsukia, Assam, 786181",27.2878747,95.6847279
+Ramsar Wetland Museum,Chilika Lake,Puri,Odisha,752001,9:00 AM,5:30 PM,chilika.museum@gmail.com,+91-6752-246518,"Chilika Lake, Puri, Odisha, 752001",19.7993698,85.8025373
+Nameri Interpretation Centre,Nameri National Park,Sonitpur,Assam,784110,8:00 AM,5:00 PM,namericentre@gmail.com,+91-3712-255423,"Nameri National Park, Sonitpur, Assam, 784110",26.9324008,92.8772163
+Indrayani River Valley Museum,Alandi Road,Pune,Maharashtra,411015,10:00 AM,5:30 PM,indrayanimuseum@gmail.com,+91-20-27037612,"Alandi Road, Pune, Maharashtra, 411015",18.6026649,73.8728186
+Neterwala Fire Temple Museum,J.D. Road,Mumbai,Maharashtra,400007,9:00 AM,1:00 PM,firetemplemuseum@gmail.com,+91-22-23631254,"J.D. Road, Mumbai, Maharashtra, 400007",18.9662667,72.8134569
+Kangpokpi Tribal Museum,Kangpokpi Town,Kangpokpi,Manipur,795129,9:30 AM,4:00 PM,kangpokpimuseum@gmail.com,+91-3871-273416,"Kangpokpi Town, Kangpokpi, Manipur, 795129",25.1519197,93.969963
+Himalayan Botanical Archives,Botanical Garden,Gangtok,Sikkim,737101,9:00 AM,5:00 PM,himalayanbotanical@gmail.com,+91-3592-223456,"Botanical Garden, Gangtok, Sikkim, 737101",27.3371364,88.6096575
+Jaitapur Marine Biodiversity Museum,Coastal Highway,Ratnagiri,Maharashtra,415616,9:30 AM,5:00 PM,jaitapurmuseum@gmail.com,+91-2352-223124,"Coastal Highway, Ratnagiri, Maharashtra, 415616",17.8260332,73.1026192
+Bekal Fort Heritage Museum,Fort Road,Kasaragod,Kerala,671316,9:00 AM,6:00 PM,bekalmuseum@gmail.com,+91-4994-253452,"Fort Road, Kasaragod, Kerala, 671316",12.496767,74.9885612
+Mumbai Textile Mill History Museum,Parel,Mumbai,Maharashtra,400012,10:30 AM,6:00 PM,textilehistory@gmail.com,+91-22-24192344,"Parel, Mumbai, Maharashtra, 400012",19.0035047,72.84183879999999
+Rewalsar Lake Cultural Centre,Lake Road,Rewalsar,Himachal Pradesh,175023,9:00 AM,6:00 PM,rewalsarheritage@gmail.com,+91-1905-235614,"Lake Road, Rewalsar, Himachal Pradesh, 175023",31.6321926,76.8331743
+Udayagiri Caves Interpretation Centre,Udayagiri Hills,Vidisha,Madhya Pradesh,464001,9:00 AM,5:30 PM,udayagirimuseum@gmail.com,+91-7592-234178,"Udayagiri Hills, Vidisha, Madhya Pradesh, 464001",23.5362783,77.772162
+Daringbadi Hill Culture Museum,Hill View Road,Kandhamal,Odisha,762104,10:00 AM,5:00 PM,daringbadimuseum@gmail.com,+91-6842-253416,"Hill View Road, Kandhamal, Odisha, 762104",19.8983701,84.05902900000001
+Malcolm Adiseshiah Economics Museum,Anna Salai,Chennai,Tamil Nadu,600002,10:00 AM,5:30 PM,economicsmuseum@gmail.com,+91-44-28412467,"Anna Salai, Chennai, Tamil Nadu, 600002",13.0649756,80.2664791
+Thol Bird Sanctuary Museum,Lake Area,Mehsana,Gujarat,384320,8:00 AM,6:00 PM,tholmuseum@gmail.com,+91-2762-272145,"Lake Area, Mehsana, Gujarat, 384320",23.5879607,72.36932519999999
+Sharavathi Valley Museum,Jog Road,Shivamogga,Karnataka,577301,9:30 AM,5:30 PM,sharavathimuseum@gmail.com,+91-8182-245613,"Jog Road, Shivamogga, Karnataka, 577301",13.8736178,75.7255192
+Karakoram Museum,Leh-Nubra Road,Khardung La,Ladakh,194101,9:00 AM,4:00 PM,karakorammuseum@gmail.com,+91-1982-267143,"Leh-Nubra Road, Khardung La, Ladakh, 194101",34.1525864,77.57705349999999
+Majuli Mask Making Heritage Centre,Auniati Satra,Majuli,Assam,785104,9:00 AM,4:30 PM,majulimasks@gmail.com,+91-3775-279124,"Auniati Satra, Majuli, Assam, 785104",26.9474676,94.19818289999999
+Chinese Fishing Net Heritage Museum,Fort Kochi,Kochi,Kerala,682001,9:00 AM,6:00 PM,chinesefishingnets@gmail.com,+91-484-2217456,"Fort Kochi, Kochi, Kerala, 682001",9.9657787,76.2421147
+Krishna Valley Civilization Museum,Krishna River Bank,Sangli,Maharashtra,416416,10:00 AM,5:30 PM,krishnavalley@gmail.com,+91-233-2378145,"Krishna River Bank, Sangli, Maharashtra, 416416",16.8523973,74.5814773
+Coffee Museum Chikmagalur,Coffee Board Road,Chikmagalur,Karnataka,577101,9:30 AM,5:30 PM,coffeemuseum@gmail.com,+91-8262-230156,"Coffee Board Road, Chikmagalur, Karnataka, 577101",13.3418464,75.8099261
+Himalayan Wolf Conservation Centre,Wildlife Complex,Pithoragarh,Uttarakhand,262501,9:00 AM,5:00 PM,wolfdisplay@gmail.com,+91-5964-225143,"Wildlife Complex, Pithoragarh, Uttarakhand, 262501",29.5828604,80.2181884
+Boat Building Heritage Museum,Creek Road,Mandvi,Gujarat,370465,10:00 AM,6:00 PM,boatbuildingmuseum@gmail.com,+91-2834-223417,"Creek Road, Mandvi, Gujarat, 370465",22.833334,69.3554783
+Sambalpur Handloom Museum,Textile Park,Sambalpur,Odisha,768002,10:00 AM,5:30 PM,sambalpurhandloom@gmail.com,+91-663-2548721,"Textile Park, Sambalpur, Odisha, 768002",21.4747989,83.96993479999999
+Living Root Bridge Museum,Mawlynnong Village,East Khasi Hills,Meghalaya,793109,9:00 AM,4:30 PM,rootbridgemuseum@gmail.com,+91-3637-282146,"Mawlynnong Village, East Khasi Hills, Meghalaya, 793109",25.2017637,91.9160305
+Rajputana Arms Museum,Umaid Heritage,Jodhpur,Rajasthan,342006,10:00 AM,5:00 PM,rajputanaarms@gmail.com,+91-291-2512151,"Umaid Heritage, Jodhpur, Rajasthan, 342006",26.2871485,73.05782239999999
+Wildlife Crime Control Bureau Museum,CBI Colony,New Delhi,Delhi,110003,10:00 AM,5:30 PM,wccbmuseum@gmail.com,+91-11-23093456,"CBI Colony, New Delhi, Delhi, 110003",28.5916468,77.2317863
+Palani Hill Interpretation Centre,Ghat Road,Dindigul,Tamil Nadu,624601,8:00 AM,6:00 PM,palanimuseum@gmail.com,+91-4545-242617,"Ghat Road, Dindigul, Tamil Nadu, 624601",10.4305192,77.55047789999999
+Loktak Lake Floating Museum,Phumdi Island,Moirang,Manipur,795133,9:30 AM,4:30 PM,loktakmuseum@gmail.com,+91-385-2452178,"Phumdi Island, Moirang, Manipur, 795133",24.5003543,93.7759378
+Tirthan Valley Conservation Museum,Great Himalayan National Park,Kullu,Himachal Pradesh,175123,9:00 AM,5:00 PM,tirthanmuseum@gmail.com,+91-1902-245176,"Great Himalayan National Park, Kullu, Himachal Pradesh, 175123",31.7985414,77.51601339999999
+Aranmula Mirror Crafts Museum,Aranmula Village,Pathanamthitta,Kerala,689533,9:00 AM,5:30 PM,aranmulamirrors@gmail.com,+91-468-2216743,"Aranmula Village, Pathanamthitta, Kerala, 689533",9.3230681,76.69035699999999
+Barefoot College Museum,Tilonia Village,Ajmer,Rajasthan,305816,10:00 AM,5:00 PM,barefootmuseum@gmail.com,+91-1463-288210,"Tilonia Village, Ajmer, Rajasthan, 305816",26.6515192,74.9369522
+Kali Tiger Reserve Interpretation Centre,Dandeli,Uttara Kannada,Karnataka,581325,8:30 AM,5:30 PM,kalitiger@gmail.com,+91-8284-231476,"Dandeli, Uttara Kannada, Karnataka, 581325",15.2361191,74.6172819
+Maithili Art Museum,Darbhanga Road,Madhubani,Bihar,847211,10:00 AM,5:30 PM,maithiliartmuseum@gmail.com,+91-6276-222415,"Darbhanga Road, Madhubani, Bihar, 847211",26.1488656,85.9078971
+Nila River Valley Museum,Palghat Highway,Thrissur,Kerala,680001,10:00 AM,5:00 PM,nilavalley@gmail.com,+91-487-2420176,"Palghat Highway, Thrissur, Kerala, 680001",10.5231372,76.2217176
+Konkan Railway Heritage Gallery,Ratnagiri Station,Ratnagiri,Maharashtra,415612,9:00 AM,6:00 PM,konkanrailgallery@gmail.com,+91-2352-228143,"Ratnagiri Station, Ratnagiri, Maharashtra, 415612",17.0036568,73.3583032
+Little Rann Wildlife Interpretation Centre,Wild Ass Sanctuary,Kutch,Gujarat,370001,8:00 AM,6:00 PM,littlerann@gmail.com,+91-2822-220146,"Wild Ass Sanctuary, Kutch, Gujarat, 370001",23.7337326,69.8597406
+Larji Hydroelectric Project Museum,Project Site,Mandi,Himachal Pradesh,175121,10:00 AM,5:00 PM,larjimuseum@gmail.com,+91-1905-235471,"Project Site, Mandi, Himachal Pradesh, 175121",31.7768279,77.2175223
+Chenab Valley Heritage Museum,Kishtwar Road,Doda,Jammu & Kashmir,182202,10:00 AM,4:30 PM,chenabmuseum@gmail.com,+91-1996-233175,"Kishtwar Road, Doda, Jammu & Kashmir, 182202",33.1457497,75.5480491
+Nongkhnum Island Ethnographic Museum,Nongkhnum,West Khasi Hills,Meghalaya,793119,9:30 AM,4:30 PM,nongkhnummuseum@gmail.com,+91-3654-280176,"Nongkhnum, West Khasi Hills, Meghalaya, 793119",25.4695652,91.2619726
+Bhojpuri Folk Museum,Ara Road,Arrah,Bihar,802301,10:00 AM,5:00 PM,bhojpurifolkmuseum@gmail.com,+91-6182-233416,"Ara Road, Arrah, Bihar, 802301",25.5560009,84.6603751
+Namdapha Biodiversity Museum,Miao Gate,Changlang,Arunachal Pradesh,792122,9:00 AM,4:30 PM,namdaphamuseum@gmail.com,+91-3807-222148,"Miao Gate, Changlang, Arunachal Pradesh, 792122",27.504786,96.3211277
+Silk Route Heritage Museum,Nathu La Road,Gangtok,Sikkim,737101,9:30 AM,4:30 PM,silkroutemuseum@gmail.com,+91-3592-286145,"Nathu La Road, Gangtok, Sikkim, 737101",27.3287096,88.6117395
+Kalinga Maritime Museum,Marine Drive Road,Paradeep,Odisha,754142,10:00 AM,5:30 PM,kalingamaritime@gmail.com,+91-6722-222176,"Marine Drive Road, Paradeep, Odisha, 754142",20.3105116,86.63087589999999
+Darjeeling Himalayan Railway Museum,Railway Station,Darjeeling,West Bengal,734101,9:00 AM,5:00 PM,toyrailmuseum@gmail.com,+91-354-2254167,"Railway Station, Darjeeling, West Bengal, 734101",27.03804,88.26301
+Khongjom War Memorial Museum,Kheba Hills,Thoubal,Manipur,795138,10:00 AM,4:30 PM,khongjommemorial@gmail.com,+91-3848-222143,"Kheba Hills, Thoubal, Manipur, 795138",24.6415766,93.9991818
+Pin Valley Wildlife Museum,Spiti Valley,Lahaul and Spiti,Himachal Pradesh,172114,9:00 AM,4:30 PM,pinvalleymuseum@gmail.com,+91-1906-233142,"Spiti Valley, Lahaul and Spiti, Himachal Pradesh, 172114",32.246137,78.034916
+Arunachal Bamboo & Cane Museum,Papum Pare,Itanagar,Arunachal Pradesh,791111,10:00 AM,4:00 PM,bamboocraft@gmail.com,+91-360-2217685,"Papum Pare, Itanagar, Arunachal Pradesh, 791111",27.0843682,93.6053163
+Ziro Apatani Heritage Museum,Hapoli Town,Lower Subansiri,Arunachal Pradesh,791120,9:30 AM,4:30 PM,apatanimuseum@gmail.com,+91-3788-224578,"Hapoli Town, Lower Subansiri, Arunachal Pradesh, 791120",27.5381739,93.8174768
+Indira Point Maritime Museum,Campbell Bay,Great Nicobar,Andaman & Nicobar,744302,8:30 AM,5:00 PM,indirapointmuseum@gmail.com,+91-3193-265412,"Campbell Bay, Great Nicobar, Andaman & Nicobar, 744302",7.007565,93.90478490000001
+Munsyari Glacier Museum,Johar Valley,Pithoragarh,Uttarakhand,262554,9:00 AM,5:00 PM,glaciermuseum@gmail.com,+91-5964-235147,"Johar Valley, Pithoragarh, Uttarakhand, 262554",30.340214,80.16051
+Roopkund Trek Interpretation Centre,Wan Village,Chamoli,Uttarakhand,246444,8:00 AM,6:00 PM,roopkundmuseum@gmail.com,+91-1372-252143,"Wan Village, Chamoli, Uttarakhand, 246444",30.2049721,79.6181594
+Malana Heritage Museum,Malana Village,Kullu,Himachal Pradesh,175105,9:00 AM,5:00 PM,malanamuseum@gmail.com,+91-1902-253142,"Malana Village, Kullu, Himachal Pradesh, 175105",32.0347802,77.2550035
+Vaishali Archaeological Museum,Excavation Site,Vaishali,Bihar,844101,10:00 AM,5:00 PM,vaishalimuseum@gmail.com,+91-6224-222145,"Excavation Site, Vaishali, Bihar, 844101",25.6440634,85.22048509999999
+Chettinad Heritage Centre,Karaikudi,Sivaganga,Tamil Nadu,630002,9:30 AM,5:30 PM,chettinadheritage@gmail.com,+91-4565-235147,"Karaikudi, Sivaganga, Tamil Nadu, 630002",10.0873968,78.78445479999999
+Sea Turtle Conservation Museum,Rushikulya Beach,Ganjam,Odisha,761026,8:00 AM,6:00 PM,turtlemuseum@gmail.com,+91-6811-254178,"Rushikulya Beach, Ganjam, Odisha, 761026",19.4171704,85.01295089999999
+Bhil Tribal Art Museum,Jhabua Road,Alirajpur,Madhya Pradesh,457887,10:00 AM,5:00 PM,bhiltribalart@gmail.com,+91-7394-233147,"Jhabua Road, Alirajpur, Madhya Pradesh, 457887",22.5363919,74.3449689
+Saraikela Chhau Dance Museum,Saraikela Town,Saraikela,Jharkhand,833220,10:00 AM,5:30 PM,chhaumuseum@gmail.com,+91-6597-234178,"Saraikela Town, Saraikela, Jharkhand, 833220",22.7023346,85.92789929999999
+Himalayan Botany Museum,Nainital Road,Ranikhet,Uttarakhand,263645,9:30 AM,5:00 PM,botanicalmuseum@gmail.com,+91-5966-220143,"Nainital Road, Ranikhet, Uttarakhand, 263645",29.6433615,79.4321825
+Vembanad Lake Heritage Centre,Kumarakom,Kottayam,Kerala,686563,9:00 AM,6:00 PM,vembanadmuseum@gmail.com,+91-481-2524176,"Kumarakom, Kottayam, Kerala, 686563",9.6090187,76.4331698
+Birhor Tribal Museum,Ranchi Road,Hazaribagh,Jharkhand,825301,10:00 AM,5:00 PM,birhormuseum@gmail.com,+91-6546-265413,"Ranchi Road, Hazaribagh, Jharkhand, 825301",23.977724,85.3740928
+Keoladeo Bird Art Gallery,Bharatpur,Bharatpur,Rajasthan,302001,8:00 AM,6:00 PM,keoladeoart@gmail.com,+91-5644-225147,"Bharatpur, Bharatpur, Rajasthan, 302001",27.2151863,77.5029996
+Sandakphu Himalayan View Museum,Sandakphu Peak,Darjeeling,West Bengal,734101,8:00 AM,4:30 PM,sandakphumuseum@gmail.com,+91-354-2254178,"Sandakphu Peak, Darjeeling, West Bengal, 734101",27.0371351,88.0762233
+Tabo Monastery Museum,Spiti Valley,Lahaul and Spiti,Himachal Pradesh,172113,9:00 AM,5:00 PM,tabomuseum@gmail.com,+91-1906-237145,"Spiti Valley, Lahaul and Spiti, Himachal Pradesh, 172113",32.2218687,78.3387066
+Rajaji National Park Interpretation Centre,Chilla Range,Haridwar,Uttarakhand,249401,8:30 AM,5:30 PM,rajajimuseum@gmail.com,+91-1334-266174,"Chilla Range, Haridwar, Uttarakhand, 249401",29.976812,78.2154489
+Bhimbetka Ancient Art Museum,Bhimbetka Site,Raisen,Madhya Pradesh,464551,9:00 AM,5:00 PM,bhimbetkarock@gmail.com,+91-755-2677145,"Bhimbetka Site, Raisen, Madhya Pradesh, 464551",23.3327329,77.7823973
+Pench Tiger Museum,Turia Gate,Seoni,Madhya Pradesh,480661,8:00 AM,5:30 PM,penchtigermuseum@gmail.com,+91-7695-232147,"Turia Gate, Seoni, Madhya Pradesh, 480661",22.0868691,79.5434841
+Khajjiar Lake Heritage Centre,Mini Switzerland,Chamba,Himachal Pradesh,176314,9:00 AM,6:00 PM,khajjiarlake@gmail.com,+91-1899-236147,"Mini Switzerland, Chamba, Himachal Pradesh, 176314",32.5454945,76.0559598
+Lepakshi Craft Museum,Lepakshi Village,Anantapur,Andhra Pradesh,515331,9:30 AM,5:30 PM,lepakshicraft@gmail.com,+91-8554-286174,"Lepakshi Village, Anantapur, Andhra Pradesh, 515331",13.8039436,77.60771969999999
+Betla Tribal Life Museum,Betla National Park,Latehar,Jharkhand,822121,8:30 AM,5:00 PM,betlatribal@gmail.com,+91-6565-233147,"Betla National Park, Latehar, Jharkhand, 822121",23.8856486,84.1923982
+Himalayan Toy Train Museum,Toy Train Station,Shimla,Himachal Pradesh,171001,9:00 AM,6:00 PM,toytrainmuseum@gmail.com,+91-177-2652147,"Toy Train Station, Shimla, Himachal Pradesh, 171001",31.1011641,77.1743983
+Tondi Point Marine Museum,Tondi Beach,Ramanathapuram,Tamil Nadu,623517,9:00 AM,5:30 PM,tondimuseum@gmail.com,+91-4567-240176,"Tondi Beach, Ramanathapuram, Tamil Nadu, 623517",9.2515529,78.7872876
+Mechuka Valley Culture Centre,Along Road,Shi-Yomi,Arunachal Pradesh,791001,9:30 AM,4:00 PM,mechukamuseum@gmail.com,+91-3792-222147,"Along Road, Shi-Yomi, Arunachal Pradesh, 791001",28.1627836,94.8054142
+Mishmi Hills Heritage Museum,Lower Dibang,Roing,Arunachal Pradesh,792110,9:00 AM,4:30 PM,mishmimuseum@gmail.com,+91-3803-222178,"Lower Dibang, Roing, Arunachal Pradesh, 792110",28.1178597,95.8225911
+Singalila National Park Museum,Singalila Ridge,Darjeeling,West Bengal,734219,8:00 AM,4:00 PM,singalilamuseum@gmail.com,+91-354-2253147,"Singalila Ridge, Darjeeling, West Bengal, 734219",27.1559594,88.0097385
+Living Khari Baoli Spice Museum,Old Delhi,New Delhi,Delhi,110006,10:00 AM,7:00 PM,spicemuseum@gmail.com,+91-11-23674578,"Old Delhi, New Delhi, Delhi, 110006",28.6562814,77.2321071
+Red Panda Conservation Centre,Pangthang,Gangtok,Sikkim,737101,9:00 AM,4:30 PM,redpandacentre@gmail.com,+91-3592-251423,"Pangthang, Gangtok, Sikkim, 737101",27.3371364,88.6096575
+Eastern Naval Command Maritime Museum,Beach Road,Visakhapatnam,Andhra Pradesh,530002,9:00 AM,6:00 PM,encmuseum@gmail.com,+91-891-2754178,"Beach Road, Visakhapatnam, Andhra Pradesh, 530002",17.7070908,83.311953
+Eravikulam Mountain Goat Centre,Munnar Road,Idukki,Kerala,685612,8:00 AM,5:30 PM,mountaingoatcentre@gmail.com,+91-4865-263147,"Munnar Road, Idukki, Kerala, 685612",10.0552239,77.0523748
+Chilika Lagoon Interpretation Centre,Satapada,Puri,Odisha,752002,9:00 AM,5:00 PM,chilikalagoon@gmail.com,+91-6752-262147,"Satapada, Puri, Odisha, 752002",19.7636226,85.5963512
+Bandhavgarh Cave Paintings Museum,Tala Range,Umaria,Madhya Pradesh,484661,8:30 AM,5:30 PM,bandhavgarhcaves@gmail.com,+91-7653-222143,"Tala Range, Umaria, Madhya Pradesh, 484661",23.7251695,81.02301489999999
+Lachen Snow Leopard Centre,North Sikkim Highway,North Sikkim,Sikkim,737116,9:00 AM,4:30 PM,snowleopardcentre@gmail.com,+91-3592-255147,"North Sikkim Highway, North Sikkim, Sikkim, 737116",27.5143614,88.5825624
+Kinnauri Shawl Making Museum,Reckong Peo,Kinnaur,Himachal Pradesh,172107,10:00 AM,5:00 PM,kinnaurishawl@gmail.com,+91-1786-222147,"Reckong Peo, Kinnaur, Himachal Pradesh, 172107",31.5390437,78.2675478
+Lambasingi Mist Valley Museum,Chintapalli Road,Visakhapatnam,Andhra Pradesh,531111,9:00 AM,5:00 PM,mistvalley@gmail.com,+91-8936-245174,"Chintapalli Road, Visakhapatnam, Andhra Pradesh, 531111",17.8563286,82.4152434
+Hogenakkal Falls Tribal Museum,River View Road,Dharmapuri,Tamil Nadu,636810,9:30 AM,5:30 PM,hogenakkalmuseum@gmail.com,+91-4342-245176,"River View Road, Dharmapuri, Tamil Nadu, 636810",12.1088913,77.8578908
+Garo Hills Butterfly Museum,Tura Peak Road,West Garo Hills,Meghalaya,794001,9:00 AM,4:30 PM,butterflymuseum@gmail.com,+91-3651-235147,"Tura Peak Road, West Garo Hills, Meghalaya, 794001",25.5067538,90.22525429999999
+Jawai Leopard Conservation Museum,Bera Village,Pali,Rajasthan,306126,8:30 AM,6:00 PM,jawaimuseum@gmail.com,+91-2934-236174,"Bera Village, Pali, Rajasthan, 306126",24.9980404,73.17669630000002
+Tipam Fossil Park Museum,Naharkatiya,Dibrugarh,Assam,786610,10:00 AM,4:30 PM,tipamfossil@gmail.com,+91-374-2368174,"Naharkatiya, Dibrugarh, Assam, 786610",27.2862086,95.32575399999999
+Chopta Himalayan Herbs Museum,Tungnath Road,Rudraprayag,Uttarakhand,246472,9:00 AM,5:00 PM,himalayanherbsmuseum@gmail.com,+91-1364-233147,"Tungnath Road, Rudraprayag, Uttarakhand, 246472",30.4885019,79.21677079999999
+Phawngpui Blue Mountain Museum,Blue Mountain,Lawngtlai,Mizoram,796891,9:30 AM,4:00 PM,bluemountainmuseum@gmail.com,+91-3835-233147,"Blue Mountain, Lawngtlai, Mizoram, 796891",22.5320875,92.8990711
+Andaman Cellular Jail Art Gallery,Atlanta Point,Port Blair,Andaman & Nicobar,744101,9:00 AM,5:00 PM,cellulargallery@gmail.com,+91-3192-232147,"Atlanta Point, Port Blair, Andaman & Nicobar, 744101",11.6731406,92.7462517
+Shyok Valley Heritage Centre,Nubra Valley,Leh,Ladakh,194401,9:00 AM,5:00 PM,shyokvalley@gmail.com,+91-1982-267134,"Nubra Valley, Leh, Ladakh, 194401",34.6863146,77.567288
+Kamarup Koch Heritage Museum,Kokrajhar Town,Kokrajhar,Assam,783370,10:00 AM,4:30 PM,kochheritage@gmail.com,+91-3661-276147,"Kokrajhar Town, Kokrajhar, Assam, 783370",26.4021196,90.27056789999999
+Dhankar Monastery Museum,Spiti Valley,Lahaul and Spiti,Himachal Pradesh,172114,9:00 AM,5:00 PM,dhankarmuseum@gmail.com,+91-1906-245147,"Spiti Valley, Lahaul and Spiti, Himachal Pradesh, 172114",32.246137,78.034916
+Kausani Gandhi Ashram Museum,Kausani Town,Bageshwar,Uttarakhand,263639,9:30 AM,5:30 PM,kausanigandhiashram@gmail.com,+91-5962-258147,"Kausani Town, Bageshwar, Uttarakhand, 263639",29.8445269,79.6038842
+Gorichen Peak Mountaineering Museum,Bomdila Road,West Kameng,Arunachal Pradesh,790001,9:00 AM,4:30 PM,gorichenpeak@gmail.com,+91-3782-233147,"Bomdila Road, West Kameng, Arunachal Pradesh, 790001",27.2644943,92.4159308
+Kariega Bronze Casting Museum,Karaikkal Beach Road,Karaikal,Puducherry,609602,10:00 AM,5:30 PM,bronzecasting@gmail.com,+91-4368-236147,"Karaikkal Beach Road, Karaikal, Puducherry, 609602",10.9120324,79.83652029999999
+Nuranang Falls Museum,Tawang Valley,Tawang,Arunachal Pradesh,790104,9:00 AM,5:00 PM,nuranangfalls@gmail.com,+91-3794-224178,"Tawang Valley, Tawang, Arunachal Pradesh, 790104",27.6077271,91.851343
+Malshej Ghat Wildlife Museum,Ghats Road,Thane,Maharashtra,421403,8:30 AM,5:30 PM,malshejmuseum@gmail.com,+91-2148-275147,"Ghats Road, Thane, Maharashtra, 421403",19.3623485,73.5005111
+Kishangarh Marble Museum,Marble City,Ajmer,Rajasthan,305801,10:00 AM,5:00 PM,kishangarh.marble@gmail.com,+91-1463-245176,"Marble City, Ajmer, Rajasthan, 305801",26.6142616,74.86471999999999
+Chandoli National Park Museum,Krishna Valley,Sangli,Maharashtra,415408,9:00 AM,5:30 PM,chandolimuseum@gmail.com,+91-233-2376148,"Krishna Valley, Sangli, Maharashtra, 415408",16.9639862,74.10050439999999
+Zanskar Valley Buddhist Museum,Padum Town,Kargil,Ladakh,194302,9:30 AM,4:30 PM,zanskarvallery@gmail.com,+91-1985-242178,"Padum Town, Kargil, Ladakh, 194302",33.4628013,76.8785819
+Idukki Arch Dam Museum,Dam Site,Idukki,Kerala,685602,9:00 AM,6:00 PM,idukkiarchdam@gmail.com,+91-486-2232147,"Dam Site, Idukki, Kerala, 685602",9.847484,76.9817413
+Tawang War Memorial Heritage Museum,Se La Pass Road,Tawang,Arunachal Pradesh,790104,9:00 AM,4:30 PM,tawangmemorial@gmail.com,+91-3794-222148,"Se La Pass Road, Tawang, Arunachal Pradesh, 790104",27.6077271,91.851343
+Mudumalai Elephant Conservation Centre,Theppakadu,Nilgiris,Tamil Nadu,643211,8:30 AM,5:30 PM,mudumalaielephants@gmail.com,+91-423-2526174,"Theppakadu, Nilgiris, Tamil Nadu, 643211",11.5797991,76.5827767
+Panchgani Table Land Museum,Table Land Road,Satara,Maharashtra,412805,9:00 AM,6:00 PM,tablelandmuseum@gmail.com,+91-2168-243176,"Table Land Road, Satara, Maharashtra, 412805",17.9245178,73.8050361
+Barmer Desert Craft Museum,Barmer Fort,Barmer,Rajasthan,344001,10:00 AM,5:30 PM,barmercraft@gmail.com,+91-2982-245176,"Barmer Fort, Barmer, Rajasthan, 344001",25.741283,71.3859401
+Walong War Memorial Museum,Lohit Valley,Anjaw,Arunachal Pradesh,792104,9:30 AM,4:00 PM,walongwar@gmail.com,+91-3801-237145,"Lohit Valley, Anjaw, Arunachal Pradesh, 792104",28.0359962,96.83509989999999
+Vansda National Park Museum,Vansda,Navsari,Gujarat,396590,8:30 AM,5:30 PM,vansdamuseum@gmail.com,+91-2637-235147,"Vansda, Navsari, Gujarat, 396590",20.847261,73.3354993
+Zuluk Silk Route Museum,Old Silk Route,East Sikkim,Sikkim,737131,9:00 AM,4:30 PM,zulukmuseum@gmail.com,+91-3592-256174,"Old Silk Route, East Sikkim, Sikkim, 737131",27.2518354,88.77741619999999
+Pulicat Lake Bird Sanctuary Museum,Pulicat Village,Tiruvallur,Tamil Nadu,601206,8:00 AM,6:00 PM,pulicatmuseum@gmail.com,+91-44-27984176,"Pulicat Village, Tiruvallur, Tamil Nadu, 601206",13.4177382,80.3185252
+Chail Palace Heritage Museum,Palace Estate,Solan,Himachal Pradesh,173217,9:30 AM,5:30 PM,chailpalacemuseum@gmail.com,+91-1792-248176,"Palace Estate, Solan, Himachal Pradesh, 173217",30.9084245,77.09990309999999
+Binsar Wildlife Museum,Forest Rest House,Almora,Uttarakhand,263651,9:00 AM,5:00 PM,binsarwildlife@gmail.com,+91-5962-251478,"Forest Rest House, Almora, Uttarakhand, 263651",29.5933274,79.5470091
+Chopta Valley Folk Art Museum,Tungnath Road,Rudraprayag,Uttarakhand,246472,10:00 AM,5:00 PM,choptaart@gmail.com,+91-1364-248176,"Tungnath Road, Rudraprayag, Uttarakhand, 246472",30.4885019,79.21677079999999
+Kotagiri Tea Museum,Dibrugarh Tea Heritage Museum,AT Road,Dibrugarh,Assam,786001,10:00 AM,4:30 PM,"teaheritage@gmail.com,+91-373-2300124","Dibrugarh Tea Heritage Museum, AT Road, Dibrugarh, Assam",27.4870072,94.9089925
