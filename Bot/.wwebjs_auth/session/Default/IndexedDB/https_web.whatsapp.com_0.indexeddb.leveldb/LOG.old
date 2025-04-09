@@ -1,13 +1,11 @@
-2025/04/09-22:01:13.124 8703 Reusing MANIFEST /Users/anujrishutiwari/Developer/github/SellOut/Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/04/09-22:01:13.125 8703 Recovering log #100
-2025/04/09-22:01:13.152 8703 Reusing old log /Users/anujrishutiwari/Developer/github/SellOut/Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000100.log 
-2025/04/09-22:01:15.468 16203 Level-0 table #105: started
-2025/04/09-22:01:15.478 16203 Level-0 table #105: 471728 bytes OK
-2025/04/09-22:01:15.486 16203 Delete type=0 #100
-2025/04/09-22:01:15.487 16203 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/04/09-22:01:17.785 16203 Compacting 1@1 + 1@2 files
-2025/04/09-22:01:17.862 16203 Generated table #106@1: 49888 keys, 2083505 bytes
-2025/04/09-22:01:17.862 16203 Compacted 1@1 + 1@2 files => 2083505 bytes
-2025/04/09-22:01:17.870 16203 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/09-22:01:17.870 16203 Delete type=2 #102
-2025/04/09-22:01:17.870 16203 Delete type=2 #105
+2025/04/09-23:02:02.958 b303 Reusing MANIFEST /Users/anujrishutiwari/Developer/github/SellOut/Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/09-23:02:02.958 b303 Recovering log #53
+2025/04/09-23:02:02.960 b303 Reusing old log /Users/anujrishutiwari/Developer/github/SellOut/Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000053.log 
+2025/04/09-23:02:05.581 a503 Level-0 table #59: started
+2025/04/09-23:02:05.586 a503 Level-0 table #59: 27081 bytes OK
+2025/04/09-23:02:05.594 a503 Delete type=0 #53
+2025/04/09-23:02:05.594 a503 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/09-23:02:07.925 b603 Compacting 1@1 + 1@2 files
+2025/04/09-23:02:07.974 b603 Generated table #60@1: 34193 keys, 1499467 bytes
+2025/04/09-23:02:07.974 b603 Compacted 1@1 + 1@2 files => 1499467 bytes
+2025/04/09-23:02:07.981 b603 compacted to: files[ 0 0 1 0 0 0 0 ]

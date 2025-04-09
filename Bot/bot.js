@@ -125,7 +125,7 @@ client.on("message", async (message) => {
             `*Hours:* ${booking.openingHours} - ${booking.closingHours}\n` +
             `*Contact:* ${booking.phoneNumber}\n` +
             `*Booking ID:* ${booking._id}\n` +
-            `*Booked by:* ${data.username}\n` +
+            // `*Booked by:* ${data.username}\n` +
             `*Date:* ${new Date(booking.createdAt).toLocaleString()}\n\n` +
             `Please show the QR code below at the museum entrance:`;
 
