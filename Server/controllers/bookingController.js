@@ -1,14 +1,38 @@
 const Booking = require("../models/Booking");
 const QRCode = require("qrcode");
+const User = require("../models/User");
 
 exports.bookMuseumTicket = async (req, res) => {
-  const { museumName, museumPincode, museumAddress } = req.body;
+  const {
+    museumName,
+    museumPincode,
+    museumAddress,
+    city,
+    state,
+    openingHours,
+    closingHours,
+    contactEmail,
+    phoneNumber,
+    fullAddress,
+  } = req.body;
+
   try {
+    // Get user information
+    const user = await User.findById(req.user._id);
+
     const booking = await Booking.create({
       user: req.user._id,
+      username: user.name,
       museumName,
       museumPincode,
       museumAddress,
+      city,
+      state,
+      openingHours,
+      closingHours,
+      contactEmail,
+      phoneNumber,
+      fullAddress,
     });
 
     const qrData = JSON.stringify({
@@ -16,6 +40,7 @@ exports.bookMuseumTicket = async (req, res) => {
       museumName,
       museumPincode,
       userId: req.user._id.toString(),
+      username: user.name,
       timestamp: new Date(),
     });
 
