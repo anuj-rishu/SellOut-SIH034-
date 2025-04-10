@@ -4,9 +4,8 @@ const config = require("./config/config");
 
 const client = new Client({
   authStrategy: new LocalAuth(),
-  puppeteer: {
+   puppeteer: {
     headless: true,
-    executablePath: '/usr/bin/google-chrome',  // Use system Chrome
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
