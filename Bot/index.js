@@ -2,6 +2,7 @@ const client = require("./client");
 const commandHandler = require("./handlers/commandHandler");
 const conversationHandler = require("./handlers/conversationHandler");
 const userStore = require("./store/userStore");
+require('dotenv').config();
 
 client.on("message", async (message) => {
   const userId = message.from;
