@@ -1,0 +1,36 @@
+name: Deploy to EC2
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/ec2_key.pem
+          chmod 600 ~/.ssh/ec2_key.pem
+          ssh-keyscan -H ${{ secrets.EC2_HOST }} >> ~/.ssh/known_hosts
+      
+      - name: Deploy to EC2
+        run: |
+          ssh -i ~/.ssh/ec2_key.pem ${{ secrets.EC2_USERNAME }}@${{ secrets.EC2_HOST }} '
+            mkdir -p ~/SellOut
+            cd ~/SellOut
+            git pull origin main || git clone https://github.com/anuj-rishu/SellOut .
+            
+            # Install dependencies
+            npm install
+            
+            # Setup environment variables
+            echo "${{ secrets.ENV_FILE }}" > .env
+            
+            # Restart the bot with PM2
+            pm2 restart sellout-bot || pm2 start index.js --name sellout-bot
+          '
