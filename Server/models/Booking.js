@@ -22,5 +22,13 @@ const bookingSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
   },
+  verified: {
+    type: Boolean,
+    default: false,
+  },
+  verifiedAt: {
+    type: Date,
+    default: null,
+  },
 });
 module.exports = mongoose.model("Booking", bookingSchema);
