@@ -2,6 +2,7 @@ const Booking = require("../models/Booking");
 const QRCode = require("qrcode");
 const User = require("../models/User");
 const twilio = require('twilio');
+const { sendBookingConfirmationEmail } = require('../utils/emailService');
 
 // Initialize Twilio client
 const twilioClient = twilio(
@@ -69,31 +70,64 @@ exports.bookMuseumTicket = async (req, res) => {
     booking.qrCodeRaw = base64Data;
     await booking.save();
 
-    // Send SMS confirmation via Twilio
+    // Send confirmation notifications in parallel
+    const notificationPromises = [];
+
+    // Send SMS confirmation via Twilio if mobile is available
     if (user.mobile) {
-      try {
-        
-        let mobileNumber = user.mobile;
-        if (!mobileNumber.startsWith('+')) {
-          
-          mobileNumber = `+91${mobileNumber.replace(/^0/, '')}`;
+      const smsPromise = (async () => {
+        try {
+          // Format mobile number (ensure it has country code)
+          let mobileNumber = user.mobile;
+          if (!mobileNumber.startsWith('+')) {
+            // Assuming Indian numbers, add +91 prefix if not present
+            mobileNumber = `+91${mobileNumber.replace(/^0/, '')}`;
+          }
+
+          // Shortened message to fit within trial limits
+          const message = await twilioClient.messages.create({
+            body: `Booking confirmed: ${museumName}, ${visitDate}, ${visitTime}, ${numberOfVisitors} visitor(s). Ref: ${booking._id.toString().slice(-6)}`,
+            from: twilioPhoneNumber,
+            to: mobileNumber
+          });
+
+          console.log(`SMS sent successfully. SID: ${message.sid}`);
+          booking.smsSent = true;
+        } catch (smsError) {
+          console.error('Error sending SMS:', smsError);
+          // Don't fail the booking if SMS fails
         }
-
-       
-        const message = await twilioClient.messages.create({
-          body: `Booking confirmed: ${museumName}, ${visitDate}, ${visitTime}, ${numberOfVisitors} visitor(s). Ref: ${booking._id.toString().slice(-6)}`,
-          from: twilioPhoneNumber,
-          to: mobileNumber
-        });
-
-        console.log(`SMS sent successfully. SID: ${message.sid}`);
-        booking.smsSent = true;
-        await booking.save();
-      } catch (smsError) {
-        console.error('Error sending SMS:', smsError);
-        
-      }
+      })();
+      notificationPromises.push(smsPromise);
     }
+
+    // Send email confirmation if email is available
+    if (user.email) {
+      const emailPromise = (async () => {
+        try {
+          const emailResult = await sendBookingConfirmationEmail(
+            user.email,
+            booking,
+            qrCodeDataURL
+          );
+          
+          if (emailResult.success) {
+            console.log(`Email sent successfully to ${user.email}`);
+            booking.emailSent = true;
+          }
+        } catch (emailError) {
+          console.error('Error sending email:', emailError);
+          // Don't fail the booking if email fails
+        }
+      })();
+      notificationPromises.push(emailPromise);
+    }
+
+    // Wait for all notifications to be processed
+    await Promise.all(notificationPromises);
+    
+    // Save the notification status
+    await booking.save();
 
     res.status(201).json({
       success: true,
@@ -104,7 +138,7 @@ exports.bookMuseumTicket = async (req, res) => {
   }
 };
 
-
+// Rest of your controller methods remain the same
 exports.getUserBookings = async (req, res) => {
   try {
     const bookings = await Booking.find({ user: req.user._id }).sort({ createdAt: -1 });
@@ -119,7 +153,6 @@ exports.getUserBookings = async (req, res) => {
   }
 };
 
-
 exports.getBookingById = async (req, res) => {
   try {
     const booking = await Booking.findById(req.params.id);
@@ -127,7 +160,6 @@ exports.getBookingById = async (req, res) => {
     if (!booking) {
       return res.status(404).json({ message: "Booking not found" });
     }
-    
     
     if (booking.user.toString() !== req.user._id.toString()) {
       return res.status(403).json({ message: "You are not authorized to view this booking" });
@@ -142,7 +174,6 @@ exports.getBookingById = async (req, res) => {
   }
 };
 
-
 exports.cancelBooking = async (req, res) => {
   try {
     const booking = await Booking.findById(req.params.id);
@@ -151,7 +182,6 @@ exports.cancelBooking = async (req, res) => {
       return res.status(404).json({ message: "Booking not found" });
     }
     
-   
     if (booking.user.toString() !== req.user._id.toString()) {
       return res.status(403).json({ message: "You are not authorized to cancel this booking" });
     }
@@ -166,7 +196,6 @@ exports.cancelBooking = async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 };
-
 
 exports.verifyBooking = async (req, res) => {
   try {
@@ -186,6 +215,76 @@ exports.verifyBooking = async (req, res) => {
       success: true,
       message: "Booking verified successfully",
       booking,
+    });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// Add a new method for resending confirmations
+exports.resendConfirmation = async (req, res) => {
+  try {
+    const booking = await Booking.findById(req.params.id);
+    
+    if (!booking) {
+      return res.status(404).json({ message: "Booking not found" });
+    }
+    
+    if (booking.user.toString() !== req.user._id.toString()) {
+      return res.status(403).json({ message: "You are not authorized to resend this booking confirmation" });
+    }
+    
+    const user = await User.findById(req.user._id);
+    const notifications = [];
+    
+    // Resend email if requested
+    if (req.body.email && user.email) {
+      try {
+        const emailResult = await sendBookingConfirmationEmail(
+          user.email,
+          booking,
+          booking.qrCode
+        );
+        
+        if (emailResult.success) {
+          booking.emailSent = true;
+          notifications.push("Email sent successfully");
+        }
+      } catch (error) {
+        console.error("Error resending email:", error);
+        notifications.push("Failed to send email");
+      }
+    }
+    
+    // Resend SMS if requested
+    if (req.body.sms && user.mobile) {
+      try {
+        let mobileNumber = user.mobile;
+        if (!mobileNumber.startsWith('+')) {
+          mobileNumber = `+91${mobileNumber.replace(/^0/, '')}`;
+        }
+        
+        const message = await twilioClient.messages.create({
+          body: `Booking confirmed: ${booking.museumName}, ${booking.visitDate}, ${booking.visitTime}, ${booking.numberOfVisitors} visitor(s). Ref: ${booking._id.toString().slice(-6)}`,
+          from: twilioPhoneNumber,
+          to: mobileNumber
+        });
+        
+        booking.smsSent = true;
+        notifications.push("SMS sent successfully");
+      } catch (error) {
+        console.error("Error resending SMS:", error);
+        notifications.push("Failed to send SMS");
+      }
+    }
+    
+    await booking.save();
+    
+    res.status(200).json({
+      success: true,
+      message: "Confirmation resent successfully",
+      notifications,
+      booking
     });
   } catch (error) {
     res.status(500).json({ message: error.message });
