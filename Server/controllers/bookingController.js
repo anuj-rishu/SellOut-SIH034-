@@ -14,6 +14,9 @@ exports.bookMuseumTicket = async (req, res) => {
     contactEmail,
     phoneNumber,
     fullAddress,
+    visitDate,
+    visitTime,
+    numberOfVisitors,
   } = req.body;
 
   try {
@@ -33,6 +36,9 @@ exports.bookMuseumTicket = async (req, res) => {
       contactEmail,
       phoneNumber,
       fullAddress,
+      visitDate,
+      visitTime,
+      numberOfVisitors: numberOfVisitors || 1,
     });
 
     const qrData = JSON.stringify({
@@ -41,6 +47,9 @@ exports.bookMuseumTicket = async (req, res) => {
       museumPincode,
       userId: req.user._id.toString(),
       username: user.name,
+      visitDate,
+      visitTime,
+      numberOfVisitors: numberOfVisitors || 1,
       timestamp: new Date(),
     });
 
