@@ -12,7 +12,7 @@ const bookingSchema = new mongoose.Schema({
   contactEmail: { type: String },
   phoneNumber: { type: String },
   fullAddress: { type: String },
-  visitDate: { type: Date, required: true },
+  visitDate: { type: Date},
   visitTime: { type: String, required: true },
   numberOfVisitors: { type: Number, required: true, default: 1 },
   qrCode: { type: String },
